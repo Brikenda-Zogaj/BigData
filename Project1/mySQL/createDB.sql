@@ -1,0 +1,2 @@
+CREATE DATABASE mondialDB;
+USE mondialDB;
