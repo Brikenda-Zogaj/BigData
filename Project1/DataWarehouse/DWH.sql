@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS DWH_mondial;
+USE DWH_mondial;
