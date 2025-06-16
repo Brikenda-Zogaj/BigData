@@ -1,3 +1,4 @@
+--GRESA
 USE mondialDB;
 SELECT DISTINCT r.name AS river_name, c.name AS country_name
 FROM river r
