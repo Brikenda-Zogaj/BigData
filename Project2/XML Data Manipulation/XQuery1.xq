@@ -1,3 +1,5 @@
+//SYZANA GRESA
+
 for $prov in doc("C:\Users\dell\Downloads\mondial-database-main\mondial-database-main\mondial.xml")//province[@country='CDN']
 let $capitalId := $prov/@capital
 let $capital := $prov/city[@id=$capitalId]
