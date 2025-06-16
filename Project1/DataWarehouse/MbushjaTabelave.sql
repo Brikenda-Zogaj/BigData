@@ -1,3 +1,4 @@
+//YLLKA
 INSERT INTO country_continent (CountryCode, Continent)
 SELECT e.Country, c.Name
 FROM mondial.encompasses e
