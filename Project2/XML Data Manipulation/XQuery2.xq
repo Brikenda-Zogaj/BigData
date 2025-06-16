@@ -1,3 +1,4 @@
+//SYZANA GRESA
 let $doc := doc("C:/Users/dell/Downloads/mondial-database-main/mondial-database-main/mondial.xml")
 
 for $sea in $doc//sea
