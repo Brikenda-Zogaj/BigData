@@ -1,3 +1,5 @@
+//YLLKA
+
 CREATE TABLE Dim_Country (
   CountryID VARCHAR(4) PRIMARY KEY,
   CountryName VARCHAR(100),
