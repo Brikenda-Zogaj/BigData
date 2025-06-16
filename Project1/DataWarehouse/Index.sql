@@ -1,3 +1,5 @@
+//YLLKA
+
 CREATE INDEX idx_country_id ON Dim_Country(CountryID);
 CREATE INDEX idx_country_name ON Dim_Country(CountryName);
 
