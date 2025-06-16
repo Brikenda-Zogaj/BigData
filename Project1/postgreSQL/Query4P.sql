@@ -1,3 +1,4 @@
+--HAKI
 SELECT DISTINCT s.Name
 FROM Sea s
 
