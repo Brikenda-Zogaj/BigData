@@ -1,0 +1,1775 @@
+"city","province","country","river","lake","sea"
+"Shkodër","Albania","AL",NULL,"Lake Skutari",NULL
+"Durrës","Albania","AL",NULL,NULL,"Mediterranean Sea"
+"Vlorë","Albania","AL",NULL,NULL,"Mediterranean Sea"
+"Kavala","Anatolikis Makedonias kai Thrakis","GR",NULL,NULL,"Mediterranean Sea"
+"Athina","Attikis","GR",NULL,NULL,"Mediterranean Sea"
+"Peiraias","Attikis","GR",NULL,NULL,"Mediterranean Sea"
+"Patra","Dytikis Elladas","GR",NULL,NULL,"Mediterranean Sea"
+"Kerkyra","Ionion Nison","GR",NULL,NULL,"Mediterranean Sea"
+"Thessaloniki","Kentrikis Makedonias","GR",NULL,NULL,"Mediterranean Sea"
+"Iraklio","Kritis","GR",NULL,NULL,"Mediterranean Sea"
+"Chania","Kritis","GR",NULL,NULL,"Mediterranean Sea"
+"Ermoupoli","Notioy Aigaioy","GR",NULL,NULL,"Mediterranean Sea"
+"Rhodes","Notioy Aigaioy","GR",NULL,NULL,"Mediterranean Sea"
+"Chalkida","Stereas Elladas","GR",NULL,NULL,"Mediterranean Sea"
+"Volos","Thessalias","GR",NULL,NULL,"Mediterranean Sea"
+"Mytilini","Boreioy Aigaioy","GR",NULL,NULL,"Mediterranean Sea"
+"Larnaka","Cyprus","CY",NULL,NULL,"Mediterranean Sea"
+"Lemesos","Cyprus","CY",NULL,NULL,"Mediterranean Sea"
+"Skopje","North Macedonia","MK","Vardar",NULL,NULL
+"Beograd","Serbia","SRB","Donau",NULL,NULL
+"Beograd","Serbia","SRB","Save",NULL,NULL
+"Novi Sad","Serbia","SRB","Donau",NULL,NULL
+"Kragujevac","Serbia","SRB","Southern Morava",NULL,NULL
+"Niš","Serbia","SRB","Southern Morava",NULL,NULL
+"Podgorica","Montenegro","MNE","Moraca",NULL,NULL
+"Andorra la Vella","Andorra","AND","Valira",NULL,NULL
+"Paris","Île-de-France","F","Seine",NULL,NULL
+"Paris","Île-de-France","F","Marne",NULL,NULL
+"Boulogne-Billancourt","Île-de-France","F","Seine",NULL,NULL
+"Argenteuil","Île-de-France","F","Seine",NULL,NULL
+"Saint-Denis","Île-de-France","F","Seine",NULL,NULL
+"Lyon","Auvergne-Rhône-Alpes","F","Rhone",NULL,NULL
+"Lyon","Auvergne-Rhône-Alpes","F","Saone",NULL,NULL
+"Grenoble","Auvergne-Rhône-Alpes","F","Isere",NULL,NULL
+"Villeurbanne","Auvergne-Rhône-Alpes","F","Rhone",NULL,NULL
+"Bordeaux","Nouvelle-Aquitaine","F","Garonne",NULL,NULL
+"Limoges","Nouvelle-Aquitaine","F","Vienne",NULL,NULL
+"Amiens","Hauts-de-France","F","Somme",NULL,NULL
+"Calais","Hauts-de-France","F",NULL,NULL,"North Sea"
+"Marseille","Provence-Alpes-Côte d'Azur","F",NULL,NULL,"Mediterranean Sea"
+"Nice","Provence-Alpes-Côte d'Azur","F",NULL,NULL,"Mediterranean Sea"
+"Toulon","Provence-Alpes-Côte d'Azur","F",NULL,NULL,"Mediterranean Sea"
+"Rennes","Bretagne","F","Vilaine",NULL,NULL
+"Brest","Bretagne","F",NULL,NULL,"Atlantic Ocean"
+"Orléans","Centre-Val de Loire","F","Loire",NULL,NULL
+"Tours","Centre-Val de Loire","F","Loire",NULL,NULL
+"Nantes","Pays de la Loire","F","Loire",NULL,NULL
+"Angers","Pays de la Loire","F","Maine",NULL,NULL
+"Le Mans","Pays de la Loire","F","Sarthe",NULL,NULL
+"Strasbourg","Grand Est","F","Rhein",NULL,NULL
+"Strasbourg","Grand Est","F","Ill",NULL,NULL
+"Mulhouse","Grand Est","F","Ill",NULL,NULL
+"Metz","Grand Est","F","Mosel",NULL,NULL
+"Nancy","Grand Est","F","Meurthe",NULL,NULL
+"Rouen","Normandie","F","Seine",NULL,NULL
+"Le Havre","Normandie","F","Seine",NULL,"The Channel"
+"Besançon","Bourgogne-Franche-Comté","F","Doubs",NULL,NULL
+"Toulouse","Occitanie","F","Garonne",NULL,NULL
+"Perpignan","Occitanie","F",NULL,NULL,"Mediterranean Sea"
+"Ajaccio","Corse","F",NULL,NULL,"Mediterranean Sea"
+"Sevilla","Andalucía","E","Guadalquivir",NULL,NULL
+"Almería","Andalucía","E",NULL,NULL,"Mediterranean Sea"
+"Cádiz","Andalucía","E",NULL,NULL,"Atlantic Ocean"
+"Córdoba","Andalucía","E","Guadalquivir",NULL,NULL
+"Granada","Andalucía","E","Genil",NULL,NULL
+"Huelva","Andalucía","E",NULL,NULL,"Atlantic Ocean"
+"Málaga","Andalucía","E",NULL,NULL,"Mediterranean Sea"
+"Algeciras","Andalucía","E",NULL,NULL,"Mediterranean Sea"
+"Marbella","Andalucía","E",NULL,NULL,"Mediterranean Sea"
+"Zaragoza","Aragón","E","Ebro",NULL,NULL
+"Gijón","Asturias","E",NULL,NULL,"Atlantic Ocean"
+"Palma de Mallorca","Illes Balears","E",NULL,NULL,"Mediterranean Sea"
+"Bilbao","Euskadi","E",NULL,NULL,"Atlantic Ocean"
+"Barakaldo","Euskadi","E",NULL,NULL,"Atlantic Ocean"
+"Donostia","Euskadi","E",NULL,NULL,"Atlantic Ocean"
+"Santa Cruz de Tenerife","Canarias","E",NULL,NULL,"Atlantic Ocean"
+"San Cristóbal de La Laguna","Canarias","E",NULL,NULL,"Atlantic Ocean"
+"Las Palmas de Gran Canaria","Canarias","E",NULL,NULL,"Atlantic Ocean"
+"Telde","Canarias","E",NULL,NULL,"Atlantic Ocean"
+"Santander","Cantabria","E",NULL,NULL,"Atlantic Ocean"
+"Valladolid","Castilla y León","E","Douro",NULL,NULL
+"Toledo","Castilla-La Mancha","E","Tejo",NULL,NULL
+"Barcelona","Catalunya","E",NULL,NULL,"Mediterranean Sea"
+"Lleida","Catalunya","E","Segre",NULL,NULL
+"Tarragona","Catalunya","E",NULL,NULL,"Mediterranean Sea"
+"Badalona","Catalunya","E",NULL,NULL,"Mediterranean Sea"
+"Badajoz","Extremadura","E","Guadiana",NULL,NULL
+"A Coruña","Galicia","E",NULL,NULL,"Atlantic Ocean"
+"Vigo","Galicia","E",NULL,NULL,"Atlantic Ocean"
+"Ourense","Galicia","E","Mino",NULL,NULL
+"Torrejón de Ardoz","Madrid","E","Jarama",NULL,NULL
+"Murcia","Murcia","E","Segura",NULL,NULL
+"Cartagena","Murcia","E",NULL,NULL,"Mediterranean Sea"
+"Logroño","La Rioja","E","Ebro",NULL,NULL
+"Valencia","Valenciana","E","Turia",NULL,"Mediterranean Sea"
+"Alicante","Valenciana","E",NULL,NULL,"Mediterranean Sea"
+"Castellón de la Plana","Valenciana","E",NULL,NULL,"Mediterranean Sea"
+"Praha","Praha","CZ","Moldau",NULL,NULL
+"Praha","Praha","CZ","Berounka",NULL,NULL
+"České Budějovice","Jihočeský","CZ","Moldau",NULL,NULL
+"Brno","Jihomoravský","CZ","Svratka",NULL,NULL
+"Karlovy Vary","Karlovarský","CZ","Eger",NULL,NULL
+"Jihlava","Vysočina","CZ","Jihlava",NULL,NULL
+"Hradec Králové","Královéhradecký","CZ","Elbe",NULL,NULL
+"Liberec","Liberecký","CZ","Neiße",NULL,NULL
+"Ostrava","Moravskoslezský","CZ","Oder",NULL,NULL
+"Olomouc","Olomoucký","CZ","March",NULL,NULL
+"Pardubice","Pardubický","CZ","Elbe",NULL,NULL
+"Plzeň","Plzeňský","CZ","Berounka",NULL,NULL
+"Ústí nad Labem","Ústecký","CZ","Elbe",NULL,NULL
+"Bratislava","Bratislavský","SK","Donau",NULL,NULL
+"Bratislava","Bratislavský","SK","March",NULL,NULL
+"Banská Bystrica","Banskobystrický","SK","Hron",NULL,NULL
+"Žilina","Žilinský","SK","Waag",NULL,NULL
+"Košice","Košický","SK","Hernad",NULL,NULL
+"Prešov","Prešovský","SK","Torysa",NULL,NULL
+"Nitra","Nitriansky","SK","Nitra",NULL,NULL
+"Trenčín","Trenčiansky","SK","Waag",NULL,NULL
+"Stuttgart","Baden-Württemberg","D","Neckar",NULL,NULL
+"Mannheim","Baden-Württemberg","D","Rhein",NULL,NULL
+"Mannheim","Baden-Württemberg","D","Neckar",NULL,NULL
+"Karlsruhe","Baden-Württemberg","D","Rhein",NULL,NULL
+"Heidelberg","Baden-Württemberg","D","Neckar",NULL,NULL
+"Heilbronn","Baden-Württemberg","D","Neckar",NULL,NULL
+"Pforzheim","Baden-Württemberg","D","Enz",NULL,NULL
+"Ulm","Baden-Württemberg","D","Donau",NULL,NULL
+"Ulm","Baden-Württemberg","D","Iller",NULL,NULL
+"München","Bayern","D","Isar",NULL,NULL
+"Nürnberg","Bayern","D","Pegnitz",NULL,NULL
+"Augsburg","Bayern","D","Lech",NULL,NULL
+"Würzburg","Bayern","D","Main",NULL,NULL
+"Regensburg","Bayern","D","Donau",NULL,NULL
+"Regensburg","Bayern","D","Regen",NULL,NULL
+"Regensburg","Bayern","D","Naab",NULL,NULL
+"Ingolstadt","Bayern","D","Donau",NULL,NULL
+"Fürth","Bayern","D","Regnitz",NULL,NULL
+"Fürth","Bayern","D","Rednitz",NULL,NULL
+"Fürth","Bayern","D","Pegnitz",NULL,NULL
+"Erlangen","Bayern","D","Regnitz",NULL,NULL
+"Berlin","Berlin","D","Havel",NULL,NULL
+"Berlin","Berlin","D","Spree",NULL,NULL
+"Potsdam","Brandenburg","D","Havel",NULL,NULL
+"Cottbus","Brandenburg","D","Spree",NULL,NULL
+"Bremen","Bremen","D","Weser",NULL,NULL
+"Bremerhaven","Bremen","D","Weser",NULL,"North Sea"
+"Hamburg","Hamburg","D","Elbe",NULL,NULL
+"Wiesbaden","Hessen","D","Rhein",NULL,NULL
+"Wiesbaden","Hessen","D","Main",NULL,NULL
+"Frankfurt","Hessen","D","Main",NULL,NULL
+"Frankfurt","Hessen","D","Nidda",NULL,NULL
+"Kassel","Hessen","D","Fulda",NULL,NULL
+"Offenbach am Main","Hessen","D","Main",NULL,NULL
+"Rostock","Mecklenburg-Vorpommern","D",NULL,NULL,"Baltic Sea"
+"Hannover","Niedersachsen","D","Leine",NULL,NULL
+"Braunschweig","Niedersachsen","D","Oker",NULL,NULL
+"Osnabrück","Niedersachsen","D","Hase",NULL,NULL
+"Göttingen","Niedersachsen","D","Leine",NULL,NULL
+"Wolfsburg","Niedersachsen","D","Aller",NULL,NULL
+"Düsseldorf","Nordrhein-Westfalen","D","Rhein",NULL,NULL
+"Köln","Nordrhein-Westfalen","D","Rhein",NULL,NULL
+"Essen","Nordrhein-Westfalen","D","Emscher",NULL,NULL
+"Essen","Nordrhein-Westfalen","D","Ruhr",NULL,NULL
+"Dortmund","Nordrhein-Westfalen","D","Emscher",NULL,NULL
+"Dortmund","Nordrhein-Westfalen","D","Ruhr",NULL,NULL
+"Duisburg","Nordrhein-Westfalen","D","Rhein",NULL,NULL
+"Duisburg","Nordrhein-Westfalen","D","Ruhr",NULL,NULL
+"Bochum","Nordrhein-Westfalen","D","Ruhr",NULL,NULL
+"Wuppertal","Nordrhein-Westfalen","D","Wupper",NULL,NULL
+"Gelsenkirchen","Nordrhein-Westfalen","D","Emscher",NULL,NULL
+"Bonn","Nordrhein-Westfalen","D","Rhein",NULL,NULL
+"Krefeld","Nordrhein-Westfalen","D","Rhein",NULL,NULL
+"Oberhausen","Nordrhein-Westfalen","D","Emscher",NULL,NULL
+"Oberhausen","Nordrhein-Westfalen","D","Ruhr",NULL,NULL
+"Hagen","Nordrhein-Westfalen","D","Ruhr",NULL,NULL
+"Hamm","Nordrhein-Westfalen","D","Lippe",NULL,NULL
+"Herne","Nordrhein-Westfalen","D","Emscher",NULL,NULL
+"Mülheim","Nordrhein-Westfalen","D","Ruhr",NULL,NULL
+"Solingen","Nordrhein-Westfalen","D","Wupper",NULL,NULL
+"Leverkusen","Nordrhein-Westfalen","D","Rhein",NULL,NULL
+"Leverkusen","Nordrhein-Westfalen","D","Wupper",NULL,NULL
+"Neuss","Nordrhein-Westfalen","D","Rhein",NULL,NULL
+"Paderborn","Nordrhein-Westfalen","D","Lippe",NULL,NULL
+"Recklinghausen","Nordrhein-Westfalen","D","Emscher",NULL,NULL
+"Remscheid","Nordrhein-Westfalen","D","Wupper",NULL,NULL
+"Bottrop","Nordrhein-Westfalen","D","Emscher",NULL,NULL
+"Siegen","Nordrhein-Westfalen","D","Sieg",NULL,NULL
+"Witten","Nordrhein-Westfalen","D","Ruhr",NULL,NULL
+"Mainz","Rheinland-Pfalz","D","Rhein",NULL,NULL
+"Ludwigshafen","Rheinland-Pfalz","D","Rhein",NULL,NULL
+"Koblenz","Rheinland-Pfalz","D","Rhein",NULL,NULL
+"Koblenz","Rheinland-Pfalz","D","Mosel",NULL,NULL
+"Trier","Rheinland-Pfalz","D","Mosel",NULL,NULL
+"Saarbrücken","Saarland","D","Saar",NULL,NULL
+"Dresden","Sachsen","D","Elbe",NULL,NULL
+"Leipzig","Sachsen","D","Weiße Elster",NULL,NULL
+"Zwickau","Sachsen","D","Mulde",NULL,NULL
+"Magdeburg","Sachsen-Anhalt","D","Elbe",NULL,NULL
+"Halle","Sachsen-Anhalt","D","Saale",NULL,NULL
+"Halle","Sachsen-Anhalt","D","Weiße Elster",NULL,NULL
+"Kiel","Schleswig-Holstein","D",NULL,NULL,"Baltic Sea"
+"Lübeck","Schleswig-Holstein","D",NULL,NULL,"Baltic Sea"
+"Gera","Thüringen","D","Weiße Elster",NULL,NULL
+"Jena","Thüringen","D","Saale",NULL,NULL
+"Miskolc","Borsod-Abaúj-Zemplén","H","Sajó",NULL,NULL
+"Szeged","Csongrád","H","Tisza",NULL,NULL
+"Szeged","Csongrád","H","Mureș",NULL,NULL
+"Győr","Győr-Moson-Sopron","H","Raab",NULL,NULL
+"Szolnok","Jász-Nagykun-Szolnok","H","Tisza",NULL,NULL
+"Budapest","Budapest","H","Donau",NULL,NULL
+"Torino","Piemonte","I","Po",NULL,NULL
+"Aosta","Valle d'Aosta","I","Dora Baltea",NULL,NULL
+"Milano","Lombardia","I","Lambro",NULL,NULL
+"Monza","Lombardia","I","Lambro",NULL,NULL
+"Bolzano","Trentino-Alto Adige","I","Etsch",NULL,NULL
+"Trento","Trentino-Alto Adige","I","Etsch",NULL,NULL
+"Verona","Veneto","I","Etsch",NULL,NULL
+"Venézia","Veneto","I",NULL,NULL,"Mediterranean Sea"
+"Trieste","Friuli-Venezia Giulia","I",NULL,NULL,"Mediterranean Sea"
+"La Spezia","Liguria","I",NULL,NULL,"Mediterranean Sea"
+"Génova","Liguria","I",NULL,NULL,"Mediterranean Sea"
+"Piacenza","Emilia-Romagna","I","Po",NULL,NULL
+"Rímini","Emilia-Romagna","I",NULL,NULL,"Mediterranean Sea"
+"Livorno","Toscana","I",NULL,NULL,"Mediterranean Sea"
+"Pisa","Toscana","I","Arno",NULL,NULL
+"Firenze","Toscana","I","Arno",NULL,NULL
+"Ancona","Marche","I",NULL,NULL,"Mediterranean Sea"
+"Roma","Lazio","I","Tevere",NULL,NULL
+"Pescara","Abruzzo","I",NULL,NULL,"Mediterranean Sea"
+"Salerno","Campania","I",NULL,NULL,"Mediterranean Sea"
+"Nápoli","Campania","I",NULL,NULL,"Mediterranean Sea"
+"Torre del Greco","Campania","I",NULL,NULL,"Mediterranean Sea"
+"Bari","Puglia","I",NULL,NULL,"Mediterranean Sea"
+"Táranto","Puglia","I",NULL,NULL,"Mediterranean Sea"
+"Réggio di Calabria","Calabria","I",NULL,NULL,"Mediterranean Sea"
+"Palermo","Sicilia","I",NULL,NULL,"Mediterranean Sea"
+"Messina","Sicilia","I",NULL,NULL,"Mediterranean Sea"
+"Catánia","Sicilia","I",NULL,NULL,"Mediterranean Sea"
+"Siracusa","Sicilia","I",NULL,NULL,"Mediterranean Sea"
+"Cágliari","Sardegna","I",NULL,NULL,"Mediterranean Sea"
+"Aarau","Aargau","CH","Aare",NULL,NULL
+"Basel","Basel-Stadt","CH","Rhein",NULL,NULL
+"Basel","Basel-Stadt","CH","Birs",NULL,NULL
+"Bern","Bern","CH","Aare",NULL,NULL
+"Biel","Bern","CH",NULL,"Bielersee",NULL
+"Fribourg","Fribourg","CH","Saane",NULL,NULL
+"Genève","Genève","CH","Rhone","Lac Leman",NULL
+"Chur","Graubünden","CH","Rhein",NULL,NULL
+"Delemont","Jura","CH","Birs",NULL,NULL
+"Luzern","Luzern","CH","Reuss","Vierwaldstättersee",NULL
+"Samara","Samarskaya","R","Volga",NULL,NULL
+"Neuchatel","Neuchâtel","CH",NULL,"Lac de Neuchâtel",NULL
+"Schaffhausen","Schaffhausen","CH","Rhein",NULL,NULL
+"Solothurn","Solothurn","CH","Aare",NULL,NULL
+"Frauenfeld","Thurgau","CH","Thur",NULL,NULL
+"Bellinzona","Ticino","CH","Ticino",NULL,NULL
+"Lugano","Ticino","CH",NULL,"Lago di Lugano",NULL
+"Altdorf","Uri","CH","Reuss","Vierwaldstättersee",NULL
+"Sion","Valais","CH","Rhone",NULL,NULL
+"Lausanne","Vaud","CH",NULL,"Lac Leman",NULL
+"Zürich","Zürich","CH","Limmat","Zürichsee",NULL
+"Vaduz","Liechtenstein","FL","Rhein",NULL,NULL
+"Villach","Kärnten","A","Drau",NULL,NULL
+"Villach","Kärnten","A","Gail",NULL,NULL
+"Bregenz","Vorarlberg","A",NULL,"Bodensee",NULL
+"Wien","Wien","A","Donau",NULL,NULL
+"Linz","Oberösterreich","A","Donau",NULL,NULL
+"Innsbruck","Tirol","A","Inn",NULL,NULL
+"Lienz","Tirol","A","Drau",NULL,NULL
+"Graz","Steiermark","A","Mur",NULL,NULL
+"Salzburg","Salzburg","A","Salzach",NULL,NULL
+"Tallinn","Estonia","EST",NULL,NULL,"Baltic Sea"
+"Rīga","Latvia","LV","Daugava",NULL,"Baltic Sea"
+"Vilnius","Lithuania","LT","Neris",NULL,NULL
+"Kaunas","Lithuania","LT","Memel",NULL,NULL
+"Kaunas","Lithuania","LT","Neris",NULL,NULL
+"Klaipeda","Lithuania","LT",NULL,NULL,"Baltic Sea"
+"Brest","Brest","BY","Western Bug",NULL,NULL
+"Pinsk","Brest","BY","Prypjat",NULL,NULL
+"Vitebsk","Vitebsk","BY","Daugava",NULL,NULL
+"Orsha","Vitebsk","BY","Dnepr",NULL,NULL
+"Novopolotsk","Vitebsk","BY","Daugava",NULL,NULL
+"Gomel","Gomel","BY","Sozh",NULL,NULL
+"Mazyr","Gomel","BY","Prypjat",NULL,NULL
+"Grodno","Grodno","BY","Memel",NULL,NULL
+"Mahiljou","Mahiljou","BY","Dnepr",NULL,NULL
+"Bobruysk","Mahiljou","BY","Berezina",NULL,NULL
+"Barysaw","Minsk","BY","Berezina",NULL,NULL
+"Minsk","Minsk City","BY","Svislach",NULL,NULL
+"Wrocław","Dolnośląskie","PL","Oder",NULL,NULL
+"Bydgoszcz","Kujawsko-Pomorskie","PL","Weichsel",NULL,NULL
+"Toruń","Kujawsko-Pomorskie","PL","Weichsel",NULL,NULL
+"Grudziadz","Kujawsko-Pomorskie","PL","Weichsel",NULL,NULL
+"Włocławek","Kujawsko-Pomorskie","PL","Weichsel",NULL,NULL
+"Gorzów Wielkopolski","Lubuskie","PL","Warta",NULL,NULL
+"Kraków","Małopolskie","PL","Weichsel",NULL,NULL
+"Tarnów","Małopolskie","PL","Dunajec",NULL,NULL
+"Warszawa","Mazowieckie","PL","Weichsel",NULL,NULL
+"Płock","Mazowieckie","PL","Weichsel",NULL,NULL
+"Opole","Opolskie","PL","Oder",NULL,NULL
+"Gdańsk","Pomorskie","PL","Weichsel",NULL,"Baltic Sea"
+"Gdynia","Pomorskie","PL",NULL,NULL,"Baltic Sea"
+"Częstochowa","Śląskie","PL","Warta",NULL,NULL
+"Poznań","Wielkopolskie","PL","Warta",NULL,NULL
+"Szczecin","Zachodniopomorskie","PL","Oder",NULL,NULL
+"Cerkasy","Cerkaska","UA","Dnepr","Kremenchuk Reservoir",NULL
+"Cernihiv","Cernihivska","UA","Desna",NULL,NULL
+"Cernivci","Cernivecka","UA","Pruth",NULL,NULL
+"Cherson","Chersonska","UA","Dnepr","Kakhovka Reservoir",NULL
+"Chmelnytskyi","Chmelnytska","UA","SouthernBug",NULL,NULL
+"Dnipro","Dnipropetrovska","UA","Dnepr",NULL,NULL
+"Kryvyi Rih","Dnipropetrovska","UA","Inhulets",NULL,NULL
+"Kamianske","Dnipropetrovska","UA","Dnepr",NULL,NULL
+"Nikopol","Dnipropetrovska","UA",NULL,"Kakhovka Reservoir",NULL
+"Donetsk","Donetska","UA","Kalmius",NULL,NULL
+"Mariupol","Donetska","UA","Kalmius",NULL,"Sea of Azov"
+"Prypjat","Kyïvska","UA","Prypjat",NULL,NULL
+"Kropywnyzkyj","Kirovohradska","UA","Inhul",NULL,NULL
+"Sievierodonetsk","Luhanska","UA","Donets",NULL,NULL
+"Lysychansk","Luhanska","UA","Donets",NULL,NULL
+"Mykolaïv","Mykolaïvska","UA","SouthernBug",NULL,NULL
+"Mykolaïv","Mykolaïvska","UA","Inhul",NULL,NULL
+"Odesa","Odeska","UA",NULL,NULL,"Black Sea"
+"Poltava","Poltavska","UA","Vorskla",NULL,NULL
+"Kremenchuk","Poltavska","UA","Dnepr","Kremenchuk Reservoir",NULL
+"Sumy","Sumska","UA","Psel",NULL,NULL
+"Vinnytsia","Vinnytska","UA","SouthernBug",NULL,NULL
+"Lutsk","Volynska","UA","Styr",NULL,NULL
+"Zaporizhzhia","Zaporizka","UA","Dnepr",NULL,NULL
+"Berdiansk","Zaporizka","UA",NULL,NULL,"Sea of Azov"
+"Zytomyr","Zytomyrska","UA","Teteriv",NULL,NULL
+"Kerch","Krym","UA",NULL,NULL,"Black Sea"
+"Kerch","Krym","UA",NULL,NULL,"Sea of Azov"
+"Yevpatoria","Krym","UA",NULL,NULL,"Black Sea"
+"Kyïv","Kyïv","UA","Dnepr",NULL,NULL
+"Kyïv","Kyïv","UA","Desna",NULL,NULL
+"Sevastopol","Sevastopol","UA",NULL,NULL,"Black Sea"
+"Petrozavodsk","Karelia","R",NULL,"Ozero Onega",NULL
+"Syktyvkar","Komi","R","Vychegda",NULL,NULL
+"Arkhangelsk","Arkhangelskaya","R","Northern Dwina",NULL,"White Sea"
+"Severodvinsk","Arkhangelskaya","R","Northern Dwina",NULL,"White Sea"
+"Vologda","Vologodskaya","R","Suchona",NULL,NULL
+"Cherepovets","Vologodskaya","R",NULL,"Rybinsk Reservoir",NULL
+"Murmansk","Murmanskaya","R",NULL,NULL,"Barents Sea"
+"Kaliningrad","Kaliningradskaya","R",NULL,NULL,"Baltic Sea"
+"Sankt Peterburg","Sankt-Peterburg","R","Newa",NULL,"Baltic Sea"
+"Pskov","Pskovskaya","R",NULL,"Ozero Pskovskoje",NULL
+"Bryansk","Bryanskaya","R","Desna",NULL,NULL
+"Kaluga","Kaluzhskaya","R","Oka",NULL,NULL
+"Kostroma","Kostromskaya","R","Volga",NULL,NULL
+"Moskva","Moscow","R","Moskva",NULL,NULL
+"Žukovskij","Moskovskaya","R","Moskva",NULL,NULL
+"Ramenskoye","Moskovskaya","R","Moskva",NULL,NULL
+"Kolomna","Moskovskaya","R","Oka",NULL,NULL
+"Kolomna","Moskovskaya","R","Moskva",NULL,NULL
+"Serpuchov","Moskovskaya","R","Oka",NULL,NULL
+"Orel","Orlovskaya","R","Oka",NULL,NULL
+"Ryazan","Ryazanskaya","R","Oka",NULL,NULL
+"Smolensk","Smolenskaya","R","Dnepr",NULL,NULL
+"Tver","Tverskaya","R","Volga",NULL,NULL
+"Yaroslavl","Yaroslavskaya","R","Volga",NULL,NULL
+"Rybinsk","Yaroslavskaya","R","Volga","Rybinsk Reservoir",NULL
+"Cheboksary","Chuvashia","R","Volga",NULL,NULL
+"Novočeboksarsk","Chuvashia","R","Volga",NULL,NULL
+"Kirov","Kirovskaya","R","Vyatka",NULL,NULL
+"Nizhnii Novgorod","Nizhnii Novgorodskaya","R","Volga",NULL,NULL
+"Nizhnii Novgorod","Nizhnii Novgorodskaya","R","Oka",NULL,NULL
+"Dzeržinsk","Nizhnii Novgorodskaya","R","Oka",NULL,NULL
+"Belgorod","Belgorodskaya","R","Donets",NULL,NULL
+"Staryj Oskol","Belgorodskaya","R","Oskol",NULL,NULL
+"Voronezh","Voronezhskaya","R","Don",NULL,NULL
+"Kursk","Kurskaya","R","Seym",NULL,NULL
+"Jelec","Lipetskaya","R","Don",NULL,NULL
+"Kazan","Tatarstan","R","Volga",NULL,NULL
+"Naberezhnye Tchelny","Tatarstan","R","Kama","Lower Kama Reservoir",NULL
+"Nižnekamsk","Tatarstan","R","Kama",NULL,NULL
+"Astrakhan","Astrakhanskaya","R","Volga",NULL,NULL
+"Volgograd","Volgogradskaya","R","Volga",NULL,NULL
+"Volzhsky","Volgogradskaya","R","Volga",NULL,NULL
+"Kamyšin","Volgogradskaya","R","Volga",NULL,NULL
+"Tolyatti","Samarskaya","R",NULL,"Kuybyshev Reservoir",NULL
+"Syzran","Samarskaya","R","Volga",NULL,NULL
+"Novokujbyševsk","Samarskaya","R","Volga",NULL,NULL
+"Saratov","Saratovskaya","R","Volga",NULL,NULL
+"Balakovo","Saratovskaya","R","Volga",NULL,NULL
+"Ėngels","Saratovskaya","R","Volga",NULL,NULL
+"Ulyanovsk","Ulyanovskaya","R",NULL,"Kuybyshev Reservoir",NULL
+"Dimitrovgrad","Ulyanovskaya","R",NULL,"Kuybyshev Reservoir",NULL
+"Rostov-na-Donu","Rostovskaya","R","Don",NULL,NULL
+"Batajsk","Rostovskaya","R","Don",NULL,NULL
+"Taganrog","Rostovskaya","R",NULL,NULL,"Sea of Azov"
+"Volgodonsk","Rostovskaya","R","Don",NULL,NULL
+"Ufa","Bashkortostan","R","Belaya",NULL,NULL
+"Neftekamsk","Bashkortostan","R","Kama",NULL,NULL
+"Sterlitamak","Bashkortostan","R","Belaya",NULL,NULL
+"Salavat","Bashkortostan","R","Belaya",NULL,NULL
+"Sarapul","Udmurtskaya","R","Kama",NULL,NULL
+"Orenburg","Orenburgskaya","R","Ural",NULL,NULL
+"Orsk","Orenburgskaya","R","Ural",NULL,NULL
+"Perm","Permskij","R","Kama",NULL,NULL
+"Berezniki","Permskij","R","Kama",NULL,NULL
+"Makhachkala","Dagestan","R",NULL,"Caspian Sea",NULL
+"Derbent","Dagestan","R",NULL,"Caspian Sea",NULL
+"Kaspijsk","Dagestan","R",NULL,"Caspian Sea",NULL
+"Čerkessk","Karachayevo-Cherkesskaya","R","Kuban",NULL,NULL
+"Vladikavkaz","North Ossetia-Alania","R","Terek",NULL,NULL
+"Krasnodar","Krasnodarskiy","R","Kuban",NULL,NULL
+"Sochi","Krasnodarskiy","R",NULL,NULL,"Black Sea"
+"Novorossiysk","Krasnodarskiy","R",NULL,NULL,"Black Sea"
+"Armavir","Krasnodarskiy","R","Kuban",NULL,NULL
+"Nevinnomyssk","Stavropolskiy","R","Kuban",NULL,NULL
+"Kurgan","Kurganskaya","R","Tobol",NULL,NULL
+"Yekaterinburg","Sverdlovskaya","R","Isset",NULL,NULL
+"Nizhny Tagil","Sverdlovskaya","R","Tagil",NULL,NULL
+"Kamensk-Uralskij","Sverdlovskaya","R","Isset",NULL,NULL
+"Pervouralsk","Sverdlovskaya","R","Chusovaya",NULL,NULL
+"Chelyabinsk","Chelyabinskaya","R","Miass",NULL,NULL
+"Magnitogorsk","Chelyabinskaya","R","Ural",NULL,NULL
+"Miass","Chelyabinskaya","R","Miass",NULL,NULL
+"Gorno Altaysk","Altay","R","Katun",NULL,NULL
+"Barnaul","Altayskiy","R","Ob",NULL,NULL
+"Bijsk","Altayskiy","R","Katun",NULL,NULL
+"Kemerovo","Kemerovskaya","R","Tom",NULL,NULL
+"Novokuznetsk","Kemerovskaya","R","Tom",NULL,NULL
+"Novosibirsk","Novosibirskaya","R","Ob","Novosibirsk Reservoir",NULL
+"Berdsk","Novosibirskaya","R",NULL,"Novosibirsk Reservoir",NULL
+"Omsk","Omskaya","R","Irtysh",NULL,NULL
+"Tomsk","Tomskaya","R","Tom",NULL,NULL
+"Seversk","Tomskaya","R","Tom",NULL,NULL
+"Tyumen","Tyumenskaya","R","Tura",NULL,NULL
+"Tobolsk","Tyumenskaya","R","Irtysh",NULL,NULL
+"Tobolsk","Tyumenskaya","R","Tobol",NULL,NULL
+"Khanty Mansijsk","Tyumenskaya","R","Ob",NULL,NULL
+"Surgut","Tyumenskaya","R","Ob",NULL,NULL
+"Nizhnevartovsk","Tyumenskaya","R","Ob",NULL,NULL
+"Neftejugansk","Tyumenskaya","R","Ob",NULL,NULL
+"Salekhard","Tyumenskaya","R","Ob",NULL,NULL
+"Ulan-Ude","Buryatiya","R","Selenge",NULL,NULL
+"Kyzyl","Tyva","R","Yenissey",NULL,NULL
+"Kyzyl","Tyva","R","Little Yenissey",NULL,NULL
+"Abakan","Khakasiya","R","Yenissey",NULL,NULL
+"Krasnoyarsk","Krasnoyarsk","R","Yenissey",NULL,NULL
+"Norilsk","Krasnoyarsk","R","Pyasina",NULL,NULL
+"Ačinsk","Krasnoyarsk","R","Chulym",NULL,NULL
+"Irkutsk","Irkutskaya","R","Angara",NULL,NULL
+"Angarsk","Irkutskaya","R","Angara",NULL,NULL
+"Bratsk","Irkutskaya","R","Angara",NULL,NULL
+"Ust-Ilimsk","Irkutskaya","R","Angara",NULL,NULL
+"Chita","Zabaykalskiy","R","Ingoda",NULL,NULL
+"Yakutsk","Sakha","R","Lena",NULL,NULL
+"Anadyr","Chukotka","R","Anadyr",NULL,"Bering Sea"
+"Vladivostok","Primorskiy","R",NULL,NULL,"Sea of Japan"
+"Nachodka","Primorskiy","R",NULL,NULL,"Sea of Japan"
+"Khabarovsk","Khabarovskiy","R","Amur",NULL,NULL
+"Komsomolsk-na-Amure","Khabarovskiy","R","Amur",NULL,NULL
+"Blagoveščensk","Amurskaya","R","Amur",NULL,NULL
+"Petropavlovsk-Kamčatskij","Kamchatka","R",NULL,NULL,"Pacific Ocean"
+"Magadan","Magadanskaya","R",NULL,NULL,"Sea of Okhotsk"
+"Okhotsk","Magadanskaya","R",NULL,NULL,"Sea of Okhotsk"
+"Antwerpen","Antwerpen","B","Schelde",NULL,NULL
+"Gent","Oost-Vlaanderen","B","Schelde",NULL,NULL
+"Liège","Liège","B","Maas",NULL,NULL
+"Namur","Namur","B","Maas",NULL,NULL
+"Ostende","West-Vlaanderen","B",NULL,NULL,"North Sea"
+"Luxembourg","Luxembourg","L","Alzette",NULL,NULL
+"Arnhem","Gelderland","NL","Rhein",NULL,NULL
+"Nijmegen","Gelderland","NL","Rhein",NULL,NULL
+"Den Haag","Zuid-Holland","NL",NULL,NULL,"North Sea"
+"Rotterdam","Zuid-Holland","NL","Rhein",NULL,NULL
+"Dordrecht","Zuid-Holland","NL","Rhein",NULL,NULL
+"'s-Hertogenbosch","Noord-Brabant","NL","Maas",NULL,NULL
+"Maastricht","Limburg","NL","Maas",NULL,NULL
+"Ljubljana","Slovenia","SLO","Save",NULL,NULL
+"Maribor","Slovenia","SLO","Drau",NULL,NULL
+"Zagreb","Croatia","HR","Save",NULL,NULL
+"Split","Croatia","HR",NULL,NULL,"Mediterranean Sea"
+"Rijeka","Croatia","HR",NULL,NULL,"Mediterranean Sea"
+"Osijek","Croatia","HR","Drau",NULL,NULL
+"Zadar","Croatia","HR",NULL,NULL,"Mediterranean Sea"
+"Sarajevo","Federacija Bosne i Hercegovine","BIH","Bosna",NULL,NULL
+"Zenica","Federacija Bosne i Hercegovine","BIH","Bosna",NULL,NULL
+"Mostar","Federacija Bosne i Hercegovine","BIH","Neretva",NULL,NULL
+"Brčko","Brčko","BIH","Save",NULL,NULL
+"Sofia","Bulgaria","BG","Iskar",NULL,NULL
+"Plovdiv","Bulgaria","BG","Maritsa",NULL,NULL
+"Varna","Bulgaria","BG",NULL,NULL,"Black Sea"
+"Burgas","Bulgaria","BG",NULL,NULL,"Black Sea"
+"Ruse","Bulgaria","BG","Donau",NULL,NULL
+"Alba Iulia","Alba","RO","Mureș",NULL,NULL
+"Arad","Arad","RO","Mureș",NULL,NULL
+"Piteşti","Argeş","RO","Argeș",NULL,NULL
+"Brăila","Brăila","RO","Donau",NULL,NULL
+"Bucureşti","Bucureşti","RO","Dâmbovița",NULL,NULL
+"Calarasi","Călăraşi","RO","Donau",NULL,NULL
+"Cluj-Napoca","Cluj","RO","Somes",NULL,NULL
+"Constanţa","Constanţa","RO",NULL,NULL,"Black Sea"
+"Sfintu Gheorghe","Covasna","RO","Olt",NULL,NULL
+"Targoviste","Dâmboviţa","RO","Ialomița",NULL,NULL
+"Craiova","Dolj","RO","Jiu",NULL,NULL
+"Galaţi","Galaţi","RO","Donau",NULL,NULL
+"Galaţi","Galaţi","RO","Siret",NULL,NULL
+"Giurgiu","Giurgiu","RO","Donau",NULL,NULL
+"Tirgu Jiu","Gorj","RO","Jiu",NULL,NULL
+"Miercurea Ciuc","Harghita","RO","Olt",NULL,NULL
+"Deva","Hunedoara","RO","Mureș",NULL,NULL
+"Slobozia","Ialomiţa","RO","Ialomița",NULL,NULL
+"Baia Mare","Maramureş","RO","Somes",NULL,NULL
+"Drobeta-Turnu Severin","Mehedinţi","RO","Donau",NULL,NULL
+"Târgu Mureş","Mureş","RO","Mureș",NULL,NULL
+"Slatina","Olt","RO","Olt",NULL,NULL
+"Satu Mare","Satu-Mare","RO","Somes",NULL,NULL
+"Timişoara","Timiş","RO","Timiş",NULL,NULL
+"Tulcea","Tulcea","RO","Donau",NULL,NULL
+"Århus","Midtjylland","DK",NULL,NULL,"Kattegat"
+"Randers","Midtjylland","DK","Gudenå",NULL,"Kattegat"
+"Vejle","Syddanmark","DK",NULL,NULL,"Kattegat"
+"Esbjerg","Syddanmark","DK",NULL,NULL,"North Sea"
+"Copenhagen","Hovedstaden","DK",NULL,NULL,"Baltic Sea"
+"Helsingør","Hovedstaden","DK",NULL,NULL,"Kattegat"
+"Helsingør","Hovedstaden","DK",NULL,NULL,"Baltic Sea"
+"Ronne","Hovedstaden","DK",NULL,NULL,"Baltic Sea"
+"Reykjavik","Iceland","IS",NULL,NULL,"Atlantic Ocean"
+"Keflavik","Iceland","IS",NULL,NULL,"Atlantic Ocean"
+"Akureyri","Iceland","IS",NULL,NULL,"Greenland Sea"
+"Tórshavn","Faroe Islands","FO",NULL,NULL,"Norwegian Sea"
+"Dublin","Leinster","IRL",NULL,NULL,"Irish Sea"
+"Cork","Munster","IRL",NULL,NULL,"Atlantic Ocean"
+"Limerick","Munster","IRL","Shannon",NULL,NULL
+"Galway","Connacht","IRL",NULL,NULL,"Atlantic Ocean"
+"Mariehamn","Åland","SF",NULL,NULL,"Baltic Sea"
+"Lahti","Päijät-Häme","SF",NULL,"Päijänne",NULL
+"Tampere","Pirkanmaa","SF","Kokemäenjoki",NULL,NULL
+"Lappeenranta","Etelä-Karjala","SF",NULL,"Saimaa",NULL
+"Kouvola","Kymenlaakso","SF","Kymijoki",NULL,NULL
+"Rovaniemi","Lappia","SF","Ounasjoki",NULL,NULL
+"Rovaniemi","Lappia","SF","Kemijoki",NULL,NULL
+"Mikkeli","Etelä-Savo","SF",NULL,"Saimaa",NULL
+"Jyväskylä","Keski-Suomi","SF",NULL,"Päijänne",NULL
+"Oulu","Pohjois-Pohjanmaa","SF","Oulujoki",NULL,"Baltic Sea"
+"Kajaani","Kainuu","SF",NULL,"Oulujärvi",NULL
+"Pori","Satakunta","SF","Kokemäenjoki",NULL,NULL
+"Turku","Varsinais-Suomi","SF",NULL,NULL,"Baltic Sea"
+"Helsinki","Uusimaa","SF",NULL,NULL,"Baltic Sea"
+"Espoo","Uusimaa","SF",NULL,NULL,"Baltic Sea"
+"Vaasa","Pohjanmaa","SF",NULL,NULL,"Baltic Sea"
+"Kokkola","Keski-Pohjanmaa","SF",NULL,NULL,"Baltic Sea"
+"Oslo","Oslo","N",NULL,NULL,"Skagerrak"
+"Sandvika","Akershus","N",NULL,NULL,"Skagerrak"
+"Moss","Østfold","N",NULL,NULL,"Skagerrak"
+"Hamar","Hedmark","N",NULL,"Mjoesa-See",NULL
+"Lillehammer","Oppland","N",NULL,"Mjoesa-See",NULL
+"Tonsberg","Vestfold","N",NULL,NULL,"Skagerrak"
+"Arendal","Aust-Agder","N",NULL,NULL,"Skagerrak"
+"Kristiansand","Vest-Agder","N",NULL,NULL,"Skagerrak"
+"Stavanger","Rogaland","N",NULL,NULL,"North Sea"
+"Bergen","Hordaland","N",NULL,NULL,"North Sea"
+"Hermansverk","Sogn og Fjordane","N",NULL,NULL,"North Sea"
+"Molde","Møre og Romsdal","N",NULL,NULL,"Norwegian Sea"
+"Trondheim","Sør-Trøndelag","N",NULL,NULL,"Norwegian Sea"
+"Steinkjer","Nord-Trøndelag","N",NULL,NULL,"Norwegian Sea"
+"Narvik","Nordland","N",NULL,NULL,"Norwegian Sea"
+"Bodø","Nordland","N",NULL,NULL,"Norwegian Sea"
+"Tromsø","Troms","N",NULL,NULL,"Norwegian Sea"
+"Hammerfest","Finnmark","N",NULL,NULL,"Barents Sea"
+"Vadsø","Finnmark","N",NULL,NULL,"Barents Sea"
+"Göteborg","Västra Götaland","S","Götaälv",NULL,"Kattegat"
+"Vänersborg","Västra Götaland","S","Götaälv","Vänern",NULL
+"Mariestad","Västra Götaland","S",NULL,"Vänern",NULL
+"Karlskrona","Blekinge","S",NULL,NULL,"Baltic Sea"
+"Gävle","Gävleborg","S",NULL,NULL,"Baltic Sea"
+"Visby","Gotland","S",NULL,NULL,"Baltic Sea"
+"Halmstad","Halland","S",NULL,NULL,"Kattegat"
+"Jönköping","Jönköping","S",NULL,"Vättern",NULL
+"Kalmar","Kalmar","S",NULL,NULL,"Baltic Sea"
+"Malmö","Skåne","S",NULL,NULL,"Baltic Sea"
+"Helsingborg","Skåne","S",NULL,NULL,"Kattegat"
+"Lulea","Norrbotten","S",NULL,NULL,"Baltic Sea"
+"Stockholm","Stockholm","S",NULL,"Mälaren","Baltic Sea"
+"Huddinge","Stockholm","S",NULL,"Mälaren",NULL
+"Karlstad","Värmland","S","Klarälv","Vänern",NULL
+"Umeå","Västerbotten","S","Umeälv",NULL,NULL
+"Härnösand","Västernorrland","S",NULL,NULL,"Baltic Sea"
+"Västerås","Västmanland","S",NULL,"Mälaren",NULL
+"Monaco","Monaco","MC",NULL,NULL,"Mediterranean Sea"
+"Monte Carlo","Monaco","MC",NULL,NULL,"Mediterranean Sea"
+"Ceuta","Ceuta","CEU",NULL,NULL,"Mediterranean Sea"
+"Melilla","Melilla","MEL",NULL,NULL,"Mediterranean Sea"
+"Valletta","Malta","M",NULL,NULL,"Mediterranean Sea"
+"Douglas","Isle of Man","GBM",NULL,NULL,"Irish Sea"
+"Tiraspol","Moldova","MD","Dnister",NULL,NULL
+"Coimbra","Coimbra","P","Mondego",NULL,NULL
+"Faro","Algarve","P",NULL,NULL,"Atlantic Ocean"
+"Lisboa","Lisboa","P","Tejo",NULL,"Atlantic Ocean"
+"Barreiro","Lisboa","P","Tejo",NULL,NULL
+"Almada","Lisboa","P","Tejo",NULL,"Atlantic Ocean"
+"Oporto","Porto","P","Douro",NULL,"Atlantic Ocean"
+"Vila Nova de Gaia","Porto","P","Douro",NULL,"Atlantic Ocean"
+"Santarem","Santarem","P","Tejo",NULL,NULL
+"Setúbal","Setubal","P","Sado",NULL,"Atlantic Ocean"
+"Viana do Castelo","Viana do Castelo","P",NULL,NULL,"Atlantic Ocean"
+"Ponta Delgada","Azores","P",NULL,NULL,"Atlantic Ocean"
+"Funchal","Madeira","P",NULL,NULL,"Atlantic Ocean"
+"Longyearbyen","Svalbard","SVA",NULL,NULL,"Norwegian Sea"
+"Sunderland","North East England","GB",NULL,NULL,"North Sea"
+"Blackpool","North West England","GB",NULL,NULL,"Irish Sea"
+"Liverpool","North West England","GB",NULL,NULL,"Irish Sea"
+"Birkenhead","North West England","GB",NULL,NULL,"Irish Sea"
+"Leeds","Yorkshire and the Humber","GB","Aire",NULL,NULL
+"Bradford","Yorkshire and the Humber","GB","Aire",NULL,NULL
+"York","Yorkshire and the Humber","GB","Trent",NULL,NULL
+"Kingston upon Hull","Yorkshire and the Humber","GB",NULL,NULL,"North Sea"
+"Nottingham","East Midlands","GB","Trent",NULL,NULL
+"Stoke-on-Trent","West Midlands","GB","Trent",NULL,NULL
+"Worcester","West Midlands","GB","Severn",NULL,NULL
+"Southend-on-Sea","East of England","GB","Thames",NULL,"North Sea"
+"London","London","GB","Thames",NULL,NULL
+"Southampton","South East England","GB","Test",NULL,"The Channel"
+"Portsmouth","South East England","GB",NULL,NULL,"The Channel"
+"Milton Keynes","South East England","GB","Great Ouse",NULL,NULL
+"Brighton and Hove","South East England","GB",NULL,NULL,"The Channel"
+"Oxford","South East England","GB","Thames",NULL,NULL
+"Reading","South East England","GB","Thames",NULL,NULL
+"Eastbourne","South East England","GB",NULL,NULL,"The Channel"
+"Worthing","South East England","GB",NULL,NULL,"The Channel"
+"Bristol","South West England","GB","Severn",NULL,NULL
+"Bristol","South West England","GB","Avon",NULL,NULL
+"Bath","South West England","GB","Avon",NULL,NULL
+"Plymouth","South West England","GB",NULL,NULL,"The Channel"
+"Bournemouth","South West England","GB",NULL,NULL,"The Channel"
+"Poole","South West England","GB",NULL,NULL,"The Channel"
+"Gloucester","South West England","GB","Severn",NULL,NULL
+"Swindon","South West England","GB","Thames",NULL,NULL
+"Edinburgh","Scotland","GB",NULL,NULL,"North Sea"
+"Glasgow","Scotland","GB","Clyde",NULL,NULL
+"Aberdeen","Scotland","GB",NULL,NULL,"North Sea"
+"Dundee","Scotland","GB",NULL,NULL,"North Sea"
+"Kirkwall","Scotland","GB",NULL,NULL,"North Sea"
+"Lerwick","Scotland","GB",NULL,NULL,"North Sea"
+"Cardiff","Wales","GB",NULL,NULL,"Atlantic Ocean"
+"Swansea","Wales","GB",NULL,NULL,"Atlantic Ocean"
+"Newport","Wales","GB",NULL,NULL,"Atlantic Ocean"
+"Belfast","Northern Ireland","GB",NULL,NULL,"Irish Sea"
+"Gibraltar","Gibraltar","GBZ",NULL,NULL,"Mediterranean Sea"
+"Saint Peter Port","Guernsey","GBG",NULL,NULL,"The Channel"
+"Saint Helier","Jersey","GBJ",NULL,NULL,"The Channel"
+"Yerevan","Armenia","ARM","Hrazdan",NULL,NULL
+"Tbilisi","Georgia","GE","Kura",NULL,NULL
+"Kutaisi","Georgia","GE","Rioni",NULL,NULL
+"Batumi","Georgia","GE",NULL,NULL,"Black Sea"
+"Baku","Azerbaijan","AZ",NULL,"Caspian Sea",NULL
+"Sumgayit","Azerbaijan","AZ",NULL,"Caspian Sea",NULL
+"Adana","Adana","TR","Seyhan",NULL,NULL
+"Antalya","Antalya","TR",NULL,NULL,"Mediterranean Sea"
+"Bandırma","Balıkesir","TR",NULL,NULL,"Marmara Sea"
+"Canakkale","Çanakkale","TR",NULL,NULL,"Mediterranean Sea"
+"Canakkale","Çanakkale","TR",NULL,NULL,"Marmara Sea"
+"Diyarbakir","Diyarbakır","TR","Tigris",NULL,NULL
+"Edirne","Edirne","TR","Maritsa",NULL,NULL
+"Edirne","Edirne","TR","Tundzha",NULL,NULL
+"Erzincan","Erzincan","TR","Karasu",NULL,NULL
+"Erzurum","Erzurum","TR","Karasu",NULL,NULL
+"Nizip","Gaziantep","TR","Euphrat",NULL,NULL
+"Giresun","Giresun","TR",NULL,NULL,"Black Sea"
+"Iskenderun","Hatay","TR",NULL,NULL,"Mediterranean Sea"
+"Hatay","Hatay","TR","Orontes",NULL,NULL
+"Mersin","Mersin","TR",NULL,NULL,"Mediterranean Sea"
+"İstanbul","İstanbul","TR",NULL,NULL,"Black Sea"
+"İstanbul","İstanbul","TR",NULL,NULL,"Marmara Sea"
+"İzmir","İzmir","TR",NULL,NULL,"Mediterranean Sea"
+"Kirikkale","Kırıkkale","TR","Kızılırmak",NULL,NULL
+"Kocaeli","Kocaeli","TR",NULL,NULL,"Marmara Sea"
+"Gebze","Kocaeli","TR",NULL,NULL,"Marmara Sea"
+"Derince","Kocaeli","TR",NULL,NULL,"Marmara Sea"
+"Körfez","Kocaeli","TR",NULL,NULL,"Marmara Sea"
+"Gölcük","Kocaeli","TR",NULL,NULL,"Marmara Sea"
+"Mus","Muş","TR","Murat",NULL,NULL
+"Ordu","Ordu","TR",NULL,NULL,"Black Sea"
+"Rize","Rize","TR",NULL,NULL,"Black Sea"
+"Sakarya","Sakarya","TR","Sakarya",NULL,NULL
+"Samsun","Samsun","TR",NULL,NULL,"Black Sea"
+"Sinop","Sinop","TR",NULL,NULL,"Black Sea"
+"Cizre","Şırnak","TR","Tigris",NULL,NULL
+"Sivas","Sivas","TR","Kızılırmak",NULL,NULL
+"Tekirdag","Tekirdağ","TR",NULL,NULL,"Marmara Sea"
+"Çorlu","Tekirdağ","TR",NULL,NULL,"Marmara Sea"
+"Trabzon","Trabzon","TR",NULL,NULL,"Black Sea"
+"Van","Van","TR",NULL,"Lake Van",NULL
+"Zonguldak","Zonguldak","TR",NULL,NULL,"Black Sea"
+"Karadeniz Ereğli","Zonguldak","TR",NULL,NULL,"Black Sea"
+"Bartin","Bartın","TR",NULL,NULL,"Black Sea"
+"Yalova","Yalova","TR",NULL,NULL,"Marmara Sea"
+"Bayrūt","Lebanon","RL",NULL,NULL,"Mediterranean Sea"
+"Ramallah","West Bank","WB","Nachal Sorek",NULL,NULL
+"Gaza","Gaza Strip","GAZA",NULL,NULL,"Mediterranean Sea"
+"Yerushalayim","Yerushalayim","IL","Nachal Sorek",NULL,NULL
+"Netanya","HaMerkaz","IL",NULL,NULL,"Mediterranean Sea"
+"Haifa","Hefa","IL","Nachal HaKishon",NULL,"Mediterranean Sea"
+"Tel Aviv-Yafo","Tel Aviv","IL",NULL,NULL,"Mediterranean Sea"
+"Ashdod","HaDarom","IL",NULL,NULL,"Mediterranean Sea"
+"Al Ladhiqiyah","Al Ladhiqiyah","SYR",NULL,NULL,"Mediterranean Sea"
+"Ar Raqqah","Ar Raqqah","SYR","Euphrat",NULL,NULL
+"Dayr az Zawr","Dayr az Zawr","SYR","Euphrat",NULL,NULL
+"Hamah","Hamah","SYR","Orontes",NULL,NULL
+"Hims","Hims","SYR","Orontes",NULL,NULL
+"Tartus","Tartus","SYR",NULL,NULL,"Mediterranean Sea"
+"Yanbu al-Bahr","Al-Madinah Al-Monawarah","SA",NULL,NULL,"Red Sea"
+"Ad-Dammam","Ash Sharqiyah","SA",NULL,NULL,"Persian Gulf"
+"Al-Jubail","Ash Sharqiyah","SA",NULL,NULL,"Persian Gulf"
+"Jeddah","Makkah Al-Mokarramah","SA",NULL,NULL,"Red Sea"
+"Al Manāmah","Bahrain","BRN",NULL,NULL,"Persian Gulf"
+"Doha","Qatar","Q",NULL,NULL,"Persian Gulf"
+"Al Rayyan","Qatar","Q",NULL,NULL,"Persian Gulf"
+"Abu Dhabi","United Arab Emirates","UAE",NULL,NULL,"Persian Gulf"
+"Dubai","United Arab Emirates","UAE",NULL,NULL,"Persian Gulf"
+"Al Sharjah","United Arab Emirates","UAE",NULL,NULL,"Persian Gulf"
+"Muscat","Oman","OM",NULL,NULL,"Gulf of Oman"
+"As Seeb","Oman","OM",NULL,NULL,"Gulf of Oman"
+"Salalah","Oman","OM",NULL,NULL,"Arabian Sea"
+"Aden","Yemen","YE",NULL,NULL,"Gulf of Aden"
+"al Hudaydah","Yemen","YE",NULL,NULL,"Red Sea"
+"Al Kuwayt","Kuwait","KWT",NULL,NULL,"Persian Gulf"
+"Ar Ramadi","al-Anbar","IRQ","Euphrat",NULL,NULL
+"Al Hillah","Babylon","IRQ","Euphrat",NULL,NULL
+"Baghdad","Baghdad","IRQ","Tigris",NULL,NULL
+"Al Basrah","Basrah","IRQ","Schatt al Arab",NULL,NULL
+"An Nasiriyah","Thi Qar","IRQ","Euphrat",NULL,NULL
+"Al Amarah","Maysan","IRQ","Tigris",NULL,NULL
+"As Samawah","al-Muthanna","IRQ","Euphrat",NULL,NULL
+"An Najaf","al-Najaf","IRQ","Euphrat",NULL,NULL
+"Al Mawsil","Nineveh","IRQ","Tigris",NULL,NULL
+"Diwaniyah","al-Qadisiya","IRQ","Euphrat",NULL,NULL
+"Samarra","Salah al-Deen","IRQ","Tigris",NULL,NULL
+"Al Kut","Wasit","IRQ","Tigris",NULL,NULL
+"Bushehr","Bushehr","IR",NULL,NULL,"Persian Gulf"
+"Rasht","Gilan","IR",NULL,"Caspian Sea",NULL
+"Bandar Abbas","Hormozgan","IR",NULL,NULL,"Persian Gulf"
+"Ahvaz","Khuzestan","IR","Karun",NULL,NULL
+"Khorramshahr","Khuzestan","IR","Schatt al Arab",NULL,NULL
+"Khorramshahr","Khuzestan","IR","Karun",NULL,NULL
+"Abadan","Khuzestan","IR","Schatt al Arab",NULL,NULL
+"Kabul","Afghanistan","AFG","Kabul",NULL,NULL
+"Jalālābād","Afghanistan","AFG","Kabul",NULL,NULL
+"Turkmenabat","Lebap","TM","Amudarja",NULL,NULL
+"Namangan","Namangan","UZ","Syrdarja",NULL,NULL
+"Nukus","Qoraqalpogʻiston","UZ","Amudarja",NULL,NULL
+"Bochtar","Khatlon","TJ","Vakhsh",NULL,NULL
+"Khorugh","Gorno-Badakhshan","TJ","Pjandsh",NULL,NULL
+"Atyrau","Atyrau","KZ","Ural","Caspian Sea",NULL
+"Oral","West Kazakhstan","KZ","Ural",NULL,NULL
+"Aktau","Mangistau","KZ",NULL,"Caspian Sea",NULL
+"Pavlodar","Pavlodar","KZ","Irtysh",NULL,NULL
+"Balkhash","Karaganda","KZ",NULL,"Ozero Balchash",NULL
+"Kustanay","Kostanai","KZ","Tobol",NULL,NULL
+"Rudniy","Kostanai","KZ","Tobol",NULL,NULL
+"Kyzylorda","Kyzylorda","KZ","Syrdarja",NULL,NULL
+"Öskemen","East-Kazakhstan","KZ","Irtysh",NULL,NULL
+"Semei","East-Kazakhstan","KZ","Irtysh",NULL,NULL
+"Petropavlovsk","North-Kazakhstan","KZ","Ishim",NULL,NULL
+"Baikonur","Baikonur","KZ","Syrdarja",NULL,NULL
+"Astana","Astana","KZ","Ishim",NULL,NULL
+"Ulaanbaatar","Mongolia","MNG","Tuul",NULL,NULL
+"Male","Maldives","MV",NULL,NULL,"Indian Ocean"
+"Muzaffarabad","Azad Jammu and Kashmir","PK","Jhelum",NULL,NULL
+"Lahore","Punjab","PK","Ravi",NULL,NULL
+"Multan","Punjab","PK","Chanab",NULL,NULL
+"Jhelum","Punjab","PK","Jhelum",NULL,NULL
+"Chiniot","Punjab","PK","Chanab",NULL,NULL
+"Dera Ghazi Khan","Punjab","PK","Indus",NULL,NULL
+"Karachi","Sindh","PK",NULL,NULL,"Arabian Sea"
+"Hyderabad","Sindh","PK","Indus",NULL,NULL
+"Sukkur","Sindh","PK","Indus",NULL,NULL
+"Larkana","Sindh","PK","Indus",NULL,NULL
+"Visakhapatnam","Andhra Pradesh","IND",NULL,NULL,"Gulf of Bengal"
+"Vijayawada","Andhra Pradesh","IND","Krishna",NULL,NULL
+"Rajahmundry","Andhra Pradesh","IND","Godavari",NULL,NULL
+"Gauhati","Assam","IND","Brahmaputra",NULL,NULL
+"Dispur","Assam","IND","Brahmaputra",NULL,NULL
+"Patna","Bihar","IND","Ganges",NULL,NULL
+"Panaji","Goa","IND",NULL,NULL,"Arabian Sea"
+"Bhavnagar","Gujarat","IND",NULL,NULL,"Arabian Sea"
+"Jamnagar","Gujarat","IND",NULL,NULL,"Arabian Sea"
+"Bharuch","Gujarat","IND","Narmada",NULL,"Arabian Sea"
+"Srinagar","Jammu and Kashmir","IND","Jhelum",NULL,NULL
+"Trivandrum","Kerala","IND",NULL,NULL,"Indian Ocean"
+"Kochi","Kerala","IND",NULL,NULL,"Arabian Sea"
+"Kozhikode","Kerala","IND",NULL,NULL,"Arabian Sea"
+"Jabalpur","Madhya Pradesh","IND","Narmada",NULL,NULL
+"Mumbai","Maharashtra","IND",NULL,NULL,"Arabian Sea"
+"Navi Mumbai","Maharashtra","IND",NULL,NULL,"Arabian Sea"
+"Nashik","Maharashtra","IND","Godavari",NULL,NULL
+"Cuttack","Odisha","IND","Mahanadi",NULL,NULL
+"Kota","Rajasthan","IND","Chambal",NULL,NULL
+"Chennai","Tamil Nadu","IND",NULL,NULL,"Gulf of Bengal"
+"Kanpur","Uttar Pradesh","IND","Ganges",NULL,NULL
+"Varanasi","Uttar Pradesh","IND","Ganges",NULL,NULL
+"Agra","Uttar Pradesh","IND","Yamuna",NULL,NULL
+"Allahabad","Uttar Pradesh","IND","Ganges",NULL,NULL
+"Allahabad","Uttar Pradesh","IND","Yamuna",NULL,NULL
+"Port Blair","Andaman and Nicobar Islands","IND",NULL,NULL,"Gulf of Bengal"
+"Port Blair","Andaman and Nicobar Islands","IND",NULL,NULL,"Andaman Sea"
+"Delhi","Delhi","IND","Yamuna",NULL,NULL
+"Kavaratti","Lakshadweep","IND",NULL,NULL,"Arabian Sea"
+"Pondicherry","Puducherry","IND",NULL,NULL,"Gulf of Bengal"
+"Bharatpur","Nepal","NEP","Gandaki",NULL,NULL
+"Thimphu","Bhutan","BHT","Raidak",NULL,NULL
+"Chittagong","Chittagong","BD",NULL,NULL,"Gulf of Bengal"
+"Dhaka","Dhaka","BD","Ganges",NULL,NULL
+"Rajshahi","Rajshahi","BD","Ganges",NULL,NULL
+"Pathein","Ayeyarwady","MYA","Irawaddy",NULL,NULL
+"Magwe","Magwe","MYA","Irawaddy",NULL,NULL
+"Mandalay","Mandalay","MYA","Irawaddy",NULL,NULL
+"Sagaing","Sagaing","MYA","Irawaddy",NULL,NULL
+"Myitkyina","Kachin","MYA","Irawaddy",NULL,NULL
+"Mawlamyine","Mon","MYA","Saluen",NULL,"Andaman Sea"
+"Sittwe","Rakhine","MYA",NULL,NULL,"Gulf of Bengal"
+"Sri Jayawardhanapura","Sri Lanka","CL",NULL,NULL,"Indian Ocean"
+"Colombo","Sri Lanka","CL",NULL,NULL,"Indian Ocean"
+"Huainan","Anhui","CN","Huai",NULL,NULL
+"Bengbu","Anhui","CN","Huai",NULL,NULL
+"Wuhu","Anhui","CN","Yangtze",NULL,NULL
+"Maanshan","Anhui","CN","Yangtze",NULL,NULL
+"Fuzhou","Fujian","CN",NULL,NULL,"East China Sea"
+"Xiamen","Fujian","CN",NULL,NULL,"South China Sea"
+"Putian","Fujian","CN",NULL,NULL,"South China Sea"
+"Lanzhou","Gansu","CN","Huang He",NULL,NULL
+"Guangzhou","Guangdong","CN","Pearl River",NULL,NULL
+"Shantou","Guangdong","CN",NULL,NULL,"South China Sea"
+"Jieyang","Guangdong","CN",NULL,NULL,"South China Sea"
+"Zhanjiang","Guangdong","CN",NULL,NULL,"South China Sea"
+"Shenzhen","Guangdong","CN","Pearl River",NULL,"South China Sea"
+"Shaoguan","Guangdong","CN","Bei Jiang",NULL,NULL
+"Dongguan","Guangdong","CN","Pearl River",NULL,NULL
+"Dongguan","Guangdong","CN","Dong Jiang",NULL,NULL
+"Foshan","Guangdong","CN","Xi Jiang",NULL,NULL
+"Zhongshan","Guangdong","CN","Pearl River",NULL,"South China Sea"
+"Jiangmen","Guangdong","CN","Xi Jiang",NULL,NULL
+"Yangjiang","Guangdong","CN",NULL,NULL,"South China Sea"
+"Zhaoqing","Guangdong","CN","Xi Jiang",NULL,NULL
+"Zhuhai","Guangdong","CN","Pearl River",NULL,"South China Sea"
+"Huizhou","Guangdong","CN","Dong Jiang",NULL,NULL
+"Haikou","Hainan","CN",NULL,NULL,"South China Sea"
+"Sanya","Hainan","CN",NULL,NULL,"South China Sea"
+"Cangzhou","Hebei","CN",NULL,NULL,"Yellow Sea"
+"Qinhuangdao","Hebei","CN",NULL,NULL,"Yellow Sea"
+"Harbin","Heilongjiang","CN","Songhua",NULL,NULL
+"Zhengzhou","Henan","CN","Huang He",NULL,NULL
+"Luoyang","Henan","CN","Huang He",NULL,NULL
+"Kaifeng","Henan","CN","Huang He",NULL,NULL
+"Xinyang","Henan","CN","Huai",NULL,NULL
+"Wuhan","Hubei","CN","Yangtze",NULL,NULL
+"Wuhan","Hubei","CN","Han",NULL,NULL
+"Xiangyang","Hubei","CN","Han",NULL,NULL
+"Yichang","Hubei","CN","Yangtze",NULL,NULL
+"Jingzhou","Hubei","CN","Yangtze",NULL,NULL
+"Changsha","Hunan","CN","Xiang Jiang",NULL,NULL
+"Hengyang","Hunan","CN","Xiang Jiang",NULL,NULL
+"Xiangtan","Hunan","CN","Xiang Jiang",NULL,NULL
+"Zhuzhou","Hunan","CN","Xiang Jiang",NULL,NULL
+"Yueyang","Hunan","CN","Yangtze",NULL,NULL
+"Changde","Hunan","CN","Yuan Jiang",NULL,NULL
+"Nanjing","Jiangsu","CN","Yangtze",NULL,NULL
+"Wuxi","Jiangsu","CN",NULL,NULL,NULL
+"Suzhou","Jiangsu","CN",NULL,NULL,NULL
+"Zhangjiagang","Jiangsu","CN","Yangtze",NULL,NULL
+"Changzhou","Jiangsu","CN","Yangtze",NULL,NULL
+"Zhenjiang","Jiangsu","CN","Yangtze",NULL,NULL
+"Lianyungang","Jiangsu","CN",NULL,NULL,"Yellow Sea"
+"Nantong","Jiangsu","CN","Yangtze",NULL,NULL
+"Rugao","Jiangsu","CN","Yangtze",NULL,NULL
+"Yangzhou","Jiangsu","CN","Yangtze",NULL,NULL
+"Huaian","Jiangsu","CN","Huai",NULL,NULL
+"Nanchang","Jiangxi","CN","Gan Jiang",NULL,NULL
+"Jiujiang","Jiangxi","CN","Yangtze",NULL,NULL
+"Ganzhou","Jiangxi","CN","Gan Jiang",NULL,NULL
+"Jilin","Jilin","CN","Songhua",NULL,NULL
+"Dalian","Liaoning","CN",NULL,NULL,"Yellow Sea"
+"Dandong","Liaoning","CN","Yalu",NULL,"Yellow Sea"
+"Panjin","Liaoning","CN","Liao He",NULL,NULL
+"Xian","Shaanxi","CN","Wei He",NULL,NULL
+"Xianyang","Shaanxi","CN","Wei He",NULL,NULL
+"Baoji","Shaanxi","CN","Wei He",NULL,NULL
+"Jinan","Shandong","CN","Huang He",NULL,NULL
+"Qingdao","Shandong","CN",NULL,NULL,"Yellow Sea"
+"Yantai","Shandong","CN",NULL,NULL,"Yellow Sea"
+"Weihai","Shandong","CN",NULL,NULL,"Yellow Sea"
+"Luzhou","Sichuan","CN","Yangtze",NULL,NULL
+"Yibin","Sichuan","CN","Yangtze",NULL,NULL
+"Qujing","Yunnan","CN","Xi Jiang",NULL,NULL
+"Hangzhou","Zhejiang","CN",NULL,NULL,"East China Sea"
+"Wenzhou","Zhejiang","CN",NULL,NULL,"East China Sea"
+"Yueqing","Zhejiang","CN",NULL,NULL,"East China Sea"
+"Huzhou","Zhejiang","CN",NULL,NULL,NULL
+"Zhoushan","Zhejiang","CN",NULL,NULL,"East China Sea"
+"Taizhou","Zhejiang","CN",NULL,NULL,"East China Sea"
+"Wenling","Zhejiang","CN",NULL,NULL,"East China Sea"
+"Guigang","Guangxi","CN","Xi Jiang",NULL,NULL
+"Baotou","Nei Mongol","CN","Huang He",NULL,NULL
+"Tongliao","Nei Mongol","CN","Liao He",NULL,NULL
+"Hailar","Nei Mongol","CN","Argun",NULL,NULL
+"Yinchuan","Ningxia","CN","Huang He",NULL,NULL
+"Yining","Xinjiang","CN","Ili",NULL,NULL
+"Shanghai","Shanghai","CN",NULL,NULL,"East China Sea"
+"Chongqing","Chongqing","CN","Yangtze",NULL,NULL
+"Yongchuan","Chongqing","CN","Yangtze",NULL,NULL
+"Taipei","Taiwan","RC","Tamsui",NULL,NULL
+"New Taipei","Taiwan","RC","Tamsui",NULL,"East China Sea"
+"Taoyuan","Taiwan","RC","Tamsui",NULL,NULL
+"Keelung","Taiwan","RC",NULL,NULL,"East China Sea"
+"Hsinchu","Taiwan","RC",NULL,NULL,"South China Sea"
+"Taichung","Taiwan","RC",NULL,NULL,"South China Sea"
+"Changhua","Taiwan","RC",NULL,NULL,"South China Sea"
+"Hualien","Taiwan","RC",NULL,NULL,"Pacific Ocean"
+"Tainan","Taiwan","RC",NULL,NULL,"South China Sea"
+"Pingtung","Taiwan","RC","Gaoping",NULL,NULL
+"Kaohsiung","Taiwan","RC","Gaoping",NULL,"South China Sea"
+"Taitung","Taiwan","RC",NULL,NULL,"Pacific Ocean"
+"Kowloon","Hong Kong","HK",NULL,NULL,"South China Sea"
+"Victoria","Hong Kong","HK",NULL,NULL,"South China Sea"
+"Tuen Mun","Hong Kong","HK",NULL,NULL,"South China Sea"
+"Sha Tin","Hong Kong","HK",NULL,NULL,"South China Sea"
+"Macao","Macau","MAC","Pearl River",NULL,"South China Sea"
+"Taipa-Coloane","Macau","MAC","Pearl River",NULL,"South China Sea"
+"Pyongyang","North Korea","KP","Taedong",NULL,NULL
+"Hamhung-Hungnam","North Korea","KP",NULL,NULL,"Sea of Japan"
+"Chongjin","North Korea","KP",NULL,NULL,"Sea of Japan"
+"Nampho","North Korea","KP",NULL,NULL,"Yellow Sea"
+"Sinuiju","North Korea","KP","Yalu",NULL,"Yellow Sea"
+"Wonsan","North Korea","KP",NULL,NULL,"Sea of Japan"
+"Haeju","North Korea","KP",NULL,NULL,"Yellow Sea"
+"Anju","North Korea","KP",NULL,NULL,"Yellow Sea"
+"Kim Chaek","North Korea","KP",NULL,NULL,"Sea of Japan"
+"Kusong","North Korea","KP",NULL,NULL,"Sea of Japan"
+"Sinpho","North Korea","KP",NULL,NULL,"Sea of Japan"
+"Kaesong","North Korea","KP",NULL,NULL,"Yellow Sea"
+"Seoul","South Korea","ROK",NULL,NULL,NULL
+"Busan","South Korea","ROK",NULL,NULL,"Sea of Japan"
+"Daegu","South Korea","ROK",NULL,NULL,NULL
+"Incheon","South Korea","ROK",NULL,NULL,"Yellow Sea"
+"Sejong","South Korea","ROK",NULL,NULL,NULL
+"Ulsan","South Korea","ROK",NULL,NULL,"Sea of Japan"
+"Changwon","South Korea","ROK",NULL,NULL,"East China Sea"
+"Mokpo","South Korea","ROK",NULL,NULL,"Yellow Sea"
+"Jeju","South Korea","ROK",NULL,NULL,"Yellow Sea"
+"Gunsan","South Korea","ROK",NULL,NULL,"Yellow Sea"
+"Chuncheon","South Korea","ROK",NULL,NULL,NULL
+"Yeosu","South Korea","ROK",NULL,NULL,"East China Sea"
+"Ansan","South Korea","ROK",NULL,NULL,"Yellow Sea"
+"Sapporo","Hokkaido","J","Ishikari",NULL,NULL
+"Asahikawa","Hokkaido","J","Ishikari",NULL,NULL
+"Hakodate","Hokkaido","J",NULL,NULL,"Pacific Ocean"
+"Hakodate","Hokkaido","J",NULL,NULL,"Sea of Japan"
+"Kushiro","Hokkaido","J","Kushiro",NULL,"Pacific Ocean"
+"Aomori","Aomori","J",NULL,NULL,"Sea of Japan"
+"Morioka","Iwate","J","Kitakami",NULL,NULL
+"Sendai","Miyagi","J",NULL,NULL,"Pacific Ocean"
+"Akita","Akita","J",NULL,NULL,"Sea of Japan"
+"Maebashi","Gumma","J","Tone",NULL,NULL
+"Chiba","Chiba","J",NULL,NULL,"Pacific Ocean"
+"Funabashi","Chiba","J",NULL,NULL,"Pacific Ocean"
+"Ichikawa","Chiba","J",NULL,NULL,"Pacific Ocean"
+"Tokyo","Tokyo","J",NULL,NULL,"Pacific Ocean"
+"Yokohama","Kanagawa","J",NULL,NULL,"Pacific Ocean"
+"Kawasaki","Kanagawa","J",NULL,NULL,"Pacific Ocean"
+"Yokosuka","Kanagawa","J",NULL,NULL,"Pacific Ocean"
+"Fujisawa","Kanagawa","J",NULL,NULL,"Pacific Ocean"
+"Niigata","Niigata","J","Shinano",NULL,"Sea of Japan"
+"Toyama","Toyama","J",NULL,NULL,"Sea of Japan"
+"Kanazawa","Ishikawa","J",NULL,NULL,"Sea of Japan"
+"Fukui","Fukui","J",NULL,NULL,"Sea of Japan"
+"Nagano","Nagano","J","Shinano",NULL,NULL
+"Shizuoka","Shizuoka","J",NULL,NULL,"Pacific Ocean"
+"Hamamatsu","Shizuoka","J",NULL,NULL,"Pacific Ocean"
+"Nagoya","Aichi","J",NULL,NULL,"Pacific Ocean"
+"Tsu","Mie","J",NULL,NULL,"Pacific Ocean"
+"Otsu","Shiga","J",NULL,"Lake Biwa",NULL
+"Kyoto","Kyoto","J",NULL,NULL,NULL
+"Osaka","Osaka","J",NULL,NULL,"Seto Inland Sea"
+"Sakai","Osaka","J",NULL,NULL,"Seto Inland Sea"
+"Hirakata","Osaka","J",NULL,NULL,NULL
+"Kobe","Hyogo","J",NULL,NULL,"Seto Inland Sea"
+"Himeji","Hyogo","J",NULL,NULL,"Seto Inland Sea"
+"Nishinomiya","Hyogo","J",NULL,NULL,"Seto Inland Sea"
+"Wakayama","Wakayama","J",NULL,NULL,"Seto Inland Sea"
+"Tottori","Tottori","J",NULL,NULL,"Sea of Japan"
+"Matsue","Shimane","J",NULL,NULL,"Sea of Japan"
+"Okayama","Okayama","J",NULL,NULL,"Seto Inland Sea"
+"Kurashiki","Okayama","J",NULL,NULL,"Seto Inland Sea"
+"Hiroshima","Hiroshima","J",NULL,NULL,"Seto Inland Sea"
+"Fukuyama","Hiroshima","J",NULL,NULL,"Seto Inland Sea"
+"Tokushima","Tokushima","J",NULL,NULL,"Seto Inland Sea"
+"Takamatsu","Kagawa","J",NULL,NULL,"Seto Inland Sea"
+"Matsuyama","Ehime","J",NULL,NULL,"Seto Inland Sea"
+"Kochi","Kochi","J",NULL,NULL,"Pacific Ocean"
+"Fukuoka","Fukuoka","J",NULL,NULL,"Sea of Japan"
+"Kitakyushu","Fukuoka","J",NULL,NULL,"Sea of Japan"
+"Nagasaki","Nagasaki","J",NULL,NULL,"East China Sea"
+"Oita","Oita","J",NULL,NULL,"Seto Inland Sea"
+"Miyazaki","Miyazaki","J",NULL,NULL,"Pacific Ocean"
+"Kagoshima","Kagoshima","J",NULL,NULL,"East China Sea"
+"Naha","Okinawa","J",NULL,NULL,"Pacific Ocean"
+"Naha","Okinawa","J",NULL,NULL,"East China Sea"
+"San Fernando","Central Luzon","RP",NULL,NULL,"South China Sea"
+"Malolos","Central Luzon","RP",NULL,NULL,"South China Sea"
+"Taytay","Calabarzon","RP",NULL,"Laguna de Bay",NULL
+"Binangonan","Calabarzon","RP",NULL,"Laguna de Bay",NULL
+"Bacoor","Calabarzon","RP",NULL,NULL,"South China Sea"
+"San Pedro","Calabarzon","RP",NULL,"Laguna de Bay",NULL
+"Biñan","Calabarzon","RP",NULL,"Laguna de Bay",NULL
+"Santa Rosa","Calabarzon","RP",NULL,"Laguna de Bay",NULL
+"Cabuyao","Calabarzon","RP",NULL,"Laguna de Bay",NULL
+"Calamba","Calabarzon","RP",NULL,"Laguna de Bay",NULL
+"Lipa","Calabarzon","RP",NULL,"Lake Taal",NULL
+"Batangas","Calabarzon","RP",NULL,NULL,"South China Sea"
+"Lucena","Calabarzon","RP",NULL,NULL,"Sulu Sea"
+"Legazpi","Bicol","RP",NULL,NULL,"Pacific Ocean"
+"Iloilo","Western Visayas","RP",NULL,NULL,"Sulu Sea"
+"Roxas","Western Visayas","RP",NULL,NULL,"Sulu Sea"
+"Bacolod","Western Visayas","RP",NULL,NULL,"Sulu Sea"
+"Cebu","Central Visayas","RP",NULL,NULL,"Sulu Sea"
+"Lapu-Lapu","Central Visayas","RP",NULL,NULL,"Sulu Sea"
+"Mandaue","Central Visayas","RP",NULL,NULL,"Sulu Sea"
+"Toledo","Central Visayas","RP",NULL,NULL,"Sulu Sea"
+"Tagbilaran","Central Visayas","RP",NULL,NULL,"Sulu Sea"
+"Tacloban","Eastern Visayas","RP",NULL,NULL,"Pacific Ocean"
+"Pagadian","Zamboanga Peninsula","RP",NULL,NULL,"Sulawesi Sea"
+"Zamboanga","Zamboanga Peninsula","RP",NULL,NULL,"Sulawesi Sea"
+"Zamboanga","Zamboanga Peninsula","RP",NULL,NULL,"Sulu Sea"
+"Cagayan De Oro","Northern Mindanao","RP",NULL,NULL,"Sulu Sea"
+"Iligan","Northern Mindanao","RP",NULL,NULL,"Sulu Sea"
+"Davao","Davao","RP",NULL,NULL,"Pacific Ocean"
+"Tagum","Davao","RP",NULL,NULL,"Pacific Ocean"
+"General Santos","Soccsksargen","RP",NULL,NULL,"Sulawesi Sea"
+"Manila","Metro Manila","RP",NULL,NULL,"South China Sea"
+"Mandaluyong","Metro Manila","RP",NULL,NULL,NULL
+"Pasig","Metro Manila","RP",NULL,NULL,NULL
+"Makati","Metro Manila","RP",NULL,NULL,NULL
+"Pasay","Metro Manila","RP",NULL,NULL,"South China Sea"
+"Taguig","Metro Manila","RP",NULL,"Laguna de Bay",NULL
+"Parañaque","Metro Manila","RP",NULL,NULL,"South China Sea"
+"Las Piñas","Metro Manila","RP",NULL,NULL,"South China Sea"
+"Muntinlupa","Metro Manila","RP",NULL,"Laguna de Bay",NULL
+"Cotabato","Muslim Mindanao","RP",NULL,NULL,"Sulawesi Sea"
+"Marawi","Muslim Mindanao","RP","Agus River",NULL,NULL
+"Jolo","Muslim Mindanao","RP",NULL,NULL,"Sulu Sea"
+"Butuan","Caraga","RP",NULL,NULL,"Sulu Sea"
+"Calapan","Mimaropa","RP",NULL,NULL,"South China Sea"
+"Puerto Princesa","Mimaropa","RP",NULL,NULL,"Sulu Sea"
+"Ha Long","Northern Midlands and Mountains","VN",NULL,NULL,"South China Sea"
+"Cam Pha","Northern Midlands and Mountains","VN",NULL,NULL,"South China Sea"
+"Hanoi","Red River Delta","VN","Hong He",NULL,NULL
+"Haiphong","Red River Delta","VN",NULL,NULL,"South China Sea"
+"Nam Dinh","Red River Delta","VN","Hong He",NULL,NULL
+"Vinh","North and South Central Coast","VN",NULL,NULL,"South China Sea"
+"Da Nang","North and South Central Coast","VN",NULL,NULL,"South China Sea"
+"Hue","North and South Central Coast","VN",NULL,NULL,"South China Sea"
+"Nha Trang","North and South Central Coast","VN",NULL,NULL,"South China Sea"
+"Qui Nhon","North and South Central Coast","VN",NULL,NULL,"South China Sea"
+"Vung Tau","Southeast","VN",NULL,NULL,"South China Sea"
+"Can Tho","Mekong River Delta","VN","Mekong",NULL,NULL
+"Long Xuyen","Mekong River Delta","VN","Mekong",NULL,NULL
+"Rach Gia","Mekong River Delta","VN",NULL,NULL,"Gulf of Thailand"
+"Phnom Penh","Cambodia","K","Mekong",NULL,NULL
+"Phnom Penh","Cambodia","K","Tonle Sap River",NULL,NULL
+"Vientiane","Laos","LAO","Mekong",NULL,NULL
+"Chiang Mai","Thailand","THA","Mae Nam Ping",NULL,NULL
+"Nakhon Sawan","Thailand","THA","Mae Nam Chao Phraya",NULL,NULL
+"Nakhon Sawan","Thailand","THA","Mae Nam Ping",NULL,NULL
+"Nakhon Sawan","Thailand","THA","Mae Nam Nan",NULL,NULL
+"Bangkok","Thailand","THA","Mae Nam Chao Phraya",NULL,"Gulf of Thailand"
+"Nonthaburi","Thailand","THA","Mae Nam Chao Phraya",NULL,NULL
+"Nakhon Si Thammarat","Thailand","THA",NULL,NULL,"Gulf of Thailand"
+"Songkhla","Thailand","THA",NULL,"Songkhla Lake","Gulf of Thailand"
+"Samut Prakan","Thailand","THA","Mae Nam Chao Phraya",NULL,"Gulf of Thailand"
+"Chon Buri","Thailand","THA",NULL,NULL,"Gulf of Thailand"
+"Phuket","Thailand","THA",NULL,NULL,"Andaman Sea"
+"Kota Bahru","Kelantan","MAL",NULL,NULL,"South China Sea"
+"Kota Bahru","Kelantan","MAL",NULL,NULL,"Gulf of Thailand"
+"Melaka","Melaka","MAL",NULL,NULL,"Malakka Strait"
+"Kuantan","Pahang","MAL",NULL,NULL,"South China Sea"
+"Georgetown","Pulau Pinang","MAL",NULL,NULL,"Malakka Strait"
+"Kota Kinabalu","Sabah","MAL",NULL,NULL,"South China Sea"
+"Tawau","Sabah","MAL",NULL,NULL,"Sulawesi Sea"
+"Sandakan","Sabah","MAL",NULL,NULL,"Sulu Sea"
+"Kuching Utara","Sarawak","MAL",NULL,NULL,"South China Sea"
+"Sibu","Sarawak","MAL",NULL,NULL,NULL
+"Kuala Terengganu","Terengganu","MAL",NULL,NULL,"South China Sea"
+"Labuan","Labuan","MAL",NULL,NULL,"South China Sea"
+"Bandar Seri Begawan","Brunei","BRU",NULL,NULL,"South China Sea"
+"Singapore","Singapore","SGP",NULL,NULL,"South China Sea"
+"Singapore","Singapore","SGP",NULL,NULL,"Malakka Strait"
+"Banda Aceh","Aceh","RI",NULL,NULL,"Indian Ocean"
+"Banda Aceh","Aceh","RI",NULL,NULL,"Andaman Sea"
+"Medan","Sumatera Utara","RI",NULL,NULL,"Malakka Strait"
+"Pematang Siantar","Sumatera Utara","RI","Asahan",NULL,NULL
+"Padang","Sumatera Barat","RI",NULL,NULL,"Indian Ocean"
+"Dumai","Riau","RI",NULL,NULL,"Malakka Strait"
+"Jambi","Jambi","RI",NULL,NULL,NULL
+"Bengkulu","Bengkulu","RI",NULL,NULL,"Indian Ocean"
+"Bandar Lampung","Lampung","RI",NULL,NULL,"Indian Ocean"
+"Pangkal Pinang","Kepulauan Bangka Belitung","RI",NULL,NULL,"South China Sea"
+"Tanjung Pinang","Kepulauan Riau","RI",NULL,NULL,"South China Sea"
+"Batam","Kepulauan Riau","RI",NULL,NULL,"South China Sea"
+"Jakarta","DKI Jakarta","RI",NULL,NULL,"Java Sea"
+"Semarang","Jawa Tengah","RI",NULL,NULL,"Java Sea"
+"Surakarta","Jawa Tengah","RI",NULL,NULL,NULL
+"Pekalongan","Jawa Tengah","RI",NULL,NULL,"Java Sea"
+"Tegal","Jawa Tengah","RI",NULL,NULL,"Java Sea"
+"Surabaya","Jawa Timur","RI",NULL,NULL,"Java Sea"
+"Probolinggo","Jawa Timur","RI",NULL,NULL,"Java Sea"
+"Cilegon","Banten","RI",NULL,NULL,"Java Sea"
+"Denpasar","Bali","RI",NULL,NULL,"Indian Ocean"
+"Mataram","Nusa Tenggara Barat","RI",NULL,NULL,"Java Sea"
+"Kupang","Nusa Tenggara Timur","RI",NULL,NULL,"Savu Sea"
+"Pontianak","Kalimantan Barat","RI",NULL,NULL,"South China Sea"
+"Bandjarmasin","Kalimantan Selatan","RI",NULL,NULL,"Java Sea"
+"Samarinda","Kalimantan Timur","RI",NULL,NULL,"Java Sea"
+"Balikpapan","Kalimantan Timur","RI",NULL,NULL,"Java Sea"
+"Tarakan","Kalimantan Utara","RI",NULL,NULL,"Sulawesi Sea"
+"Manado","Sulawesi Utara","RI",NULL,NULL,"Sulawesi Sea"
+"Palu","Sulawesi Tengah","RI",NULL,NULL,"Sulawesi Sea"
+"Makassar","Sulawesi Selatan","RI",NULL,NULL,"Java Sea"
+"Kendari","Sulawesi Tenggara","RI",NULL,NULL,"Banda Sea"
+"Gorontalo","Gorontalo","RI",NULL,NULL,"Banda Sea"
+"Mamuju","Sulawesi Barat","RI",NULL,NULL,"Java Sea"
+"Ambon","Maluku","RI",NULL,NULL,"Banda Sea"
+"Ternate","Maluku Utara","RI",NULL,NULL,"Banda Sea"
+"Manokwari","Papua Barat","RI",NULL,NULL,"Pacific Ocean"
+"Jayapura","Papua","RI",NULL,NULL,"Pacific Ocean"
+"Merauke","Papua","RI",NULL,NULL,"Arafura Sea"
+"Dili","Timor-Leste","TL",NULL,NULL,"Banda Sea"
+"Lae","North","PNG",NULL,NULL,"Solomon Sea"
+"Port Moresby","South","PNG",NULL,NULL,"Coral Sea"
+"Buka","Bougainville","PNG",NULL,NULL,"Pacific Ocean"
+"Buka","Bougainville","PNG",NULL,NULL,"Solomon Sea"
+"Honiara","Solomon Islands","SOL",NULL,NULL,"Solomon Sea"
+"Port Vila","Vanuatu","VU",NULL,NULL,"Pacific Ocean"
+"Noumea","New Caledonia","NCL",NULL,NULL,"Tasman Sea"
+"Newcastle","New South Wales","AUS",NULL,NULL,"Tasman Sea"
+"Sydney","New South Wales","AUS",NULL,NULL,"Tasman Sea"
+"Wollongong","New South Wales","AUS",NULL,NULL,"Tasman Sea"
+"Darwin","Northern Territory","AUS",NULL,NULL,"Timor Sea"
+"Brisbane","Queensland","AUS",NULL,NULL,"Tasman Sea"
+"Gold Coast","Queensland","AUS",NULL,NULL,"Tasman Sea"
+"Townsville","Queensland","AUS",NULL,NULL,"Coral Sea"
+"Toowoomba","Queensland","AUS",NULL,NULL,"Coral Sea"
+"Sunshine Coast","Queensland","AUS",NULL,NULL,"Tasman Sea"
+"Cairns","Queensland","AUS",NULL,NULL,"Coral Sea"
+"Adelaide","South Australia","AUS",NULL,NULL,"Indian Ocean"
+"Hobart","Tasmania","AUS",NULL,NULL,"Tasman Sea"
+"Melbourne","Victoria","AUS",NULL,NULL,"Indian Ocean"
+"Geelong","Victoria","AUS",NULL,NULL,"Indian Ocean"
+"Perth","Western Australia","AUS",NULL,NULL,"Indian Ocean"
+"Canberra","Australia Capital Territory","AUS","Murrumbidgee River","Lake Burley Griffin",NULL
+"Canberra","Australia Capital Territory","AUS","Molonglo River",NULL,NULL
+"Flying Fish Cove","Christmas Island","CX",NULL,NULL,"Indian Ocean"
+"West Island","Cocos Islands","CC",NULL,NULL,"Indian Ocean"
+"Kingston","Norfolk Island","NF",NULL,NULL,"Tasman Sea"
+"Wellington","New Zealand","NZ",NULL,NULL,"Pacific Ocean"
+"Auckland","New Zealand","NZ",NULL,NULL,"Pacific Ocean"
+"Auckland","New Zealand","NZ",NULL,NULL,"Tasman Sea"
+"Hamilton","New Zealand","NZ","Waikato River",NULL,NULL
+"Christchurch","New Zealand","NZ",NULL,NULL,"Pacific Ocean"
+"Dunedin","New Zealand","NZ",NULL,NULL,"Pacific Ocean"
+"Koror","Palau","PAL",NULL,NULL,"Pacific Ocean"
+"Ngerulmud","Palau","PAL",NULL,NULL,"Pacific Ocean"
+"Saipan","Northern Mariana Islands","MP",NULL,NULL,"Pacific Ocean"
+"Hagåtña","Guam","GU",NULL,NULL,"Pacific Ocean"
+"Palikir","Micronesia","FSM",NULL,NULL,"Pacific Ocean"
+"Majuro","Marshall Islands","MH",NULL,NULL,"Pacific Ocean"
+"Yaren","Nauru","NAU",NULL,NULL,"Pacific Ocean"
+"Tarawa","Kiribati","KIR",NULL,NULL,"Pacific Ocean"
+"Funafuti","Tuvalu","TUV",NULL,NULL,"Pacific Ocean"
+"Fakaofo","Tokelau","TOK",NULL,NULL,"Pacific Ocean"
+"Apia","Samoa","WS",NULL,NULL,"Pacific Ocean"
+"Pago Pago","American Samoa","AS",NULL,NULL,"Pacific Ocean"
+"Mata-Utu","Wallis and Futuna","WF",NULL,NULL,"Pacific Ocean"
+"Suva","Fiji","FJI",NULL,NULL,"Pacific Ocean"
+"Nukualofa","Tonga","TO",NULL,NULL,"Pacific Ocean"
+"Alofi","Niue","NU",NULL,NULL,"Pacific Ocean"
+"Avarua","Cook Islands","CK",NULL,NULL,"Pacific Ocean"
+"Papeete","French Polynesia","PF",NULL,NULL,"Pacific Ocean"
+"Rikitea","French Polynesia","PF",NULL,NULL,"Pacific Ocean"
+"Adamstown","Pitcairn","PN",NULL,NULL,"Pacific Ocean"
+"Al Qahirah","Egypt","ET","Nile",NULL,NULL
+"Al-Qāhirah al-Jadīdah","Egypt","ET","Nile",NULL,NULL
+"Al Iskandariyah","Egypt","ET",NULL,NULL,"Mediterranean Sea"
+"Al Jizah","Egypt","ET","Nile",NULL,NULL
+"Bur Said","Egypt","ET",NULL,NULL,"Mediterranean Sea"
+"Al Minya","Egypt","ET","Nile",NULL,NULL
+"As Suways","Egypt","ET",NULL,NULL,"Red Sea"
+"Hurghada","Egypt","ET",NULL,NULL,"Red Sea"
+"Marsa Matruh","Egypt","ET",NULL,NULL,"Mediterranean Sea"
+"Shubra al Khimah","Egypt","ET","Nile",NULL,NULL
+"Aswan","Egypt","ET","Nile",NULL,NULL
+"Asyut","Egypt","ET","Nile",NULL,NULL
+"Bani Suwayf","Egypt","ET","Nile",NULL,NULL
+"Qina","Egypt","ET","Nile",NULL,NULL
+"Al Uqsur","Egypt","ET","Nile",NULL,NULL
+"Sawhaj","Egypt","ET","Nile",NULL,NULL
+"Al-Arish","Egypt","ET",NULL,NULL,"Mediterranean Sea"
+"Dumyat","Egypt","ET",NULL,NULL,"Mediterranean Sea"
+"Tripoli","Libya","LAR",NULL,NULL,"Mediterranean Sea"
+"Benghazi","Libya","LAR",NULL,NULL,"Mediterranean Sea"
+"Misratah","Libya","LAR",NULL,NULL,"Mediterranean Sea"
+"Tunis","Tunisia","TN",NULL,NULL,"Mediterranean Sea"
+"Sfax","Tunisia","TN",NULL,NULL,"Mediterranean Sea"
+"Sousse","Tunisia","TN",NULL,NULL,"Mediterranean Sea"
+"Banzart","Tunisia","TN",NULL,NULL,"Mediterranean Sea"
+"Algiers","Algeria","DZ",NULL,NULL,"Mediterranean Sea"
+"Annaba","Algeria","DZ",NULL,NULL,"Mediterranean Sea"
+"Skikda","Algeria","DZ",NULL,NULL,"Mediterranean Sea"
+"Oran","Algeria","DZ",NULL,NULL,"Mediterranean Sea"
+"Constantine","Algeria","DZ","Rhumel",NULL,NULL
+"Bejaïa","Algeria","DZ",NULL,NULL,"Mediterranean Sea"
+"Mostaganem","Algeria","DZ","Chelif",NULL,"Mediterranean Sea"
+"Ech Chelif","Algeria","DZ","Chelif",NULL,NULL
+"Agadir","Souss Massa Daraa","MA",NULL,NULL,"Atlantic Ocean"
+"Kénitra","Gharb Chrarda Beni Hssen","MA",NULL,NULL,"Atlantic Ocean"
+"Nador","Oriental","MA",NULL,NULL,"Mediterranean Sea"
+"Casablanca","Grand Casablanca","MA",NULL,NULL,"Atlantic Ocean"
+"Mohammedia","Grand Casablanca","MA",NULL,NULL,"Atlantic Ocean"
+"Rabat","Rabat Sale Zemmour Zaer","MA",NULL,NULL,"Atlantic Ocean"
+"Salé","Rabat Sale Zemmour Zaer","MA",NULL,NULL,"Atlantic Ocean"
+"Temara","Rabat Sale Zemmour Zaer","MA",NULL,NULL,"Atlantic Ocean"
+"Safi","Doukala Abda","MA",NULL,NULL,"Atlantic Ocean"
+"Fès","Fes Boulemane","MA",NULL,NULL,NULL
+"Al Hoceima","Taza Al Hoceima Taounate","MA",NULL,NULL,"Mediterranean Sea"
+"Tanger","Tanger Tetouan","MA",NULL,NULL,"Atlantic Ocean"
+"Bamako","Bamako","RMM","Niger",NULL,NULL
+"Gao","Gao","RMM","Niger",NULL,NULL
+"Kayes","Kayes","RMM","Senegal",NULL,NULL
+"Koulikoro","Koulikoro","RMM","Niger",NULL,NULL
+"Mopti","Mopti","RMM","Niger",NULL,NULL
+"Mopti","Mopti","RMM","Bani",NULL,NULL
+"Ségou","Ségou","RMM","Niger",NULL,NULL
+"Tombouctou","Tombouctou","RMM","Niger",NULL,NULL
+"Nouadhibou","Dakhlet Nouadhibou","RIM",NULL,NULL,"Atlantic Ocean"
+"Kaedi","Gorgol","RIM","Senegal",NULL,NULL
+"Nouakchott","Nouakchott","RIM",NULL,NULL,"Atlantic Ocean"
+"Rosso","Trarza","RIM","Senegal",NULL,NULL
+"Dakar","Dakar","SN",NULL,NULL,"Atlantic Ocean"
+"Rufisque","Dakar","SN",NULL,NULL,"Atlantic Ocean"
+"Saint-Louis","Saint-Louis","SN","Senegal",NULL,NULL
+"Banjul","Gambia","WAG","Gambia",NULL,"Atlantic Ocean"
+"Serekunda","Gambia","WAG","Gambia",NULL,"Atlantic Ocean"
+"Bissau","Guinea-Bissau","GUB","Rio Corubal",NULL,"Atlantic Ocean"
+"Conakry","Guinea","RG",NULL,NULL,"Atlantic Ocean"
+"Freetown","Sierra Leone","SLE",NULL,NULL,"Atlantic Ocean"
+"Kenema","Sierra Leone","SLE",NULL,NULL,NULL
+"Monrovia","Liberia","LB",NULL,NULL,"Atlantic Ocean"
+"Abidjan","Abidjan","CI",NULL,NULL,"Atlantic Ocean"
+"San-Pedro","Bas-Sassandra","CI",NULL,NULL,"Atlantic Ocean"
+"Cape Coast","Central","GH",NULL,NULL,"Atlantic Ocean"
+"Accra","Greater Accra","GH",NULL,NULL,"Atlantic Ocean"
+"Tema","Greater Accra","GH",NULL,NULL,"Atlantic Ocean"
+"Ashiaman","Greater Accra","GH",NULL,NULL,"Atlantic Ocean"
+"Dambai","Oti","GH",NULL,NULL,NULL
+"Takoradi","Western","GH",NULL,NULL,"Atlantic Ocean"
+"Lomé","Togo","RT",NULL,NULL,"Atlantic Ocean"
+"Porto-Novo","Benin","BEN",NULL,NULL,"Atlantic Ocean"
+"Cotonou","Benin","BEN",NULL,NULL,"Atlantic Ocean"
+"Godomey","Benin","BEN",NULL,NULL,"Atlantic Ocean"
+"Yola","Adamawa","NGR","Benue",NULL,NULL
+"Onitsha","Anambra","NGR","Niger",NULL,NULL
+"Yenagoa","Bayelsa","NGR","Niger",NULL,NULL
+"Makurdi","Benue","NGR","Benue",NULL,NULL
+"Calabar","Cross River","NGR",NULL,NULL,"Atlantic Ocean"
+"Asaba","Delta","NGR","Niger",NULL,NULL
+"Warri","Delta","NGR",NULL,NULL,"Atlantic Ocean"
+"Kaduna","Kaduna","NGR","Kaduna",NULL,NULL
+"Kano","Kano","NGR","Hadejia",NULL,NULL
+"Birnin Kebbi","Kebbi","NGR","Sokoto",NULL,NULL
+"Lokoja","Kogi","NGR","Niger",NULL,NULL
+"Lokoja","Kogi","NGR","Benue",NULL,NULL
+"Lagos","Lagos","NGR",NULL,NULL,"Atlantic Ocean"
+"Ikorodu","Lagos","NGR",NULL,NULL,"Atlantic Ocean"
+"Jos","Plateau","NGR","Kaduna",NULL,NULL
+"Jos","Plateau","NGR","Jamaare",NULL,NULL
+"Port Harcourt","Rivers","NGR",NULL,NULL,"Atlantic Ocean"
+"Sokoto","Sokoto","NGR","Sokoto",NULL,NULL
+"Gusau","Zamfara","NGR","Sokoto",NULL,NULL
+"Diffa","Diffa","RN","Yobe",NULL,NULL
+"Niamey","Niamey","RN","Niger",NULL,NULL
+"Tillaberi","Tillabéri","RN","Niger",NULL,NULL
+"N'Djamena","Chad","TCH","Logone",NULL,NULL
+"N'Djamena","Chad","TCH","Schari",NULL,NULL
+"Moundou","Chad","TCH","Logone",NULL,NULL
+"Port Sudan","Al-Baḥr al-Aḥmar","SUD",NULL,NULL,"Red Sea"
+"Al Gazira","Al-Jazīrah","SUD","Blue Nile",NULL,NULL
+"Khartoum","Al-Kharṭūm","SUD","Nile",NULL,NULL
+"Khartoum","Al-Kharṭūm","SUD","Blue Nile",NULL,NULL
+"Omdurman","Al-Kharṭūm","SUD","Nile",NULL,NULL
+"Omdurman","Al-Kharṭūm","SUD","Blue Nile",NULL,NULL
+"Omdurman","Al-Kharṭūm","SUD","White Nile",NULL,NULL
+"Khartoum North","Al-Kharṭūm","SUD","Nile",NULL,NULL
+"Rabak","An-Nīl al-Abyaḍ","SUD","White Nile",NULL,NULL
+"Kūstī","An-Nīl al-Abyaḍ","SUD","White Nile",NULL,NULL
+"Ad-Damazīn","An-Nīl al-Azraq","SUD","Blue Nile",NULL,NULL
+"Dunqulā","Ash-Shamālīyah","SUD","Nile",NULL,NULL
+"Kassala","Kassalā","SUD","Mareb",NULL,NULL
+"Ad-Dāmir","Nahr an-Nīl","SUD","Nile",NULL,NULL
+"Atbara","Nahr an-Nīl","SUD","Nile",NULL,NULL
+"Atbara","Nahr an-Nīl","SUD","Atbara",NULL,NULL
+"Sannār","Sannār","SUD","Blue Nile",NULL,NULL
+"Juba","South Sudan","SSD","Bahr el-Djebel/Albert Nil",NULL,NULL
+"Bangui","Central African Republic","RCA","Ubangi",NULL,NULL
+"Bimbo","Central African Republic","RCA","Ubangi",NULL,NULL
+"Ngaoundéré","Adamaoua","CAM","Logone",NULL,NULL
+"Douala","Littoral","CAM",NULL,NULL,"Atlantic Ocean"
+"Garoua","Nord","CAM","Benue",NULL,NULL
+"Malabo","Insular","GQ",NULL,NULL,"Atlantic Ocean"
+"Bata","Continental","GQ",NULL,NULL,"Atlantic Ocean"
+"Libreville","Gabon","G","Komo",NULL,"Atlantic Ocean"
+"Port-Gentil","Gabon","G","Ogooué",NULL,"Atlantic Ocean"
+"Franceville","Gabon","G","Ogooué",NULL,NULL
+"Ouesso","Sangha","RCB","Sanga",NULL,NULL
+"Impfondo","Likouala","RCB","Ubangi",NULL,NULL
+"Brazzaville","Brazzaville","RCB","Congo","Malebo Pool",NULL
+"Pointe-Noire","Pointe-Noire","RCB",NULL,NULL,"Atlantic Ocean"
+"Kinshasa","Kinshasa","CGO","Congo","Malebo Pool",NULL
+"Matadi","Kongo Central","CGO","Congo",NULL,NULL
+"Boma","Kongo Central","CGO","Congo",NULL,NULL
+"Bandundu","Kwilu","CGO","Kasai",NULL,NULL
+"Bandundu","Kwilu","CGO","Cuango",NULL,NULL
+"Bandundu","Kwilu","CGO","Cuilo",NULL,NULL
+"Kikwit","Kwilu","CGO","Cuilo",NULL,NULL
+"Inongo","Mai-Ndombe","CGO",NULL,"Lake Mai Ndombe",NULL
+"Luebo","Kasai","CGO","Lulua",NULL,NULL
+"Tshikapa","Kasai","CGO","Kasai",NULL,NULL
+"Kananga","Kasai-Central","CGO","Lulua",NULL,NULL
+"Lodja","Sankuru","CGO","Lukenie",NULL,NULL
+"Kindu","Maniema","CGO","Lualaba",NULL,NULL
+"Bukavu","Sud-Kivu","CGO",NULL,"Lake Kivu",NULL
+"Uvira","Sud-Kivu","CGO",NULL,"Lake Tanganjika",NULL
+"Goma","Nord-Kivu","CGO",NULL,"Lake Kivu",NULL
+"Kisangani","Tshopo","CGO","Congo",NULL,NULL
+"Kisangani","Tshopo","CGO","Lualaba",NULL,NULL
+"Gbadolite","Nord-Ubangi","CGO","Ubangi",NULL,NULL
+"Lisala","Mongala","CGO","Congo",NULL,NULL
+"Mbandaka","Équateur","CGO","Congo",NULL,NULL
+"Mbandaka","Équateur","CGO","Tshuapa",NULL,NULL
+"Boende","Tshuapa","CGO",NULL,NULL,NULL
+"Kalemi","Tanganyika","CGO","Lukuga","Lake Tanganjika",NULL
+"Kamina","Haut-Lomami","CGO",NULL,NULL,NULL
+"Cabinda","Cabinda","ANG",NULL,NULL,"Atlantic Ocean"
+"Luanda","Luanda","ANG",NULL,NULL,"Atlantic Ocean"
+"Sumbe","Cuanza Sul","ANG",NULL,NULL,"Atlantic Ocean"
+"Benguela","Benguela","ANG",NULL,NULL,"Atlantic Ocean"
+"Lobito","Benguela","ANG",NULL,NULL,"Atlantic Ocean"
+"Moçâmedes","Namibe","ANG",NULL,NULL,"Atlantic Ocean"
+"Rundu","Namibia","NAM","Okavango",NULL,NULL
+"Walvis Bay","Namibia","NAM",NULL,NULL,"Atlantic Ocean"
+"Nelson Mandela Bay","Eastern Cape","RSA",NULL,NULL,"Indian Ocean"
+"Buffalo City","Eastern Cape","RSA",NULL,NULL,"Indian Ocean"
+"eThekwini","KwaZulu-Natal","RSA",NULL,NULL,"Indian Ocean"
+"Cape Town","Western Cape","RSA",NULL,NULL,"Atlantic Ocean"
+"Pemba","Cabo Delgado","MOC",NULL,NULL,"Indian Ocean"
+"Xai-Xai","Gaza","MOC","Limpopo",NULL,"Indian Ocean"
+"Inhambane","Inhambane","MOC",NULL,NULL,"Indian Ocean"
+"Beira","Sofala","MOC",NULL,NULL,"Indian Ocean"
+"Tete","Tete","MOC","Zambezi",NULL,NULL
+"Quelimane","Zambézia","MOC",NULL,NULL,"Indian Ocean"
+"Maputo","Cidade de Maputo","MOC",NULL,NULL,"Indian Ocean"
+"Kitwe","Copperbelt","Z","Kafue",NULL,NULL
+"Chingola","Copperbelt","Z","Kafue",NULL,NULL
+"Livingstone","Southern","Z","Zambezi",NULL,NULL
+"Tanga","Tanga","EAT",NULL,NULL,"Indian Ocean"
+"Dar es Salaam","Dar es Salaam","EAT",NULL,NULL,"Indian Ocean"
+"Lindi","Lindi","EAT",NULL,NULL,"Indian Ocean"
+"Mtwara","Mtwara","EAT",NULL,NULL,"Indian Ocean"
+"Kigoma-Ujiji","Kigoma","EAT",NULL,"Lake Tanganjika",NULL
+"Bukoba","Kagera","EAT",NULL,"Lake Victoria",NULL
+"Mwanza","Mwanza","EAT",NULL,"Lake Victoria",NULL
+"Musoma","Mara","EAT","Mara","Lake Victoria",NULL
+"Zanzibar","Zanzibar","EAT",NULL,NULL,"Indian Ocean"
+"Njombe","Njombe","EAT","Rufiji",NULL,NULL
+"Bujumbura","Burundi","BI",NULL,"Lake Tanganjika",NULL
+"Gitega","Burundi","BI","Luvironza",NULL,NULL
+"Gisenyi","Rwanda","RWA",NULL,"Lake Kivu",NULL
+"Kampala","Central","EAU",NULL,"Lake Victoria",NULL
+"Mukono","Central","EAU",NULL,"Lake Victoria",NULL
+"Jinja","Eastern","EAU","Victoria Nile","Lake Victoria",NULL
+"Mombasa","Kenya","EAK",NULL,NULL,"Indian Ocean"
+"Malindi","Kenya","EAK",NULL,NULL,"Indian Ocean"
+"Kisumu","Kenya","EAK",NULL,"Lake Victoria",NULL
+"Mogadishu","Somalia","SO",NULL,NULL,"Indian Ocean"
+"Kismayo","Somalia","SO","Jubba",NULL,"Indian Ocean"
+"Berbera","Somalia","SO",NULL,NULL,"Gulf of Aden"
+"Djibouti","Djibouti","DJI",NULL,NULL,"Gulf of Aden"
+"Gambella","Gambella","ETH","Baro",NULL,NULL
+"Arba Minch","Southern","ETH",NULL,NULL,NULL
+"Asmara","Eritrea","ER","Mareb",NULL,NULL
+"Massaua","Eritrea","ER",NULL,NULL,"Red Sea"
+"Praia","Cape Verde","CV",NULL,NULL,"Atlantic Ocean"
+"São Tomé","Sao Tome and Principe","STP",NULL,NULL,"Atlantic Ocean"
+"Victoria","Seychelles","SY",NULL,NULL,"Indian Ocean"
+"Moroni","Comoros","COM",NULL,NULL,"Indian Ocean"
+"Mamoutzou","Mayotte","MYT",NULL,NULL,"Indian Ocean"
+"Fianarantsoa","Madagascar","RM","Mangoky",NULL,NULL
+"Majunga","Madagascar","RM",NULL,NULL,"Indian Ocean"
+"Tamatave","Madagascar","RM",NULL,NULL,"Indian Ocean"
+"Toliara","Madagascar","RM",NULL,NULL,"Indian Ocean"
+"Port Louis","Mauritius","MS",NULL,NULL,"Indian Ocean"
+"Saint-Denis","Reunion","RE",NULL,NULL,"Indian Ocean"
+"Saint-Paul","Reunion","RE",NULL,NULL,"Indian Ocean"
+"Jamestown","Saint Helena","HELX",NULL,NULL,"Atlantic Ocean"
+"Nuuk","Greenland","GL",NULL,NULL,"Labrador Sea"
+"Saint-Pierre","Saint Pierre and Miquelon","SPM",NULL,NULL,"Atlantic Ocean"
+"Hamilton","Bermuda","BM",NULL,NULL,"Atlantic Ocean"
+"Edmonton","Alberta","CDN","North Saskatchewan River",NULL,NULL
+"Calgary","Alberta","CDN","South Saskatchewan River",NULL,NULL
+"Vancouver","British Columbia","CDN",NULL,NULL,"Pacific Ocean"
+"Victoria","British Columbia","CDN",NULL,NULL,"Pacific Ocean"
+"Saanich","British Columbia","CDN",NULL,NULL,"Pacific Ocean"
+"Winnipeg","Manitoba","CDN","Red River of the North",NULL,NULL
+"St. John's","Newfoundland and Labrador","CDN",NULL,NULL,"Atlantic Ocean"
+"Yellowknife","Northwest Territories","CDN",NULL,"Great Slave Lake",NULL
+"Halifax","Nova Scotia","CDN",NULL,NULL,"Atlantic Ocean"
+"Ottawa","Ontario","CDN","Ottawa River",NULL,NULL
+"Gatineau","Ontario","CDN","Ottawa River",NULL,NULL
+"Hamilton","Ontario","CDN",NULL,"Lake Ontario",NULL
+"Toronto","Ontario","CDN",NULL,"Lake Ontario",NULL
+"Windsor","Ontario","CDN","Detroit River",NULL,NULL
+"Oshawa","Ontario","CDN",NULL,"Lake Ontario",NULL
+"Mississauga","Ontario","CDN",NULL,"Lake Ontario",NULL
+"Burlington","Ontario","CDN",NULL,"Lake Ontario",NULL
+"Saint Catharines","Ontario","CDN",NULL,"Lake Ontario",NULL
+"Thunder Bay","Ontario","CDN",NULL,"Lake Superior",NULL
+"Charlottetown","Prince Edward Island","CDN",NULL,NULL,"Atlantic Ocean"
+"Laval","Quebec","CDN","Saint Lawrence River",NULL,NULL
+"Montréal","Quebec","CDN","Saint Lawrence River",NULL,NULL
+"Quebec","Quebec","CDN","Saint Lawrence River",NULL,NULL
+"Longueuil","Quebec","CDN","Saint Lawrence River",NULL,NULL
+"Saskatoon","Saskatchewan","CDN","South Saskatchewan River",NULL,NULL
+"Whitehorse","Yukon","CDN","Yukon River",NULL,NULL
+"Iqaluit","Nunavut","CDN",NULL,NULL,"Labrador Sea"
+"Mobile","Alabama","USA",NULL,NULL,"Gulf of Mexico"
+"Huntsville","Alabama","USA","Tennessee River",NULL,NULL
+"Anchorage","Alaska","USA",NULL,NULL,"Pacific Ocean"
+"Juneau","Alaska","USA",NULL,NULL,"Pacific Ocean"
+"Phoenix","Arizona","USA","Gila River",NULL,NULL
+"Little Rock","Arkansas","USA","Arkansas",NULL,NULL
+"Los Angeles","California","USA",NULL,NULL,"Pacific Ocean"
+"San Diego","California","USA",NULL,NULL,"Pacific Ocean"
+"San Francisco","California","USA",NULL,NULL,"Pacific Ocean"
+"San Francisco","California","USA",NULL,NULL,"San Francisco Bay"
+"Long Beach","California","USA",NULL,NULL,"Pacific Ocean"
+"Fresno","California","USA","San Joaquin River",NULL,NULL
+"Sacramento","California","USA","Sacramento River",NULL,NULL
+"Oakland","California","USA",NULL,NULL,NULL
+"Stockton","California","USA","San Joaquin River",NULL,NULL
+"Huntington Beach","California","USA",NULL,NULL,"Pacific Ocean"
+"Fremont","California","USA",NULL,NULL,NULL
+"Oxnard","California","USA",NULL,NULL,"Pacific Ocean"
+"Oceanside","California","USA",NULL,NULL,"Pacific Ocean"
+"Hayward","California","USA",NULL,NULL,NULL
+"Vallejo","California","USA",NULL,NULL,NULL
+"Richmond","California","USA",NULL,NULL,NULL
+"Denver","Colorado","USA","South Platte River",NULL,NULL
+"Bridgeport","Connecticut","USA",NULL,NULL,"Atlantic Ocean"
+"Hartford","Connecticut","USA","Connecticut River",NULL,NULL
+"New Haven","Connecticut","USA",NULL,NULL,"Atlantic Ocean"
+"Stamford","Connecticut","USA",NULL,NULL,"Atlantic Ocean"
+"Jacksonville","Florida","USA",NULL,NULL,"Atlantic Ocean"
+"Miami","Florida","USA",NULL,NULL,"Atlantic Ocean"
+"Tampa","Florida","USA",NULL,NULL,"Gulf of Mexico"
+"St. Petersburg","Florida","USA",NULL,NULL,"Gulf of Mexico"
+"Fort Lauderdale","Florida","USA",NULL,NULL,"Atlantic Ocean"
+"Hollywood","Florida","USA",NULL,NULL,"Atlantic Ocean"
+"Cape Coral","Florida","USA",NULL,NULL,"Gulf of Mexico"
+"Clearwater","Florida","USA",NULL,NULL,"Gulf of Mexico"
+"Port St. Lucie","Florida","USA",NULL,NULL,"Atlantic Ocean"
+"Savannah","Georgia","USA","Savannah River",NULL,"Atlantic Ocean"
+"Augusta","Georgia","USA","Savannah River",NULL,NULL
+"Honolulu","Hawaii","USA",NULL,NULL,"Pacific Ocean"
+"Hilo","Hawaii","USA",NULL,NULL,"Pacific Ocean"
+"Chicago","Illinois","USA",NULL,"Lake Michigan",NULL
+"Evansville","Indiana","USA","Ohio River",NULL,NULL
+"Wichita","Kansas","USA","Arkansas",NULL,NULL
+"Kansas City","Kansas","USA","Missouri",NULL,NULL
+"Louisville","Kentucky","USA","Ohio River",NULL,NULL
+"New Orleans","Louisiana","USA","Mississippi",NULL,NULL
+"Baton Rouge","Louisiana","USA","Mississippi",NULL,NULL
+"Portland","Maine","USA",NULL,NULL,"Atlantic Ocean"
+"Annapolis","Maryland","USA",NULL,NULL,"Atlantic Ocean"
+"Boston","Massachusetts","USA",NULL,NULL,"Atlantic Ocean"
+"Springfield","Massachusetts","USA","Connecticut River",NULL,NULL
+"Detroit","Michigan","USA","Detroit River",NULL,NULL
+"Minneapolis","Minnesota","USA","Mississippi",NULL,NULL
+"St. Paul","Minnesota","USA","Mississippi",NULL,NULL
+"Kansas City","Missouri","USA","Missouri",NULL,NULL
+"St. Louis","Missouri","USA","Mississippi",NULL,NULL
+"St. Louis","Missouri","USA","Missouri",NULL,NULL
+"Independence","Missouri","USA","Missouri",NULL,NULL
+"Jefferson City","Missouri","USA","Missouri",NULL,NULL
+"Omaha","Nebraska","USA","Missouri",NULL,NULL
+"Reno","Nevada","USA","Truckee River",NULL,NULL
+"Concord","New Hampshire","USA","Merrimack River",NULL,NULL
+"Newark","New Jersey","USA",NULL,NULL,"Atlantic Ocean"
+"Jersey City","New Jersey","USA","Hudson River",NULL,"Atlantic Ocean"
+"Elizabeth","New Jersey","USA",NULL,NULL,"Atlantic Ocean"
+"Albuquerque","New Mexico","USA","Rio Grande del Norte",NULL,NULL
+"New York","New York","USA","Hudson River",NULL,"Atlantic Ocean"
+"Buffalo","New York","USA",NULL,"Lake Erie",NULL
+"Rochester","New York","USA",NULL,"Lake Ontario",NULL
+"Yonkers","New York","USA","Hudson River",NULL,NULL
+"Albany","New York","USA","Hudson River",NULL,NULL
+"Bismarck","North Dakota","USA","Missouri","Lake Oahe",NULL
+"Cleveland","Ohio","USA",NULL,"Lake Erie",NULL
+"Cincinnati","Ohio","USA","Ohio River",NULL,NULL
+"Toledo","Ohio","USA",NULL,"Lake Erie",NULL
+"Tulsa","Oklahoma","USA","Arkansas",NULL,NULL
+"Portland","Oregon","USA","Columbia River",NULL,NULL
+"Philadelphia","Pennsylvania","USA","Delaware River",NULL,NULL
+"Pittsburgh","Pennsylvania","USA","Ohio River",NULL,NULL
+"Erie","Pennsylvania","USA",NULL,"Lake Erie",NULL
+"Harrisburg","Pennsylvania","USA","Susquehanna River",NULL,NULL
+"Providence","Rhode Island","USA",NULL,NULL,"Atlantic Ocean"
+"Charleston","South Carolina","USA",NULL,NULL,"Atlantic Ocean"
+"Pierre","South Dakota","USA","Missouri","Lake Oahe",NULL
+"Memphis","Tennessee","USA","Mississippi",NULL,NULL
+"Knoxville","Tennessee","USA","Tennessee River",NULL,NULL
+"Chattanooga","Tennessee","USA","Tennessee River",NULL,NULL
+"El Paso","Texas","USA","Rio Grande del Norte",NULL,NULL
+"Corpus Christi","Texas","USA",NULL,NULL,"Gulf of Mexico"
+"Waco","Texas","USA","Brazos River",NULL,NULL
+"Salt Lake City","Utah","USA",NULL,"Great Salt Lake",NULL
+"Norfolk","Virginia","USA",NULL,NULL,"Atlantic Ocean"
+"Chesapeake","Virginia","USA",NULL,NULL,"Atlantic Ocean"
+"Newport News","Virginia","USA",NULL,NULL,"Atlantic Ocean"
+"Arlington","Virginia","USA","Potomac River",NULL,NULL
+"Alexandria","Virginia","USA","Potomac River",NULL,NULL
+"Vancouver","Washington","USA","Columbia River",NULL,NULL
+"Milwaukee","Wisconsin","USA",NULL,"Lake Michigan",NULL
+"Washington","District of Columbia","USA","Potomac River",NULL,NULL
+"Tijuana","Baja California","MEX",NULL,NULL,"Pacific Ocean"
+"Ensenada","Baja California","MEX",NULL,NULL,"Pacific Ocean"
+"La Paz","Baja California Sur","MEX",NULL,NULL,"Gulf of California"
+"Cabo San Lucas","Baja California Sur","MEX",NULL,NULL,"Pacific Ocean"
+"Campeche","Campeche","MEX",NULL,NULL,"Gulf of Mexico"
+"Tuxtla Gutiérrez","Chiapas","MEX","Rio Grijalva",NULL,NULL
+"Ciudad Juárez","Chihuahua","MEX","Rio Grande del Norte",NULL,NULL
+"Irapuato","Guanajuato","MEX","Rio Lerma Santiago",NULL,NULL
+"Acapulco","Guerrero","MEX",NULL,NULL,"Pacific Ocean"
+"Guadalajara","Jalisco","MEX","Rio Lerma Santiago",NULL,NULL
+"Cancún","Quintana Roo","MEX",NULL,NULL,"Caribbean Sea"
+"Chetumal","Quintana Roo","MEX",NULL,NULL,"Caribbean Sea"
+"Playa del Carmen","Quintana Roo","MEX",NULL,NULL,"Caribbean Sea"
+"Mazatlán","Sinaloa","MEX",NULL,NULL,"Pacific Ocean"
+"Los Mochis","Sinaloa","MEX",NULL,NULL,"Gulf of California"
+"Villahermosa","Tabasco","MEX","Rio Grijalva",NULL,NULL
+"Tampico","Tamaulipas","MEX",NULL,NULL,"Gulf of Mexico"
+"Matamoros","Tamaulipas","MEX","Rio Grande del Norte",NULL,NULL
+"Reynosa","Tamaulipas","MEX","Rio Grande del Norte",NULL,NULL
+"Nuevo Laredo","Tamaulipas","MEX","Rio Grande del Norte",NULL,NULL
+"Ciudad Madero","Tamaulipas","MEX",NULL,NULL,"Gulf of Mexico"
+"Coatzacoalcos","Veracruz","MEX",NULL,NULL,"Gulf of Mexico"
+"Veracruz","Veracruz","MEX",NULL,NULL,"Gulf of Mexico"
+"Boca del Río","Veracruz","MEX",NULL,NULL,"Gulf of Mexico"
+"Belmopan","Belize","BZ","Belize River",NULL,NULL
+"Belize City","Belize","BZ","Belize River",NULL,"Caribbean Sea"
+"La Ceiba","Atlántida","HN",NULL,NULL,"Caribbean Sea"
+"Trujillo","Colón","HN",NULL,NULL,"Caribbean Sea"
+"Puerto Cortes","Cortés","HN",NULL,NULL,"Caribbean Sea"
+"Puerto Lempira","Gracias a Dios","HN",NULL,NULL,"Caribbean Sea"
+"Managua","Nicaragua","NIC",NULL,"Lake Managua",NULL
+"Granada","Nicaragua","NIC",NULL,"Lake Nicaragua",NULL
+"Tipitapa","Nicaragua","NIC",NULL,"Lake Managua",NULL
+"Puntarenas","Puntarenas","CR",NULL,NULL,"Pacific Ocean"
+"Limón","Limón","CR",NULL,NULL,"Caribbean Sea"
+"Bocas del Toro","Bocas del Toro","PA",NULL,NULL,"Caribbean Sea"
+"Changuinola","Bocas del Toro","PA",NULL,NULL,"Caribbean Sea"
+"Colón","Colón","PA",NULL,NULL,"Caribbean Sea"
+"El Porvenir","Guna Yala","PA",NULL,NULL,"Caribbean Sea"
+"La Palma","Darién","PA",NULL,NULL,"Pacific Ocean"
+"Panamá City","Panamá","PA",NULL,NULL,"Pacific Ocean"
+"Nassau","Bahamas","BS",NULL,NULL,"Atlantic Ocean"
+"Grand Turk","Turks and Caicos Islands","TUCA",NULL,NULL,"Atlantic Ocean"
+"George Town","Cayman Islands","CYM",NULL,NULL,"Caribbean Sea"
+"Cienfuegos","Cienfuegos","C",NULL,NULL,"Caribbean Sea"
+"La Habana","La Habana","C",NULL,NULL,"Gulf of Mexico"
+"Manzanillo","Granma","C",NULL,NULL,"Caribbean Sea"
+"Guantánamo","Guantánamo","C",NULL,NULL,"Caribbean Sea"
+"Santiago de Cuba","Santiago de Cuba","C",NULL,NULL,"Caribbean Sea"
+"Kingston","Jamaica","JA",NULL,NULL,"Caribbean Sea"
+"Port-au-Prince","Haiti","RH",NULL,NULL,"Caribbean Sea"
+"Carrefour","Haiti","RH",NULL,NULL,"Caribbean Sea"
+"Delmas","Haiti","RH",NULL,NULL,"Caribbean Sea"
+"Pétion-Ville","Haiti","RH",NULL,NULL,"Caribbean Sea"
+"Gonaïves","Haiti","RH",NULL,NULL,"Caribbean Sea"
+"Cap-Haïtien","Haiti","RH",NULL,NULL,"Atlantic Ocean"
+"Santo Domingo","Dominican Republic","DOM",NULL,NULL,"Caribbean Sea"
+"Puerto Plata","Dominican Republic","DOM",NULL,NULL,"Atlantic Ocean"
+"San Juan","Puerto Rico","PR",NULL,NULL,"Atlantic Ocean"
+"Ponce","Puerto Rico","PR",NULL,NULL,"Caribbean Sea"
+"Carolina","Puerto Rico","PR",NULL,NULL,"Atlantic Ocean"
+"Charlotte Amalie","Virgin Islands","VIRG",NULL,NULL,"Caribbean Sea"
+"Road Town","British Virgin Islands","BVI",NULL,NULL,"Caribbean Sea"
+"The Valley","Anguilla","AXA",NULL,NULL,"Atlantic Ocean"
+"Marigot","Saint Martin","SMAR",NULL,NULL,"Caribbean Sea"
+"Philipsburg","Sint Maarten","SX",NULL,NULL,"Caribbean Sea"
+"Gustavia","Saint Barthelemy","SBAR",NULL,NULL,"Caribbean Sea"
+"Basseterre","Saint Kitts and Nevis","KN",NULL,NULL,"Caribbean Sea"
+"St. John's","Antigua and Barbuda","AG",NULL,NULL,"Caribbean Sea"
+"Plymouth","Montserrat","MNTS",NULL,NULL,"Caribbean Sea"
+"Brades","Montserrat","MNTS",NULL,NULL,"Caribbean Sea"
+"Basse-Terre","Guadeloupe","GP",NULL,NULL,"Caribbean Sea"
+"Roseau","Dominica","WD",NULL,NULL,"Caribbean Sea"
+"Fort-de-France","Martinique","MQ",NULL,NULL,"Caribbean Sea"
+"Castries","Saint Lucia","WL",NULL,NULL,"Caribbean Sea"
+"Bridgetown","Barbados","BDS",NULL,NULL,"Atlantic Ocean"
+"Kingstown","Saint Vincent and the Grenadines","WV",NULL,NULL,"Caribbean Sea"
+"Saint George's","Grenada","WG",NULL,NULL,"Caribbean Sea"
+"Port-of-Spain","Trinidad and Tobago","TT",NULL,NULL,"Caribbean Sea"
+"Kralendijk","Bonaire","NLB",NULL,NULL,"Caribbean Sea"
+"Willemstad","Curacao","CUR",NULL,NULL,"Caribbean Sea"
+"Oranjestad","Aruba","ARU",NULL,NULL,"Caribbean Sea"
+"Puerto Ayacucho","Amazonas","YV","Orinoco",NULL,NULL
+"Barcelona","Anzoátegui","YV",NULL,NULL,"Caribbean Sea"
+"Puerto La Cruz","Anzoátegui","YV",NULL,NULL,"Caribbean Sea"
+"San Fernando","Apure","YV","Apure",NULL,NULL
+"Ciudad Bolívar","Bolívar","YV","Orinoco",NULL,NULL
+"Ciudad Guayana","Bolívar","YV","Orinoco",NULL,NULL
+"Puerto Cabello","Carabobo","YV",NULL,NULL,"Caribbean Sea"
+"Tucupita","Delta Amacuro","YV","Orinoco",NULL,NULL
+"Santa Ana de Coro","Falcón","YV",NULL,NULL,"Caribbean Sea"
+"Cumaná","Sucre","YV",NULL,NULL,"Caribbean Sea"
+"Maracaibo","Zulia","YV",NULL,NULL,"Caribbean Sea"
+"Maracaibo","Zulia","YV",NULL,NULL,"Lago de Maracaibo"
+"Cabimas","Zulia","YV",NULL,NULL,"Lago de Maracaibo"
+"La Guaira","Vargas","YV",NULL,NULL,"Caribbean Sea"
+"Catia La Mar","Vargas","YV",NULL,NULL,"Caribbean Sea"
+"Georgetown","Guyana","GUY",NULL,NULL,"Atlantic Ocean"
+"Paramaribo","Suriname","SME","Suriname",NULL,"Atlantic Ocean"
+"Cayenne","French Guiana","GF",NULL,NULL,"Atlantic Ocean"
+"Leticia","Amazonas","CO","Amazonas",NULL,NULL
+"Arauca","Arauca","CO","Arauca",NULL,NULL
+"Cartagena","Bolívar","CO",NULL,NULL,"Caribbean Sea"
+"Magangué","Bolívar","CO","Rio Magdalena",NULL,NULL
+"Popayán","Cauca","CO","Rio Cauca",NULL,NULL
+"Soacha","Cundinamarca","CO","Rio Bogota",NULL,NULL
+"Riohacha","La Guajira","CO",NULL,NULL,"Caribbean Sea"
+"San Jose del Guaviare","Guaviare","CO","Rio Guaviare",NULL,NULL
+"Neiva","Huila","CO","Rio Magdalena",NULL,NULL
+"Santa Marta","Magdalena","CO",NULL,NULL,"Caribbean Sea"
+"Ciénaga","Magdalena","CO",NULL,NULL,"Caribbean Sea"
+"San Andres","San Andrés, Providencia y Santa Catalina","CO",NULL,NULL,"Caribbean Sea"
+"Bogotá","Bogotá Distrito Especial","CO","Rio Bogota",NULL,NULL
+"Barrancabermeja","Santander","CO","Rio Magdalena",NULL,NULL
+"Cali","Valle de Cauca","CO","Rio Cauca",NULL,NULL
+"Buenaventura","Valle de Cauca","CO",NULL,NULL,"Pacific Ocean"
+"Tuluá","Valle de Cauca","CO","Rio Cauca",NULL,NULL
+"Cartago","Valle de Cauca","CO","Rio Cauca",NULL,NULL
+"Puerto Carreno","Vichada","CO","Orinoco",NULL,NULL
+"Puerto Carreno","Vichada","CO","Rio Meta",NULL,NULL
+"Guayaquil","Ecuador","EC","Rio Guayas",NULL,"Pacific Ocean"
+"Chimbote","Ancash","PE",NULL,NULL,"Pacific Ocean"
+"Callao","Callao","PE",NULL,NULL,"Pacific Ocean"
+"Huánuco","Huánuco","PE","Huallaga",NULL,NULL
+"Huancayo","Junín","PE","Mantaro",NULL,NULL
+"Trujillo","La Libertad","PE",NULL,NULL,"Pacific Ocean"
+"Chiclayo","Lambayeque","PE",NULL,NULL,"Pacific Ocean"
+"Lima","Lima City","PE",NULL,NULL,"Pacific Ocean"
+"Iquitos","Loreto","PE","Amazonas",NULL,NULL
+"Puerto Maldonado","Madre de Dios","PE","Rio Madre de Dios",NULL,NULL
+"Talara","Piura","PE",NULL,NULL,"Pacific Ocean"
+"Tumbes","Tumbes","PE",NULL,NULL,"Pacific Ocean"
+"Pucallpa","Ucayali","PE","Ucayali",NULL,NULL
+"Cobija","Pando","BOL","Acre",NULL,NULL
+"Iquique","Tarapacá","RCH",NULL,NULL,"Pacific Ocean"
+"Antofagasta","Antofagasta","RCH",NULL,NULL,"Pacific Ocean"
+"La Serena","Coquimbo","RCH",NULL,NULL,"Pacific Ocean"
+"Valparaíso","Valparaíso","RCH",NULL,NULL,"Pacific Ocean"
+"Concepción","Bío-Bío","RCH",NULL,NULL,"Pacific Ocean"
+"Puerto Montt","Lagos","RCH",NULL,NULL,"Pacific Ocean"
+"Punta Arenas","Magallanes","RCH",NULL,NULL,"Pacific Ocean"
+"Valdivia","Ríos","RCH",NULL,NULL,"Pacific Ocean"
+"Arica","Arica y Parinacota","RCH",NULL,NULL,"Pacific Ocean"
+"La Plata","Buenos Aires","RA",NULL,NULL,"Atlantic Ocean"
+"Mar del Plata","Buenos Aires","RA",NULL,NULL,"Atlantic Ocean"
+"San Isidro","Buenos Aires","RA","Parana",NULL,NULL
+"Bahía Blanca","Buenos Aires","RA",NULL,NULL,"Atlantic Ocean"
+"Resistencia","Chaco","RA","Parana",NULL,NULL
+"Comodoro Rivadavia","Chubut","RA",NULL,NULL,"Atlantic Ocean"
+"Rawson","Chubut","RA","Río Chubut",NULL,"Atlantic Ocean"
+"Corrientes","Corrientes","RA","Parana",NULL,NULL
+"Paraná","Entre Ríos","RA","Parana",NULL,NULL
+"Concordia","Entre Ríos","RA","Uruguay",NULL,NULL
+"Formosa","Formosa","RA","Paraguay",NULL,NULL
+"Posadas","Misiones","RA","Parana",NULL,NULL
+"Neuquén","Neuquén","RA","Río Neuquen",NULL,NULL
+"Neuquén","Neuquén","RA","Río Limay",NULL,NULL
+"Viedma","Río Negro","RA","Río Neuquen",NULL,NULL
+"Bariloche","Río Negro","RA",NULL,NULL,NULL
+"Río Gallegos","Santa Cruz","RA",NULL,NULL,"Atlantic Ocean"
+"Santa Fe","Santa Fe","RA","Parana",NULL,NULL
+"Rosario","Santa Fe","RA","Parana",NULL,NULL
+"Santiago del Estero","Santiago de Estero","RA","Río Sali",NULL,NULL
+"Ushuaia","Tierra del Fuego","RA",NULL,NULL,"Atlantic Ocean"
+"San Miguel de Tucumán","Tucumán","RA","Río Sali",NULL,NULL
+"Buenos Aires","Distrito Federal","RA","Parana",NULL,"Atlantic Ocean"
+"Asunción","Paraguay","PY","Paraguay",NULL,NULL
+"Ciudad del Este","Paraguay","PY","Parana",NULL,NULL
+"Montevideo","Uruguay","ROU",NULL,NULL,"Atlantic Ocean"
+"Salto","Uruguay","ROU","Uruguay",NULL,NULL
+"Rio Branco","Acre","BR","Acre",NULL,NULL
+"Maceió","Alagoas","BR",NULL,NULL,"Atlantic Ocean"
+"Macapá","Amapá","BR","Amazonas",NULL,NULL
+"Manaus","Amazonas","BR","Amazonas",NULL,NULL
+"Manaus","Amazonas","BR","Rio Negro",NULL,NULL
+"Salvador","Bahia","BR",NULL,NULL,"Atlantic Ocean"
+"Ilhéus","Bahia","BR",NULL,NULL,"Atlantic Ocean"
+"Juazeiro","Bahia","BR","Rio Sao Francisco",NULL,NULL
+"Camaçari","Bahia","BR",NULL,NULL,"Atlantic Ocean"
+"Lauro de Freitas","Bahia","BR",NULL,NULL,"Atlantic Ocean"
+"Porto Seguro","Bahia","BR",NULL,NULL,"Atlantic Ocean"
+"Fortaleza","Ceará","BR",NULL,NULL,"Atlantic Ocean"
+"Vitória","Espírito Santo","BR",NULL,NULL,"Atlantic Ocean"
+"Vila Velha","Espírito Santo","BR",NULL,NULL,"Atlantic Ocean"
+"Serra","Espírito Santo","BR",NULL,NULL,"Atlantic Ocean"
+"São Luís","Maranhão","BR",NULL,NULL,"Atlantic Ocean"
+"Imperatriz","Maranhão","BR","Tocantins",NULL,NULL
+"Cuiabá","Mato Grosso","BR","Rio Cuiabá",NULL,NULL
+"Belém","Pará","BR","Tocantins",NULL,"Atlantic Ocean"
+"Santarém","Pará","BR","Amazonas",NULL,NULL
+"Santarém","Pará","BR","Tapajós",NULL,NULL
+"Marabá","Pará","BR","Tocantins",NULL,NULL
+"João Pessoa","Paraíba","BR",NULL,NULL,"Atlantic Ocean"
+"Curitiba","Paraná","BR","Iguacu",NULL,NULL
+"Foz do Iguaçu","Paraná","BR","Parana",NULL,NULL
+"Foz do Iguaçu","Paraná","BR","Iguacu",NULL,NULL
+"Paranaguá","Paraná","BR",NULL,NULL,"Atlantic Ocean"
+"Recife","Pernambuco","BR",NULL,NULL,"Atlantic Ocean"
+"Petrolina","Pernambuco","BR","Rio Sao Francisco",NULL,NULL
+"Teresina","Piauí","BR","Rio Parnaiba",NULL,NULL
+"Parnaíba","Piauí","BR","Rio Parnaiba",NULL,"Atlantic Ocean"
+"Rio de Janeiro","Rio de Janeiro","BR",NULL,NULL,"Atlantic Ocean"
+"São Gonçalo","Rio de Janeiro","BR",NULL,NULL,"Atlantic Ocean"
+"Duque de Caxias","Rio de Janeiro","BR",NULL,NULL,"Atlantic Ocean"
+"Niterói","Rio de Janeiro","BR",NULL,NULL,"Atlantic Ocean"
+"Campos dos Goytacazes","Rio de Janeiro","BR","Rio Paraiba do Sul",NULL,NULL
+"Volta Redonda","Rio de Janeiro","BR","Rio Paraiba do Sul",NULL,NULL
+"Magé","Rio de Janeiro","BR",NULL,NULL,"Atlantic Ocean"
+"Itaboraí","Rio de Janeiro","BR",NULL,NULL,"Atlantic Ocean"
+"Macaé","Rio de Janeiro","BR",NULL,NULL,"Atlantic Ocean"
+"Cabo Frio","Rio de Janeiro","BR",NULL,NULL,"Atlantic Ocean"
+"Barra Mansa","Rio de Janeiro","BR","Rio Paraiba do Sul",NULL,NULL
+"Angra dos Reis","Rio de Janeiro","BR",NULL,NULL,"Atlantic Ocean"
+"Natal","Rio Grande do Norte","BR",NULL,NULL,"Atlantic Ocean"
+"Parnamirim","Rio Grande do Norte","BR",NULL,NULL,"Atlantic Ocean"
+"Porto Alegre","Rio Grande do Sul","BR",NULL,NULL,"Atlantic Ocean"
+"Rio Grande","Rio Grande do Sul","BR",NULL,NULL,"Atlantic Ocean"
+"Uruguaiana","Rio Grande do Sul","BR","Uruguay",NULL,NULL
+"Porto Velho","Rondônia","BR","Rio Madeira",NULL,NULL
+"Florianópolis","Santa Catarina","BR",NULL,NULL,"Atlantic Ocean"
+"São José","Santa Catarina","BR",NULL,NULL,"Atlantic Ocean"
+"Itajaí","Santa Catarina","BR",NULL,NULL,"Atlantic Ocean"
+"São Paulo","São Paulo","BR","Tiete",NULL,NULL
+"Osasco","São Paulo","BR","Tiete",NULL,NULL
+"Guarulhos","São Paulo","BR","Tiete",NULL,NULL
+"Itaquaquecetuba","São Paulo","BR","Tiete",NULL,NULL
+"São José dos Campos","São Paulo","BR","Rio Paraiba do Sul",NULL,NULL
+"Santos","São Paulo","BR",NULL,NULL,"Atlantic Ocean"
+"Mogi das Cruzes","São Paulo","BR","Tiete",NULL,NULL
+"São Vicente","São Paulo","BR",NULL,NULL,"Atlantic Ocean"
+"Guarujá","São Paulo","BR",NULL,NULL,"Atlantic Ocean"
+"Taubaté","São Paulo","BR","Rio Paraiba do Sul",NULL,NULL
+"Suzano","São Paulo","BR","Tiete",NULL,NULL
+"Barueri","São Paulo","BR","Tiete",NULL,NULL
+"Jacareí","São Paulo","BR","Rio Paraiba do Sul",NULL,NULL
+"Pindamonhangaba","São Paulo","BR","Rio Paraiba do Sul",NULL,NULL
+"Praia Grande","São Paulo","BR",NULL,NULL,"Atlantic Ocean"
+"Aracaju","Sergipe","BR",NULL,NULL,"Atlantic Ocean"
+"Palmas","Tocantins","BR","Tocantins",NULL,NULL
+"Stanley","Falkland Islands","FALK",NULL,NULL,"Atlantic Ocean"

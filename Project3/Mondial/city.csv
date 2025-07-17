@@ -1,0 +1,3428 @@
+name,country,province,population,latitude,longitude,elevation
+'s-Hertogenbosch,2599,Noord-Brabant,143822,51.68,5.3,6
+A Coruña,2600,Galicia,245541,43.37,-8.41,21
+Aachen,2601,Nordrhein-Westfalen,236420,50.78,6.08,173
+Aarau,2602,Aargau,NULL,47.4,8.05,381
+Aba,2603,Abia,1040000,5.12,7.37,205
+Abadan,2604,Khuzestan,231476,30.34,48.3,3
+Abakaliki,2605,Ebonyi,NULL,6.33,8.1,NULL
+Abakan,2606,Khakasiya,184769,53.72,91.47,245
+Abancay,2607,Apurímac,NULL,-13.63,-72.88,2377
+Abengourou,2608,Comoé,NULL,6.73,-3.48,NULL
+Abeokuta,2609,Ogun,595000,7.16,3.35,66
+Aberdeen,2610,Scotland,196220,57.15,-2.11,NULL
+Abha,2611,Aseer,236157,18.22,42.51,2400
+Abidjan,2612,Abidjan,4395243,5.32,-4.03,18
+Abilene,2613,Texas,125182,32.45,-99.75,524
+Abu Dhabi,2614,United Arab Emirates,1202756,24.47,54.37,NULL
+Abuja,2615,Abuja,2940000,9.07,7.48,840
+Acapulco,2616,Guerrero,658609,16.86,-99.88,30
+Acarigua,2617,Portuguesa,129237,9.56,-69.2,195
+Accra,2618,Greater Accra,2070463,5.55,-0.2,61
+Acharnes,2619,Attikis,106943,38.08,23.73,186
+Ačinsk,2620,Krasnoyarsk,100621,56.25,90.5,220
+Ad-Damazīn,2621,An-Nīl al-Azraq,NULL,11.76,34.35,NULL
+Ad-Dāmir,2622,Nahr an-Nīl,NULL,17.58,33.97,NULL
+Ad-Dammam,2623,Ash Sharqiyah,903312,26.28,50.2,NULL
+Aḍ-Ḍuayn,2624,Sharq Dārfūr,137103,11.43,26.17,NULL
+Adama,2625,Oromia,456000,8.54,39.27,1712
+Adamstown,2626,Pitcairn,50,-25.04,-130.05,60
+Adana,2627,Adana,1765981,37,35.32,23
+Addis Ababa,2628,Addis Ababa,3860000,9.03,38.74,2355
+Adelaide,2629,South Australia,1359087,-34.93,138.6,43
+Aden,2630,Yemen,570551,12.8,45.03,6
+Adiyaman,2631,Adıyaman,267129,37.76,38.28,764
+Ado-Ekiti,2632,Ekiti,465000,7.62,5.22,455
+Afyonkarahisar,2633,Afyonkarahisar,251799,38.76,30.54,1021
+Agadez,2634,Agadez,118240,16.97,7.98,520
+Agadir,2635,Souss Massa Daraa,421844,30.43,-9.6,74
+Agartala,2636,Tripura,NULL,23.83,91.27,12.8
+Agra,2637,Uttar Pradesh,1585704,27.18,78.02,171
+Agri,2638,Ağrı,120390,39.72,43.05,NULL
+Águas Lindas de Goiás,2639,Goiás,159138,-15.75,-48.28,1100
+Aguascalientes,2640,Aguascalientes,863893,21.85,-102.3,1888
+Aguié,2641,Maradi,152788,13.86,8.3,434
+Ahmadabad,2642,Gujarat,5577940,23.03,72.58,53
+Ahvaz,2643,Khuzestan,1184788,31.32,48.67,17
+Aijal,2644,Mizoram,NULL,23.73,92.72,1132
+Aioun,2645,Hodh El Gharbi,NULL,16.67,-9.62,NULL
+Aix-en-Provence,2646,Provence-Alpes-Côte d'Azur,140684,43.53,5.45,73
+Ajaccio,2647,Corse,66245,41.93,8.74,20
+Ajmer,2648,Rajasthan,402700,26.45,74.64,486
+Akisar,2649,Manisa,129982,38.92,27.83,NULL
+Akita,2650,Akita,315814,39.72,140.1,NULL
+Akjoujt,2651,Inchiri,NULL,19.75,-14.38,NULL
+Akron,2652,Ohio,190469,41.07,-81.52,306
+Aksaray,2653,Aksaray,247148,38.37,34.03,980
+Aksu,2654,Xinjiang,164092,41.17,80.25,NULL
+Aktau,2655,Mangistau,181526,43.65,51.15,-8
+Akure,2656,Ondo,575000,7.25,5.2,NULL
+Akureyri,2657,Iceland,18893,65.68,-18.1,NULL
+Al-Arish,2658,Egypt,191584,31.06,33.83,32
+Al-Fūlah,2659,Gharb Kurdufān,NULL,11.8,28.4,NULL
+Al-Hufuf,2660,Ash Sharqiyah,660788,25.38,49.58,154
+Al-Jubail,2661,Ash Sharqiyah,337778,27,49.67,NULL
+Al-Junaynah,2662,Gharb al-Dārfūr,134264,13.45,22.44,800
+Al-Qāhirah al-Jadīdah,2663,Egypt,302926,30.05,31.79,270
+Al-Qayrawān,2664,Tunisia,139070,35.68,10.1,NULL
+Al Ain,2665,United Arab Emirates,426205,24.21,55.74,292
+Al Amarah,2666,Maysan,527472,32,47,12
+Al Baha,2667,Al-Baha,NULL,20,41.45,2155
+Al Basrah,2668,Basrah,1340827,30.5,47.82,5
+Al Fashir,2669,Shamāl Dārfūr,217827,13.63,25.35,NULL
+Al Fayyum,2670,Egypt,489377,29.31,30.84,23
+Al Gazira,2671,Al-Jazīrah,289482,14.4,33.52,NULL
+Al Gedaref,2672,Al-Qaḍārif,269395,14.03,35.38,634
+Al Hasakah,2673,Al Hasakah,254622,36.51,40.74,300
+Al Hillah,2674,Babylon,455741,32.48,44.43,34
+Al Hoceima,2675,Taza Al Hoceima Taounate,NULL,35.25,-3.93,20
+al Hudaydah,2676,Yemen,402560,14.8,42.95,17
+Al Iskandariyah,2677,Egypt,5107530,31.2,29.92,5
+Al Ismailiyah,2678,Egypt,397446,30.58,32.27,13
+Al Jizah,2679,Egypt,4212750,30.02,31.22,19
+Al Khalil,2680,West Bank,201063,31.53,35.07,NULL
+Al Kut,2681,Wasit,389376,32.51,45.82,23
+Al Kuwayt,2682,Kuwait,4464521,29.37,47.98,NULL
+Al Ladhiqiyah,2683,Al Ladhiqiyah,424392,35.52,35.78,11
+Al Madinah,2684,Al-Madinah Al-Monawarah,1100093,25,39.5,NULL
+Al Mahallah al Kubra,2685,Egypt,543271,30.97,31.16,26
+Al Manāmah,2686,Bahrain,143035,26.22,50.58,NULL
+Al Mansurah,2687,Egypt,570271,31.07,31.68,12
+Al Mawsil,2688,Nineveh,1361819,36.34,43.13,223
+Al Minya,2689,Egypt,254523,28.12,30.74,47
+Al Qahirah,2690,Egypt,9293612,30.05,31.23,23
+Al Qamishl,2691,Al Hasakah,232258,37.05,41.22,455
+Al Qunaytirah,2692,Al Qunaytirah,NULL,33.12,35.82,1010
+Al Rayyan,2693,Qatar,799933,25.32,51.37,NULL
+Al Sharjah,2694,United Arab Emirates,1274729,25.36,55.39,NULL
+Al Ubayyiḑ,2695,Shamāl Kurdufān,345126,13.18,30.22,609
+Al Uqsur,2696,Egypt,250704,25.68,32.65,76
+Alagoinhas,2697,Bahia,124042,-12.14,-38.42,132
+Alajuela,2698,Alajuela,254886,10.02,-84.22,952
+Alba Iulia,2699,Alba,NULL,46.07,23.57,230
+Albacete,2700,Castilla-La Mancha,172806,39,-1.86,686
+Albany,2701,New York,99224,42.65,-73.76,60
+Ålborg,2702,Nordjylland,110495,57.05,9.92,5
+Albuquerque,2703,New Mexico,564559,35.11,-106.61,1620
+Alcalá de Henares,2704,Madrid,195570,40.47,-3.37,588
+Alchevsk,2705,Luhanska,106550,48.48,38.8,240
+Alcobendas,2706,Madrid,116895,40.53,-3.63,700
+Alcorcón,2707,Madrid,171575,40.35,-3.83,695
+Aleg,2708,Brakna,NULL,17.05,-13.92,NULL
+Alexandria,2709,Teleorman,NULL,43.97,25.33,41
+Alexandria,2710,Virginia,159467,38.8,-77.05,12
+Algeciras,2711,Andalucía,123435,36.13,-5.45,20
+Algiers,2712,Algeria,2364230,36.77,3.22,100
+Alicante,2713,Valenciana,336768,38.35,-0.48,5
+Aligarh,2714,Uttar Pradesh,480520,27.88,78.08,178
+Allahabad,2715,Uttar Pradesh,1112544,25.45,81.85,98
+Allentown,2716,Pennsylvania,125845,40.6,-75.48,103
+Almada,2717,Lisboa,95460,38.68,-9.16,50
+Almaty,2718,Almaty City,1507737,43.28,76.9,500
+Almere,2719,Flevoland,196244,52.37,5.22,-3
+Almería,2720,Andalucía,200273,36.84,-2.47,27
+Almetjevsk,2721,Tatarstan,163512,54.9,52.3,110
+Alofi,2722,Niue,NULL,-19.05,-169.9,21
+Alor Setar,2723,Kedah,405523,6.12,100.37,7
+Altdorf,2724,Uri,NULL,46.87,8.63,458
+Alvorada,2725,Rio Grande do Sul,195673,-29.99,-51.08,17
+Amadora,2726,Lisboa,171454,38.73,-9.23,NULL
+Amagasaki,2727,Hyogo,452563,34.73,135.4,NULL
+Amarillo,2728,Texas,200393,35.2,-101.85,1099
+Amasya,2729,Amasya,113373,40.65,35.83,40
+Ambon,2730,Maluku,331254,-3.7,128.17,3
+Americana,2731,São Paulo,209654,-22.74,-47.33,569
+Amersfoort,2732,Utrecht,151270,52.15,5.38,3
+Amiens,2733,Hauts-de-France,133327,49.89,2.3,14
+Amman,2734,Jordan,4007526,31.95,35.93,784
+Amol,2735,Mazandaran,237528,36.47,52.35,76
+Amravati,2736,Maharashtra,421576,20.93,77.76,343
+Amritsar,2737,Punjab,1132383,31.64,74.86,NULL
+Amsterdam,2738,Noord-Holland,812895,52.37,4.9,2
+An Najaf,2739,al-Najaf,747261,32,44.33,60
+An Nasiriyah,2740,Thi Qar,558446,31.05,46.27,7
+Anadyr,2741,Chukotka,13045,64.73,177.52,20
+Anaheim,2742,California,346824,33.84,-117.89,48
+Ananindeua,2743,Pará,470819,-1.37,-48.37,20
+Anápolis,2744,Goiás,328755,-16.33,-48.95,1017
+Anau,2745,Akhal,NULL,37.88,58.53,NULL
+Anchorage,2746,Alaska,291247,61.22,-149.9,31
+Ancona,2747,Marche,100497,43.62,13.52,16
+Anderlecht,2748,Bruxelles,120887,50.83,4.33,NULL
+Andijon,2749,Andijon,441700,40.78,72.33,450
+Andorra la Vella,2750,Andorra,19659,42.5,1.5,1023
+Andria,2751,Puglia,100052,41.22,16.3,151
+Angarsk,2752,Irkutskaya,221296,52.55,103.9,430
+Angeles,2753,Central Luzon,411634,15.15,120.58,NULL
+Angers,2754,Pays de la Loire,148803,47.47,-0.55,12
+Angra dos Reis,2755,Rio de Janeiro,163290,-23.01,-44.32,1378
+Angren,2756,Toshkent,188360,41.02,70.14,961
+Anju,2757,North Korea,240117,39.62,125.66,NULL
+Ankara,2758,Ankara,5154602,39.93,32.87,938
+Ann Arbor,2759,Michigan,123851,42.28,-83.75,256
+Annaba,2760,Algeria,342703,36.9,7.77,20
+Annapolis,2761,Maryland,40812,38.97,-76.5,12
+Ansan,2762,South Korea,717345,37.32,126.83,139
+Anshan,2763,Liaoning,1480332,41.12,122.98,2
+Antalya,2764,Antalya,1296445,36.9,30.68,30
+Antananarivo,2765,Madagascar,1274225,-18.93,47.52,1276
+Antipolo,2766,Calabarzon,776386,14.58,121.17,156
+Antofagasta,2767,Antofagasta,352638,-23.65,-70.4,40
+Antsirabe,2768,Madagascar,246354,-19.87,47.03,1500
+Antsiranana,2769,Madagascar,129320,-12.3,49.28,NULL
+Antwerpen,2770,Antwerpen,529247,51.22,4.4,NULL
+Anyang,2771,Henan,1187772,36.1,114.33,69
+Anyang,2772,South Korea,542336,37.38,126.93,47
+Aomori,2773,Aomori,287648,40.82,140.75,2
+Aosta,2774,Valle d'Aosta,34102,45.73,7.32,583
+Aparecida de Goiânia,2775,Goiás,455193,-16.82,-49.23,808
+Apartadó,2776,Antioquia,98454,7.88,-76.63,30
+Apeldoorn,2777,Gelderland,157540,52.22,5.97,16
+Apia,2778,Samoa,36735,-13.83,-171.75,2
+Apodaca,2779,Nuevo Léon,536436,26.77,-100.19,405
+Apopa,2780,El Salvador,143718,13.8,-89.18,443
+Appenzell,2781,Appenzell Innerrhoden,NULL,47.33,9.42,780
+Apucarana,2782,Paraná,114098,-23.55,-51.46,840
+Aqtobe,2783,Aktobe,377520,50.28,57.17,219
+Ar Ramadi,2784,al-Anbar,223525,33.42,43.31,NULL
+Ar Raqqah,2785,Ar Raqqah,343870,35.95,39.02,245
+Aracaju,2786,Sergipe,571149,-10.92,-37.05,4
+Araçatuba,2787,São Paulo,178077,-21.21,-50.43,390
+Arad,2788,Arad,159074,46.17,21.32,117
+Araguaína,2789,Tocantins,142925,-7.19,-48.21,227
+Arak,2790,Markazi,520944,34.09,49.69,1718
+Arapiraca,2791,Alagoas,181481,-9.75,-36.66,264
+Arar,2792,Al-Hudud ash Shamaliyah,167057,30.98,41.02,536
+Araraquara,2793,São Paulo,202730,-21.79,-48.18,664
+Arauca,2794,Arauca,74195,7.09,-70.76,125
+Arba Minch,2795,Southern,201000,6.03,37.55,1285
+Arbil,2796,Arbil,879071,36.19,44.01,420
+Ardahan,2797,Ardahan,NULL,41.11,42.7,1900
+Ardebil,2798,Ardebil,529374,38.25,48.28,1351
+Arendal,2799,Aust-Agder,12174,58.48,8.78,3
+Arequipa,2800,Arequipa,1050849,-16.38,-71.53,2335
+Argenteuil,2801,Île-de-France,104282,48.95,2.25,21
+Århus,2802,Midtjylland,261570,56.15,10.22,5
+Arica,2803,Arica y Parinacota,204078,-18.48,-70.33,2
+Arkhangelsk,2804,Arkhangelskaya,301199,64.53,40.53,5
+Arlington,2805,Texas,394266,32.71,-97.12,184
+Arlington,2806,Virginia,238643,38.88,-77.11,7
+Arlon,2807,Luxembourg,30081,49.68,5.82,NULL
+Armavir,2808,Krasnodarskiy,187177,45,41.12,190
+Armenia,2809,Quindío,287245,4.53,-75.68,1551
+Arnhem,2810,Gelderland,150989,51.98,5.92,13
+Arraiján,2811,Panamá Oeste,96676,8.48,-79.95,NULL
+Artemisa,2812,Artemisa,NULL,22.81,-82.76,50
+Artvin,2813,Artvin,NULL,41.18,41.82,345
+Arusha,2814,Arusha,416442,-3.37,36.68,1387
+Arzamas,2815,Nizhnii Novgorodskaya,104908,55.4,43.82,150
+As Samawah,2816,al-Muthanna,221743,31.32,45.28,9
+As Seeb,2817,Oman,470878,23.68,58.18,NULL
+As Sulaymaniyah,2818,As Sulaymaniyah,676492,35.56,45.44,882
+As Suwayda,2819,As Suwayda,147146,32.7,36.57,1080
+As Suways,2820,Egypt,740874,29.97,32.55,5
+Asaba,2821,Delta,NULL,6.2,6.73,45
+Asahikawa,2822,Hokkaido,339605,43.77,142.32,116
+Ashdod,2823,HaDarom,225939,31.8,34.65,NULL
+Ashgabat,2824,Ashgabat,791000,37.93,58.37,219
+Ashiaman,2825,Greater Accra,190972,5.7,-0.03,39
+Asmara,2826,Eritrea,896000,15.32,38.92,2326
+Asosa,2827,Benishangul-Gumuz,NULL,10.07,34.52,1570
+Assen,2828,Drenthe,NULL,53,6.57,10
+Astana,2829,Astana,1136008,51.17,71.43,347
+Astrakhan,2830,Astrakhanskaya,475629,46.35,48.05,-25
+Asunción,2831,Paraguay,521600,-25.27,-57.63,43
+Aswan,2832,Egypt,337472,24.09,32.9,194
+Asyut,2833,Egypt,480516,27.18,31.17,70
+At Taif,2834,Makkah Al-Mokarramah,579970,21.43,40.35,1879
+Atar,2835,Adrar,NULL,20.52,-13.05,270
+Atbara,2836,Nahr an-Nīl,112021,17.72,33.99,350
+Athens,2837,Georgia,127315,33.95,-83.38,194
+Athina,2838,Attikis,664046,37.97,23.72,70
+Atlanta,2839,Georgia,498715,33.76,-84.39,225
+Atyrau,2840,Atyrau,196494,47.12,51.88,-20
+Auckland,2841,New Zealand,1420600,-36.84,174.74,5
+Augsburg,2842,Bayern,267767,48.37,10.9,494
+Augusta,2843,Georgia,202081,33.47,-81.97,41
+Augusta,2844,Maine,18899,44.31,-69.78,21
+Aurangabad,2845,Maharashtra,1175116,19.88,75.32,568
+Aurora,2846,Colorado,386261,39.73,-104.83,1668
+Aurora,2847,Illinois,180542,41.76,-88.29,219
+Austin,2848,Texas,961855,30.25,-97.75,149
+Avarua,2849,Cook Islands,NULL,-21.12,-159.46,NULL
+Aveiro,2850,Aveiro,62130,40.63,-8.65,NULL
+Avellaneda,2851,Buenos Aires,342677,-34.67,-58.37,2
+Awasa,2852,Sidama,422200,7.05,38.47,1708
+Awka,2853,Anambra,104682,6.21,7.07,NULL
+Ayacucho,2854,Ayacucho,218777,-13.16,-74.22,2761
+Aydin,2855,Aydın,255254,37.85,27.85,67
+Aysaita,2856,Afar,NULL,11.57,41.43,300
+Az Zaqaziq,2857,Egypt,396852,30.57,31.5,NULL
+Babati,2858,Manyara,NULL,-4.22,35.75,NULL
+Babol,2859,Mazandaran,250217,36.55,52.68,-2
+Bacău,2860,Bacău,144307,46.58,26.92,165
+Bacolod,2861,Western Visayas,561875,10.67,122.95,10
+Bacoor,2862,Calabarzon,600609,14.46,120.96,7
+Badajoz,2863,Extremadura,151048,38.88,-6.97,185
+Badalona,2864,Catalunya,221750,41.45,2.25,12
+Bafoussam,2865,Ouest,239287,5.47,10.42,1521
+Bagé,2866,Rio Grande do Sul,97765,-31.33,-54.11,212
+Baghdad,2867,Baghdad,6719476,33.33,44.43,34
+Bago,2868,Bago,491130,17.34,96.48,4
+Baguio,2869,Cordillera,345366,16.42,120.6,1540
+Bahawalpur,2870,Punjab,762111,29.4,71.68,461
+Bahía Blanca,2871,Buenos Aires,301572,-38.72,-62.27,20
+Bahir Dar,2872,Amhara,350000,11.6,37.38,1800
+Baia Mare,2873,Maramureş,123738,47.67,23.58,228
+Baikonur,2874,Baikonur,NULL,45.62,63.32,100
+Bakersfield,2875,California,403455,35.37,-119.02,123
+Baku,2876,Azerbaijan,2150800,40.4,49.88,-23
+Balakovo,2877,Saratovskaya,184466,52.03,47.78,24
+Balašicha,2878,Moskovskaya,520692,55.82,37.97,150
+Balıkesir,2879,Balıkesir,312523,39.39,27.53,70
+Balikpapan,2880,Kalimantan Timur,557579,-1.26,116.83,1
+Balkanabat,2881,Balkan,87800,39.52,54.37,17
+Balkhash,2882,Karaganda,71203,46.85,75,440
+Ballarat,2883,Victoria,111348,-37.57,143.85,441
+Bălţi,2884,Moldova,143300,47.77,27.92,59
+Baltimore,2885,Maryland,585708,39.28,-76.62,10
+Bamako,2886,Bamako,1810366,12.65,-8,350
+Bamenda,2887,Nord-Ouest,269530,5.93,10.17,1614
+Banda Aceh,2888,Aceh,223446,5.55,95.32,2
+Bandar Abbas,2889,Hormozgan,526648,27.18,56.27,9
+Bandar Lampung,2890,Lampung,881801,-5.45,105.27,15
+Bandar Seri Begawan,2891,Brunei,266682,4.89,114.94,9
+Bandırma,2892,Balıkesir,142367,40.35,27.97,20
+Bandjarmasin,2893,Kalimantan Selatan,625481,-3.33,114.58,1
+Bandundu,2894,Kwilu,NULL,-3.32,17.37,321
+Bandung,2895,Jawa Barat,2394873,-6.92,107.6,768
+Bangalore,2896,Karnataka,8443675,12.97,77.57,920
+Bangkok,2897,Thailand,8305218,13.75,100.47,2
+Bangui,2898,Central African Republic,812407,4.37,18.58,369
+Banha,2899,Egypt,174518,30.46,31.19,19
+Bani Suwayf,2900,Egypt,246395,29.07,31.08,16
+Banja Luka,2901,Republika Srpska,199191,44.77,17.18,163
+Banjul,2902,Gambia,31301,13.45,-16.58,5
+Banská Bystrica,2903,Banskobystrický,76018,48.73,19.15,362
+Banzart,2904,Tunisia,138430,37.27,9.87,NULL
+Baoding,2905,Hebei,1940384,38.87,115.47,25
+Baoji,2906,Shaanxi,1107702,34.35,107.38,570
+Baotou,2907,Nei Mongol,2104114,40.65,109.83,1065
+Baqubah,2908,Diala,279133,33.75,44.63,48
+Barakaldo,2909,Euskadi,100847,43.3,-2.99,39
+Baranavichy,2910,Brest,168240,53.13,26.01,193
+Barbacena,2911,Minas Gerais,115568,-21.22,-43.77,1160
+Barcelona,2912,Catalunya,1627559,41.38,2.18,12
+Barcelona,2913,Anzoátegui,410643,10.12,-64.72,13
+Bareilly,2914,Uttar Pradesh,590661,28.36,79.42,268
+Bari,2915,Puglia,315933,41.13,16.87,5
+Bariadi,2916,Simiyu,NULL,-2.8,33.98,NULL
+Bariloche,2917,Río Negro,109305,-41.15,-71.2,893
+Barinas,2918,Barinas,215452,8.63,-70.2,187
+Barisal,2919,Barisal,328278,22.8,90.5,1
+Barnaul,2920,Altayskiy,630877,53.33,83.75,180
+Barquisimeto,2921,Lara,875788,10.06,-69.33,566
+Barra Mansa,2922,Rio de Janeiro,176193,-22.54,-44.17,389
+Barrancabermeja,2923,Santander,177272,7.07,-73.85,75
+Barranquilla,2924,Atlántico,1205284,10.96,-74.8,18
+Barreiras,2925,Bahia,123741,-12.15,-44.99,454
+Barreiro,2926,Lisboa,62860,38.67,-9.07,3
+Barretos,2927,São Paulo,108686,-20.56,-48.57,530
+Bartin,2928,Bartın,NULL,41.63,32.34,25
+Barueri,2929,São Paulo,240749,-23.51,-46.88,719
+Baruta,2930,Miranda,213373,10.42,-66.87,1178
+Barysaw,2931,Minsk,147381,54.23,28.5,169
+Basel,2932,Basel-Stadt,173863,47.57,7.6,260
+Basildon,2933,East of England,117341,51.58,0.49,NULL
+Basingstoke,2934,South East England,118807,51.27,-1.09,NULL
+Basse-Terre,2935,Guadeloupe,NULL,16.15,-61.8,NULL
+Basseterre,2936,Saint Kitts and Nevis,11400,17.3,-62.73,15
+Bata,2937,Continental,290000,1.85,9.75,5
+Batajsk,2938,Rostovskaya,126988,47.17,39.73,5
+Batam,2939,Kepulauan Riau,944285,1.08,104.03,NULL
+Batangas,2940,Calabarzon,249453,13.75,121.05,10
+Bath,2941,South West England,101557,51.38,-2.37,NULL
+Batman,2942,Batman,452157,37.88,41.13,540
+Batna,2943,Algeria,289504,35.55,6.17,1048
+Baton Rouge,2944,Louisiana,227470,30.45,-91.13,17
+Battambang,2945,Cambodia,151827,13.09,103.2,39
+Batumi,2946,Georgia,152839,41.65,41.64,3
+Bauchi,2947,Bauchi,415000,10.32,9.84,616
+Bauru,2948,São Paulo,338184,-22.31,-49.06,537
+Bayamo,2949,Granma,157027,20.38,-76.64,55
+Bayamón,2950,Puerto Rico,165368,18.38,-66.16,16
+Bayburt,2951,Bayburt,NULL,40.26,40.23,1550
+Bayrūt,2952,Lebanon,1650000,33.89,35.51,NULL
+Beaumont,2953,Texas,115282,30.08,-94.13,5
+Béchar,2954,Algeria,165241,31.62,-2.22,747
+Beer Sheva,2955,HaDarom,209687,31.26,34.8,260
+Beijing,2956,Beijing,18960744,39.92,116.38,43.5
+Beira,2957,Sofala,592090,-19.83,34.85,14
+Beja,2958,Beja,NULL,38.03,-7.88,NULL
+Bejaïa,2959,Algeria,176139,36.75,5.07,949
+Bekasi,2960,Jawa Barat,2334871,-6.23,107,11
+Békéscsaba,2961,Békés,62050,46.68,21.09,89
+Belém,2962,Pará,1381475,-1.46,-48.5,10
+Belfast,2963,Northern Ireland,340000,54.6,-5.93,NULL
+Belford Roxo,2964,Rio de Janeiro,469332,-22.76,-43.4,38
+Belgorod,2965,Belgorodskaya,339978,50.6,36.6,130
+Belize City,2966,Belize,66083,17.5,-88.19,0.5
+Bellinzona,2967,Ticino,NULL,46.2,9.02,238
+Bello,2968,Antioquia,536400,6.33,-75.57,1310
+Belmopan,2969,Belize,26906,17.25,-88.77,76
+Belo Horizonte,2970,Minas Gerais,2375151,-19.92,-43.93,760
+Bendigo,2971,Victoria,103575,-36.75,144.16,213
+Bengbu,2972,Anhui,1077704,32.92,117.38,NULL
+Benghazi,2973,Libya,630000,32.12,20.07,2
+Bengkulu,2974,Bengkulu,308544,-3.8,102.26,2
+Benguela,2975,Benguela,513441,-12.55,13.42,39
+Beni Mellal,2976,Tadla Azilal,192676,32.34,-6.36,619
+Benin,2977,Edo,1495000,6.33,5.62,80
+Benxi,2978,Liaoning,808221,41.3,123.77,131
+Beograd,2979,Serbia,1166763,44.82,20.47,117
+Berbera,2980,Somalia,374000,10.43,45.03,3
+Berdiansk,2981,Zaporizka,107928,46.75,36.79,10
+Berdsk,2982,Novosibirskaya,102850,55.75,83.1,130
+Berezniki,2983,Permskij,138069,59.42,56.78,130
+Bérgamo,2984,Lombardia,115349,45.7,9.67,249
+Bergen,2985,Hordaland,267950,60.39,5.33,5
+Bergisch Gladbach,2986,Nordrhein-Westfalen,108878,51.1,7.12,100
+Berkeley,2987,California,124321,37.87,-122.27,52
+Berlin,2988,Berlin,3292365,52.52,13.38,34
+Bern,2989,Bern,134794,46.95,7.45,542
+Bertoua,2990,Est,88462,4.58,13.68,717
+Besançon,2991,Bourgogne-Franche-Comté,115879,47.24,6.02,235
+Betim,2992,Minas Gerais,375331,-19.97,-44.2,817
+Bharatpur,2993,Nepal,369377,27.68,84.33,208
+Bharuch,2994,Gujarat,NULL,21.7,72.96,15
+Bhatpara,2995,Madhya Pradesh,315976,22.87,88.41,12
+Bhavnagar,2996,Gujarat,402338,21.76,72.15,24
+Bhilai,2997,Chhattisgarh,395360,21.21,81.38,452
+Bhisho,2998,Eastern Cape,77682,-32.85,27.44,435
+Bhiwandi,2999,Maharashtra,392214,19.3,73.06,24
+Bhopal,3000,Madhya Pradesh,1798218,23.25,77.42,527
+Bhubaneswar,3001,Odisha,411542,20.27,85.84,45
+Białystok,3002,Podlaskie,294242,53.12,23.15,120
+Bida,3003,Niger,330000,9.08,6.02,NULL
+Biel,3004,Bern,55206,47.13,7.25,434
+Bielefeld,3005,Nordrhein-Westfalen,326870,52.02,8.52,118
+Bielsko-Biała,3006,Śląskie,169089,49.82,19.04,300
+Bien Hoa,3007,Southeast,830829,10.95,106.82,NULL
+Bijeljina,3008,Republika Srpska,114663,44.75,19.22,90
+Bijsk,3009,Altayskiy,183852,52.53,85.22,180
+Bikaner,3010,Rajasthan,416289,28.02,73.31,242
+Bila Tserkva,3011,Kyïvska,208737,49.8,30.12,148
+Bilbao,3012,Euskadi,345749,43.26,-2.92,19
+Bilecik,3013,Bilecik,NULL,40.14,29.98,NULL
+Billings,3014,Montana,117116,45.79,-108.54,952
+Bimbo,3015,Central African Republic,348802,4.26,18.4,338
+Biñan,3016,Calabarzon,333028,14.33,121.08,NULL
+Binangonan,3017,Calabarzon,282474,14.45,121.19,NULL
+Bingol,3018,Bingöl,128935,38.89,40.5,1151
+Binjai,3019,Sumatera Utara,246154,3.6,98.48,28
+Biratnagar,3020,Nepal,244750,26.45,87.28,80
+Birjand,3021,South Khorasan,203636,32.87,59.2,1491
+Birkenhead,3022,North West England,145208,53.39,-3.01,NULL
+Birmingham,3023,West Midlands,1161258,52.48,-1.89,140
+Birmingham,3024,Alabama,200733,33.65,-86.81,196
+Birni-N'Konni,3025,Tahoua,149414,13.79,5.25,NULL
+Birnin Kebbi,3026,Kebbi,NULL,12.45,4.2,NULL
+Birobidzhan,3027,Jewish Autonomous Oblast,75413,48.8,132.93,80
+Bishkek,3028,Kyrgyzstan,987600,42.87,74.61,800
+Bishoftu,3029,Oromia,207400,8.75,38.98,1920
+Biskra,3030,Algeria,204661,34.85,5.73,87
+Bismarck,3031,North Dakota,73622,46.81,-100.78,514
+Bissau,3032,Guinea-Bissau,387909,11.85,-15.57,10
+Bistrita,3033,Bistriţa-Năsăud,NULL,47.13,24.5,356
+Bitlis,3034,Bitlis,NULL,38.4,42.11,1500
+Blackburn,3035,North West England,124900,53.74,-2.48,NULL
+Blackpool,3036,North West England,148150,53.81,-3.05,5
+Blagoveščensk,3037,Amurskaya,241437,50.25,127.53,130
+Blantyre,3038,Malawi,800264,-15.79,35.01,1039
+Blida,3039,Algeria,331779,36.47,2.82,260
+Blumenau,3040,Santa Catarina,294773,-26.92,-49.07,21
+Bo,3041,Sierra Leone,223075,7.96,-11.74,15
+Boa Vista,3042,Roraima,277799,2.82,-60.67,76
+Bobo Dioulasso,3043,Burkina Faso,904920,11.18,-4.28,445
+Bobruysk,3044,Mahiljou,215092,53.15,29.23,157
+Boca del Río,3045,Veracruz,126507,19.11,-96.11,16
+Bocas del Toro,3046,Bocas del Toro,NULL,9.34,-82.24,NULL
+Bochtar,3047,Khatlon,111800,37.84,68.78,430
+Bochum,3048,Nordrhein-Westfalen,362286,51.48,7.22,100
+Bodø,3049,Nordland,34479,67.28,14.4,NULL
+Boende,3050,Tshuapa,NULL,-0.28,20.88,375
+Bogor,3051,Jawa Barat,950334,-6.6,106.8,265
+Bogotá,3052,Bogotá Distrito Especial,7387400,4.6,-74.08,2640
+Bogra,3053,Rajshahi,350397,24.85,89.37,21
+Boise City,3054,Idaho,235684,43.62,-116.2,832
+Bojnurd,3055,North Khorasan,228931,37.48,57.33,1070
+Bokaro Steel City,3056,Jharkhand,333683,23.67,86.15,210
+Bolgatanga,3057,Upper East,65549,10.78,-0.85,177
+Bologna,3058,Emilia-Romagna,371337,44.51,11.35,54
+Bolton,3059,North West England,212271,53.58,-2.43,NULL
+Bolu,3060,Bolu,184682,40.73,31.61,725
+Bolzano,3061,Trentino-Alto Adige,102575,46.5,11.35,262
+Boma,3062,Kongo Central,NULL,-5.85,13.05,61
+Bondoukou,3063,Zanzan,88783,8.03,-2.8,343
+Bonga,3064,South West,NULL,7.26,36.25,1714
+Bonn,3065,Nordrhein-Westfalen,305765,50.73,7.1,60
+Borås,3066,Västra Götaland,104867,57.72,12.94,143
+Bordeaux,3067,Nouvelle-Aquitaine,239399,44.84,-0.58,10
+Borujerd,3068,Lorestan,234997,33.9,48.9,1573
+Boston,3069,Massachusetts,675647,42.36,-71.06,43
+Botoşani,3070,Botoşani,106847,47.75,26.67,170
+Bottrop,3071,Nordrhein-Westfalen,117311,51.52,6.92,55
+Botucatu,3072,São Paulo,122678,-22.89,-48.44,804
+Bouaké,3073,Vallée du Bandama,536719,7.68,-5.02,312
+Boulogne-Billancourt,3074,Île-de-France,116220,48.84,2.24,28
+Bournemouth,3075,South West England,200916,50.72,-1.88,NULL
+Bozhou,3076,Anhui,750569,33.89,115.76,32
+Brades,3077,Montserrat,449,16.8,-62.22,NULL
+Bradford,3078,Yorkshire and the Humber,370185,53.79,-1.75,NULL
+Braga,3079,Braga,148550,41.55,-8.43,200
+Braganca,3080,Braganca,NULL,41.81,-6.76,674
+Bragança Paulista,3081,São Paulo,142255,-22.95,-46.54,817
+Brăila,3082,Brăila,180302,45.27,27.96,25
+Brampton,3083,Ontario,523911,43.68,-79.77,218
+Brasília,3084,Distrito Federal,2482210,-15.79,-47.88,1172
+Braşov,3085,Braşov,253200,45.67,25.62,600
+Bratislava,3086,Bratislavský,475503,48.14,17.11,134
+Bratsk,3087,Irkutskaya,224071,56.12,101.6,450
+Braunschweig,3088,Niedersachsen,242537,52.27,10.52,75
+Brazzaville,3089,Brazzaville,1408150,-4.27,15.29,320
+Brčko,3090,Brčko,93028,44.87,18.81,92
+Breda,3091,Noord-Brabant,180263,51.58,4.78,3
+Bregenz,3092,Vorarlberg,27831,47.51,9.75,427
+Bremen,3093,Bremen,542707,53.08,8.8,11
+Bremerhaven,3094,Bremen,108156,53.55,8.58,2
+Bréscia,3095,Lombardia,189902,45.54,10.22,149
+Brest,3096,Brest,309764,52.13,23.67,280.4
+Brest,3097,Bretagne,140547,48.39,-4.49,10
+Bridgeport,3098,Connecticut,148654,41.19,-73.2,1
+Bridgetown,3099,Barbados,88529,13.11,-59.61,4
+Brighton and Hove,3100,South East England,232503,50.83,-0.15,NULL
+Brisbane,3101,Queensland,2495825,-27.47,153.03,NULL
+Bristol,3102,South West England,586781,51.45,-2.58,11
+Brno,3103,Jihomoravský,398510,49.2,16.62,237
+Brovary,3104,Kyïvska,109473,50.51,30.82,NULL
+Brownsville,3105,Texas,186738,25.93,-97.48,10
+Brugge,3106,West-Vlaanderen,118656,51.22,3.23,2
+Bruxelles,3107,Bruxelles,185103,50.85,4.35,13
+Bryansk,3108,Bryanskaya,379152,53.23,34.37,190
+Bucaramanga,3109,Santander,570752,7.13,-73,959
+Bucheon,3110,South Korea,833148,37.5,126.78,16
+Bucureşti,3111,Bucureşti,1883425,44.43,26.1,55.8
+Budapest,3112,Budapest,1729040,47.49,19.05,102
+Buea,3113,Sud-Ouest,90088,4.17,9.23,870
+Buenaventura,3114,Valle de Cauca,235064,3.88,-77.03,2
+Buenavista,3115,"México, Estado de",216776,19.61,-99.17,NULL
+Buenos Aires,3116,Distrito Federal,2890151,-34.6,-58.38,25
+Buffalo,3117,New York,278349,42.9,-78.85,183
+Buffalo City,3118,Eastern Cape,755200,-32.98,27.87,135
+Buftea,3119,Ilfov,NULL,44.57,25.95,NULL
+Bujumbura,3120,Burundi,497166,-3.38,29.37,774
+Buka,3121,Bougainville,NULL,-5.43,154.67,5
+Bukavu,3122,Sud-Kivu,832000,-2.5,28.87,1498
+Bukoba,3123,Kagera,128796,-1.33,31.82,NULL
+Bulawayo,3124,Zimbabwe,665940,-20.17,28.58,1358
+Bunia,3125,Ituri,366126,1.56,30.25,1277
+Buon Ma Thuot,3126,Central Highlands,245951,12.67,108.05,536
+Bur Said,3127,Egypt,760152,31.25,32.28,3
+Buraydah,3128,Al-Qaseem,467410,26.33,43.97,NULL
+Burdur,3129,Burdur,NULL,37.72,30.28,NULL
+Burewala,3130,Punjab,231797,30.17,72.68,133
+Burgas,3131,Bulgaria,198593,42.5,27.47,30
+Burgos,3132,Castilla y León,174154,42.35,-3.71,859
+Burlington,3133,Ontario,175779,43.32,-79.8,74
+Burnaby,3134,British Columbia,223218,49.27,-122.97,30
+Bursa,3135,Bursa,2024480,40.18,29.05,100
+Busan,3136,South Korea,3349016,35.17,129.07,NULL
+Bushehr,3137,Bushehr,223504,28.97,50.83,8
+Buta,3138,Bas-Uele,NULL,2.8,24.74,405
+Butembo,3139,Nord-Kivu,217625,0.13,29.29,1381
+Butuan,3140,Caraga,202641,8.95,125.53,1
+Buxoro,3141,Buxoro,280187,39.77,64.43,225
+Buzău,3142,Buzău,115494,45.17,26.82,95
+Bydgoszcz,3143,Kujawsko-Pomorskie,337666,53.12,18,60
+Bytom,3144,Śląskie,153274,50.38,18.9,249
+Cabanatuan,3145,Central Luzon,289172,15.48,120.97,NULL
+Cabimas,3146,Zulia,207996,10.4,-71.45,3
+Cabinda,3147,Cabinda,598210,-5.56,12.19,24
+Cabo de Santo Agostinho,3148,Pernambuco,167783,-8.29,-35.03,29
+Cabo Frio,3149,Rio de Janeiro,140486,-22.88,-42.02,4
+Cabo San Lucas,3150,Baja California Sur,202694,22.88,-109.92,10
+Cabuyao,3151,Calabarzon,308745,14.28,121.12,NULL
+Cachoeiro de Itapemirim,3152,Espírito Santo,173589,-20.85,-41.11,22
+Cádiz,3153,Andalucía,114442,36.53,-6.28,11
+Caen,3154,Normandie,108793,49.18,-0.37,5
+Cagayan De Oro,3155,Northern Mindanao,675950,8.48,124.65,10
+Cágliari,3156,Sardegna,149883,39.25,9.05,4
+Cainta,3157,Calabarzon,322128,14.57,121.12,NULL
+Cairns,3158,Queensland,155529,-16.93,145.78,NULL
+Cajamarca,3159,Cajamarca,210586,-7.16,-78.51,2750
+Calabar,3160,Cross River,475000,4.95,8.32,32
+Calais,3161,Hauts-de-France,75293,50.95,1.85,6
+Calama,3162,Antofagasta,158487,-22.47,-68.93,2260
+Calamba,3163,Calabarzon,454486,14.22,121.17,NULL
+Calapan,3164,Mimaropa,133893,13.36,121.2,NULL
+Calarasi,3165,Călăraşi,NULL,44.2,27.33,26
+Calgary,3166,Alberta,1237656,51.05,-114.07,1045
+Cali,3167,Valle de Cauca,2172527,3.42,-76.52,1018
+Callao,3168,Callao,438326,-12.03,-77.13,5
+Cam Pha,3169,Northern Midlands and Mountains,182137,21.02,107.32,70
+Camaçari,3170,Bahia,231973,-12.7,-38.32,36
+Camagüey,3171,Camagüey,300958,21.38,-77.91,95
+Camaragibe,3172,Pernambuco,144466,-8.02,-34.98,55
+Cambridge,3173,East of England,167007,52.21,0.12,6
+Cambridge,3174,Massachusetts,118403,42.36,-71.1,12
+Camden,3175,New Jersey,71791,39.94,-75.11,5
+Campeche,3176,Campeche,249623,19.85,-90.53,10
+Campina Grande,3177,Paraíba,367209,-7.23,-35.88,560
+Campinas,3178,São Paulo,1061540,-22.9,-47.06,555
+Campo Grande,3179,Mato Grosso do Sul,776242,-20.46,-54.61,592
+Campobasso,3180,Molise,48747,41.57,14.67,701
+Campos dos Goytacazes,3181,Rio de Janeiro,418725,-21.75,-41.32,14
+Can Tho,3182,Mekong River Delta,812088,10.03,105.78,0.5
+Canakkale,3183,Çanakkale,143622,40.16,26.41,NULL
+Canberra,3184,Australia Capital Territory,431611,-35.31,149.12,577
+Cancún,3185,Quintana Roo,888797,21.16,-86.85,10
+Cangzhou,3186,Hebei,759403,38.3,116.83,13
+Cankiri,3187,Çankırı,NULL,40.6,33.62,800
+Canoas,3188,Rio Grande do Sul,323827,-29.92,-51.18,8
+Cap-Haïtien,3189,Haiti,155505,19.76,-72.2,1
+Cape Coast,3190,Central,169894,5.1,-1.25,5
+Cape Coral,3191,Florida,194016,26.64,-81.98,2
+Cape Town,3192,Western Cape,3740026,-33.93,18.42,30
+Caracas,3193,Distrito Federal,1975786,10.5,-66.92,900
+Carapicuíba,3194,São Paulo,369584,-23.52,-46.84,NULL
+Cardiff,3195,Wales,349780,51.48,-3.18,NULL
+Cariacica,3196,Espírito Santo,337643,-20.26,-40.42,NULL
+Carolina,3197,Puerto Rico,138304,18.41,-65.97,16
+Carrefour,3198,Haiti,430250,18.53,-72.4,39
+Carson City,3199,Nevada,58639,39.16,-119.75,1464
+Cartagena,3200,Bolívar,876885,10.4,-75.5,2
+Cartagena,3201,Murcia,215826,37.6,-0.98,10
+Cartago,3202,Valle de Cauca,131641,4.7,-75.92,917
+Cartago,3203,Cartago,147898,9.87,-83.92,1435
+Caruaru,3204,Pernambuco,279589,-8.28,-35.98,545
+Casablanca,3205,Grand Casablanca,3359818,33.53,-7.58,10
+Cascavel,3206,Paraná,270049,-24.96,-53.46,781
+Castanhal,3207,Pará,153378,-1.3,-47.92,141
+Castellón de la Plana,3208,Valenciana,172637,39.98,-0.03,30
+Castelo Branco,3209,Castelo Branco,NULL,39.82,-7.5,NULL
+Castries,3210,Saint Lucia,3661,14.02,-60.98,2
+Catanduva,3211,São Paulo,111914,-21.14,-48.97,503
+Catánia,3212,Sicilia,293902,37.5,15.09,7
+Catanzaro,3213,Calabria,89364,38.9,16.6,342
+Catia La Mar,3214,Vargas,118466,10.6,-67.03,NULL
+Caucaia,3215,Ceará,290220,-3.73,-38.66,29
+Caxias,3216,Maranhão,118534,-4.86,-43.36,NULL
+Caxias do Sul,3217,Rio Grande do Sul,419406,-29.17,-51.18,817
+Caxito,3218,Bengo,217929,-8.58,13.66,84
+Cayenne,3219,French Guiana,57229,4.93333,-52.45,NULL
+Cebu,3220,Central Visayas,922611,10.32,123.75,NULL
+Cedar Rapids,3221,Iowa,137710,41.98,-91.67,247
+Celaya,3222,Guanajuato,378143,20.52,-100.81,1767
+Cerkasy,3223,Cerkaska,272651,49.44,32.06,110
+Čerkessk,3224,Karachayevo-Cherkesskaya,113226,44.22,42.05,530
+Çerkezköy,3225,Tekirdağ,137583,41.28,28,NULL
+Cernihiv,3226,Cernihivska,285234,51.5,31.3,136
+Cernivci,3227,Cernivecka,265471,48.3,25.93,248
+Cerro de Pasco,3228,Pasco,NULL,-10.69,-76.26,4330
+České Budějovice,3229,Jihočeský,95664,48.97,14.47,381
+Ceuta,3230,Ceuta,84071,35.9,-5.3,NULL
+Ceyhan,3231,Adana,116372,37,35.82,NULL
+Chachapoyas,3232,Amazonas,NULL,-6.22,-77.85,2335
+Chalkida,3233,Stereas Elladas,102223,38.47,23.6,5
+Chandigarh,3234,Chandigarh,510565,30.75,76.78,350
+Chandler,3235,Arizona,275987,33.3,-111.83,370
+Changchun,3236,Jilin,4557356,43.9,125.2,222
+Changde,3237,Hunan,1100719,29.03,111.68,35
+Changhua,3238,Taiwan,236636,24.07,120.53,20
+Changsha,3239,Hunan,5630256,28.2,112.97,63
+Changshu,3240,Jiangsu,1230599,31.67,120.82,NULL
+Changuinola,3241,Bocas del Toro,98310,9.43,-82.52,NULL
+Changwon,3242,South Korea,1029389,35.27,128.66,2
+Changzhi,3243,Shanxi,1047461,36.18,113.1,NULL
+Changzhou,3244,Jiangsu,3187315,31.78,119.97,NULL
+Chania,3245,Kritis,108642,35.52,24.02,20
+Chaozhou,3246,Guangdong,1254007,23.67,116.63,10
+Chapecó,3247,Santa Catarina,168113,-27.1,-52.62,NULL
+Charkiv,3248,Charkivska,1433886,50,36.23,152
+Charleroi,3249,Hainaut,202746,50.4,4.43,NULL
+Charleston,3250,South Carolina,150227,32.78,-79.93,4
+Charleston,3251,West Virginia,51400,38.35,-81.63,182
+Charlotte,3252,North Carolina,874579,35.23,-80.84,229
+Charlotte Amalie,3253,Virgin Islands,8194,18.3,-64.9,NULL
+Charlottetown,3254,Prince Edward Island,34562,46.23,-63.15,10
+Chasavjurt,3255,Dagestan,155144,43.25,46.58,130
+Chattanooga,3256,Tennessee,181099,35.05,-85.27,206
+Cheboksary,3257,Chuvashia,497807,56.15,47.23,150
+Chelmsford,3258,East of England,120091,51.92,0.47,NULL
+Cheltenham,3259,South West England,119587,51.88,-2.07,NULL
+Chelyabinsk,3260,Chelyabinskaya,1189525,55.15,61.38,220
+Chemnitz,3261,Sachsen,240253,50.83,12.92,298
+Chengdu,3262,Sichuan,13568357,30.66,104.06,500
+Chennai,3263,Tamil Nadu,4646732,13.08,80.27,6
+Cheongju,3264,South Korea,855326,36.63,127.48,39
+Cherepovets,3265,Vologodskaya,305185,59.2,37.9,130
+Cherson,3266,Chersonska,283649,46.63,32.58,43
+Chesapeake,3267,Virginia,249422,36.71,-76.24,9
+Chetumal,3268,Quintana Roo,169028,18.5,-88.31,10
+Cheyenne,3269,Wyoming,65132,41.15,-104.8,1848
+Chiang Mai,3270,Thailand,336007,18.8,99,323
+Chiayi,3271,Taiwan,271220,23.48,120.45,69
+Chiba,3272,Chiba,971882,35.6,140.1,2
+Chicago,3273,Illinois,2746388,41.84,-87.68,181
+Chichica,3274,Ngäbe Buglé,NULL,8.36,-81.67,NULL
+Chiclayo,3275,Lambayeque,624246,-6.76,-79.84,27
+Chifeng,3276,Nei Mongol,1093068,42.25,118.88,586
+Chihuahua,3277,Chihuahua,925762,28.64,-106.09,1415
+Chillan,3278,Ñuble,191983,-36.6,-72.1,124
+Chilpancingo,3279,Guerrero,225728,17.55,-99.5,1253
+Chimalhuacán,3280,"México, Estado de",703215,19.44,-98.95,2240
+Chimbote,3281,Ancash,366160,-9.14,-78.59,4
+Chimki,3282,Moskovskaya,257128,55.9,37.45,180
+Chimoio,3283,Manica,363336,-19.12,33.48,664
+Chinandega,3284,Nicaragua,133361,12.62,-87.15,50
+Chincha Alta,3285,Ica,193450,-13.45,-76.13,97
+Chingola,3286,Copperbelt,299936,-12.53,27.85,1363
+Chiniot,3287,Punjab,278747,31.72,72.98,179
+Chinsali,3288,Muchinga,NULL,-10.55,32.07,NULL
+Chipata,3289,Eastern,NULL,-13.65,32.63,1140
+Chirchiq,3290,Toshkent,157220,41.47,69.58,582
+Chişinău,3291,Moldova,663400,47,28.92,85
+Chita,3292,Zabaykalskiy,334427,52.05,113.47,650
+Chitre,3293,Herrera,48479,7.97,-80.43,24
+Chittagong,3294,Chittagong,3227246,22.37,91.8,NULL
+Chitungwiza,3295,Zimbabwe,371244,-17.99,31.05,1448
+Chmelnytskyi,3296,Chmelnytska,274582,49.42,27,275
+Choloma,3297,Cortés,163818,15.63,-88,NULL
+Choluteca,3298,Choluteca,86179,13.3,-87.18,NULL
+Chon Buri,3299,Thailand,321149,13.36,100.98,NULL
+Chongjin,3300,North Korea,667929,41.78,129.77,NULL
+Chongqing,3301,Chongqing,9580770,29.56,106.57,237
+Chorzów,3302,Śląskie,104193,50.3,18.95,352
+Christchurch,3303,New Zealand,372500,-43.53,172.62,100
+Chula Vista,3304,California,275487,32.63,-117.05,20
+Chuncheon,3305,South Korea,284645,37.87,127.73,NULL
+Chur,3306,Graubünden,NULL,46.85,9.53,593
+Ciego de Ávila,3307,Ciego de Ávila,114829,21.85,-78.76,55
+Ciénaga,3308,Magdalena,104999,11.01,-74.25,10
+Cienfuegos,3309,Cienfuegos,147110,22.15,-80.44,25
+Cilegon,3310,Banten,374559,-6,106,NULL
+Cimahi,3311,Jawa Barat,541177,-6.88,107.53,768
+Cincinnati,3312,Ohio,309317,39.14,-84.5,147
+Cirebon,3313,Jawa Barat,296389,-6.72,108.57,NULL
+Cité Soleil,3314,Haiti,241055,18.58,-72.33,NULL
+Ciudad Bolívar,3315,Bolívar,307713,8.12,-63.55,54
+Ciudad de Guatemala,3316,Guatemala,923392,14.61,-90.54,1500
+Ciudad de México,3317,Distrito Federal,8843706,19.43,-99.13,2250
+Ciudad del Este,3318,Paraguay,304300,-25.52,-54.62,34
+Ciudad Delgado,3319,El Salvador,129965,13.72,-89.17,603
+Ciudad Guayana,3320,Bolívar,692215,8.37,-62.65,13
+Ciudad Juárez,3321,Chihuahua,1501551,31.74,-106.49,1137
+Ciudad López Mateos,3322,"México, Estado de",523065,19.56,-99.25,2280
+Ciudad Madero,3323,Tamaulipas,205933,22.25,-97.83,NULL
+Ciudad Obregón,3324,Sonora,329404,27.49,-109.93,40
+Ciudad Santa Catarina,3325,Nuevo Léon,268347,25.68,-100.45,680
+Ciudad Victoria,3326,Tamaulipas,332100,23.73,-99.13,316
+Cixi,3327,Zhejiang,1457510,30.17,121.23,NULL
+Cizre,3328,Şırnak,130190,37.25,42.2,377
+Clarksville,3329,Tennessee,166722,36.53,-87.31,145
+Clearwater,3330,Florida,117292,27.97,-82.76,9
+Clermont-Ferrand,3331,Auvergne-Rhône-Alpes,140957,45.78,3.08,321
+Cleveland,3332,Ohio,372624,41.48,-81.67,199
+Cluj-Napoca,3333,Cluj,324576,46.77,23.58,340
+Coatzacoalcos,3334,Veracruz,212540,18.15,-94.43,10
+Cobán,3335,Guatemala,212047,15.48,-90.37,1320
+Cobija,3336,Pando,NULL,-11.03,-68.73,280
+Cochabamba,3337,Cochabamba,630587,-17.38,-66.17,2558
+Codo,3338,Maranhão,118072,-4.46,-43.89,47
+Coimbatore,3339,Tamil Nadu,1050721,11.02,76.97,411.2
+Coimbra,3340,Coimbra,105190,40.21,-8.43,34
+Colatina,3341,Espírito Santo,98395,-19.54,-40.63,71
+Colchester,3342,East of England,138753,51.89,0.9,NULL
+Colima,3343,Colima,146965,19.24,-103.72,305
+Colombo,3344,Paraná,203203,-25.29,-49.22,950
+Colombo,3345,Sri Lanka,561314,6.93,79.84,1
+Colón,3346,Colón,206553,9.36,-79.9,9
+Colorado Springs,3347,Colorado,478961,38.87,-104.76,1840
+Columbia,3348,South Carolina,136632,34.03,-80.9,89
+Columbus,3349,Georgia,206922,32.49,-84.94,74
+Columbus,3350,Ohio,905748,39.98,-82.98,275
+Comayagua,3351,Comayagua,92833,14.46,-87.65,594
+Comilla,3352,Chittagong,339133,23.45,91.2,NULL
+Comodoro Rivadavia,3353,Chubut,175196,-45.86,-67.48,61
+Conakry,3354,Guinea,1667864,9.52,-13.7,NULL
+Concepción,3355,Bío-Bío,722929,-36.83,-73.05,12
+Concord,3356,California,125410,37.98,-122.03,23
+Concord,3357,New Hampshire,43976,43.21,-71.54,88
+Concordia,3358,Entre Ríos,149450,-31.4,-58.03,21
+Constanţa,3359,Constanţa,283872,44.17,28.64,25
+Constantine,3360,Algeria,448028,36.35,6.6,694
+Contagem,3361,Minas Gerais,601400,-19.93,-44.05,858
+Copenhagen,3362,Hovedstaden,580184,55.6833,12.55,24
+Copiapó,3363,Atacama,150962,-27.37,-70.33,391
+Coral Springs,3364,Florida,134394,26.27,-80.26,4
+Córdoba,3365,Andalucía,322327,37.88,-4.77,120
+Córdoba,3366,Veracruz,139075,18.89,-96.93,860
+Córdoba,3367,Córdoba,1317298,-31.42,-64.18,390
+Cork,3368,Munster,130119,51.9,-8.47,9
+Çorlu,3369,Tekirdağ,302395,41.15,27.8,10
+Corona,3370,California,157136,33.87,-117.57,207
+Corpus Christi,3371,Texas,317863,27.74,-97.4,2
+Corrientes,3372,Corrientes,346334,-27.48,-58.82,52
+Corum,3373,Çorum,267394,40.55,34.95,801
+Cosenza,3374,Calabria,69484,39.3,16.25,238
+Costa Mesa,3375,California,111918,33.67,-117.91,30
+Cotabato,3376,Muslim Mindanao,299438,7.22,124.25,NULL
+Cotia,3377,São Paulo,201150,-23.6,-46.92,853
+Cotonou,3378,Benin,679012,6.37,2.43,51
+Cottbus,3379,Brandenburg,99984,51.76,14.33,75
+Coventry,3380,West Midlands,355703,52.41,-1.51,NULL
+Coyhaique,3381,Aysén,NULL,-45.57,-72.07,302
+Craiova,3382,Dolj,269506,44.33,23.82,100
+Crawley,3383,South East England,116880,51.11,-0.19,NULL
+Criciúma,3384,Santa Catarina,189630,-28.68,-49.37,46
+Cuautitlán Izcalli,3385,"México, Estado de",515353,19.65,-99.21,2280
+Cuautla Morelos,3386,Morelos,157336,18.81,-99.96,1294
+Cúcuta,3387,Norte de Santander,865445,7.89,-72.5,320
+Cuenca,3388,Ecuador,331888,-2.9,-79.02,2560
+Cuernavaca,3389,Morelos,341029,18.92,-99.23,1510
+Cuiabá,3390,Mato Grosso,540814,-15.6,-56.1,165
+Cuito,3391,Bié,424169,-12.52,17.57,NULL
+Culiacán,3392,Sinaloa,808416,24.8,-107.39,54
+Cumaná,3393,Sucre,208114,10.46,-64.17,43
+Curitiba,3394,Paraná,1751907,-25.42,-49.25,934.6
+Cusco,3395,Cusco,457398,-13.52,-71.97,3399
+Cuttack,3396,Odisha,403418,20.52,85.79,36
+Częstochowa,3397,Śląskie,213107,50.8,19.12,NULL
+Da Nang,3398,North and South Central Coast,988561,16.07,108.23,NULL
+Dabou,3399,Lagunes,NULL,5.3,-4.4,NULL
+Dąbrowa Górnicza,3400,Śląskie,116930,50.32,19.27,NULL
+Daegu,3401,South Korea,2410700,35.87,128.6,NULL
+Daejeon,3402,South Korea,1488435,36.35,127.39,NULL
+Dakar,3403,Dakar,2646503,14.69,-17.45,10
+Dalian,3404,Liaoning,4913879,38.92,121.64,29
+Dallas,3405,Texas,1304379,32.78,-96.8,131
+Daloa,3406,Sassandra-Marahoué,266324,6.88,-6.45,299
+Daman,3407,Daman and Diu,NULL,20.42,72.85,5
+Damanhur,3408,Egypt,278413,31.04,30.47,18
+Damaturu,3409,Yobe,141897,11.74,11.96,NULL
+Dambai,3410,Oti,NULL,8.07,0.18,111
+Damongo,3411,Savannah,NULL,9.08,-1.82,217
+Dandong,3412,Liaoning,748983,40.12,124.38,8
+Danlí,3413,El Paraíso,64976,14.05,-86.58,814
+Daqing,3414,Heilongjiang,1604027,46.58,125,149
+Dar es Salaam,3415,Dar es Salaam,4364541,-6.8,39.28,12
+Daraa,3416,Daraa,146481,32.62,36.1,435
+Darmstadt,3417,Hessen,143499,49.87,8.65,144
+Darwin,3418,Northern Territory,132921,-12.45,130.83,NULL
+Dashhowuz,3419,Dashhowuz,141800,41.83,59.97,88
+Dasmarinas,3420,Calabarzon,659019,14.33,120.94,NULL
+Datong,3421,Shanxi,1809505,40.08,113.3,1042
+Davao,3422,Davao,1325168,7.07,125.6,22.3
+David,3423,Chiriquí,144858,8.43,-82.43,-6
+Dayr az Zawr,3424,Dayr az Zawr,239196,35.33,40.15,210
+Dayton,3425,Ohio,137644,39.76,-84.19,225
+Debrecen,3426,Hajdú-Bihar,211320,47.53,21.64,121
+Dehra Dun,3427,Uttarakhand,NULL,30.32,78.03,435
+Delemont,3428,Jura,NULL,47.37,7.35,435
+Delhi,3429,Delhi,11034555,28.61,77.23,200
+Delmas,3430,Haiti,359451,18.55,-72.3,194
+Den Haag,3431,Zuid-Holland,509623,52.08,4.32,1
+Denizli,3432,Denizli,643007,37.77,29.08,324
+Denpasar,3433,Bali,788589,-8.65,115.22,4
+Denver,3434,Colorado,715522,39.76,-104.88,1564
+Depok,3435,Jawa Barat,1738570,-6.39,106.83,50
+Dera Ghazi Khan,3436,Punjab,399064,30.05,70.63,NULL
+Derbent,3437,Dagestan,124953,42.05,48.3,-20
+Derby,3438,East Midlands,269053,52.92,-1.48,NULL
+Derince,3439,Kocaeli,141320,40.77,29.82,NULL
+Des Moines,3440,Iowa,214113,41.59,-93.62,291
+Dese,3441,Amhara,270400,11.13,39.63,2470
+Detroit,3442,Michigan,639111,42.33,-83.05,183
+Deva,3443,Hunedoara,NULL,45.88,22.91,187
+Dezful,3444,Khuzestan,264709,32.38,48.4,150
+Dezhou,3445,Shandong,843372,37.43,116.27,NULL
+Dhaka,3446,Dhaka,10278882,23.7,90.37,4
+Diadema,3447,São Paulo,386089,-23.69,-46.61,780
+Diffa,3448,Diffa,NULL,13.31,12.62,286
+Dijon,3449,Bourgogne-Franche-Comté,151672,47.29,5.04,220
+Dili,3450,Timor-Leste,244584,-8.6,125.6,NULL
+Dimashq,3451,Dimashq,1552161,33.51,36.29,680
+Dimbokro,3452,Lacs,NULL,6.65,-4.7,NULL
+Dimitrovgrad,3453,Ulyanovskaya,110968,54.18,49.58,60
+Diourbel,3454,Diourbel,133705,14.66,-16.39,12
+Dire Dawa,3455,Dire Dawa,343000,9.6,41.87,1276
+Dispur,3456,Assam,NULL,26.14,91.79,55
+Divinópolis,3457,Minas Gerais,207516,-20.14,-44.88,712
+Diwaniyah,3458,al-Qadisiya,403796,32,45,25
+Diyarbakir,3459,Diyarbakır,1069578,37.91,40.24,675
+Djambala,3460,Plateaux,NULL,-2.54,14.75,622
+Djibouti,3461,Djibouti,475322,11.6,43.17,NULL
+Dnipro,3462,Dnipropetrovska,980948,48.45,34.98,155
+Dodoma,3463,Dodoma,410956,-6.17,35.74,1120
+Doha,3464,Qatar,872048,25.29,51.53,7
+Dolgoprudny,3465,Moskovskaya,120907,55.93,37.5,180
+Dolisie,3466,Niari,128032,-4.2,12.67,290
+Domodedovo,3467,Moskovskaya,152404,55.43,37.75,160
+Doncaster,3468,Yorkshire and the Humber,113566,53.52,-1.13,NULL
+Donetsk,3469,Donetska,905364,48,37.81,169
+Dongguan,3470,Guangdong,9644871,23.03,113.72,8
+Dongying,3471,Shandong,961300,37.45,118.47,NULL
+Donostia,3472,Euskadi,187892,43.32,-1.99,6
+Dordrecht,3473,Zuid-Holland,118780,51.82,4.67,1
+Dornbirn,3474,Vorarlberg,45922,47.41,9.74,437
+Dortmund,3475,Nordrhein-Westfalen,571143,51.52,7.47,86
+Dos Hermanas,3476,Andalucía,136296,37.28,-5.92,42
+Dosquebradas,3477,Risaralda,204280,4.83,-75.68,1460
+Dosso,3478,Dosso,NULL,13.04,3.19,227
+Douala,3479,Littoral,2768400,4.05,9.68,13
+Douglas,3480,Isle of Man,26677,54.15,-4.6,NULL
+Dourados,3481,Mato Grosso do Sul,181005,-22.22,-54.81,430
+Dover,3482,Delaware,39403,39.16,-75.53,11
+Drammen,3483,Buskerud,65473,59.74,10.21,5
+Dresden,3484,Sachsen,512354,51.03,13.73,112
+Drobeta-Turnu Severin,3485,Mehedinţi,92617,44.57,22.67,50
+Dubai,3486,United Arab Emirates,2401067,24.95,55.33,NULL
+Dublin,3487,Leinster,588233,53.35,-6.26,20
+Duhouk,3488,Duhouk,340871,36.87,43,565
+Duisburg,3489,Nordrhein-Westfalen,488468,51.44,6.76,33
+Duma,3490,Rif Dimashq,181934,33.57,36.4,428
+Dumai,3491,Riau,253803,1.67,101.45,NULL
+Dumyat,3492,Egypt,289833,31.42,31.82,5
+Dundee,3493,Scotland,146840,56.46,-2.97,NULL
+Dunedin,3494,New Zealand,105000,-45.87,170.5,NULL
+Dunqulā,3495,Ash-Shamālīyah,NULL,19.17,30.45,NULL
+Duque de Caxias,3496,Rio de Janeiro,852138,-22.79,-43.31,7
+Durango,3497,Durango,616068,24.02,-104.67,1880
+Durgapur,3498,West Bengal,425836,23.55,87.32,65
+Durham,3499,North Carolina,283506,35.99,-78.91,123
+Durrës,3500,Albania,113249,41.32,19.45,40
+Dushanbe,3501,Dushanbe,863400,38.54,68.78,706
+Düsseldorf,3502,Nordrhein-Westfalen,586291,51.23,6.78,38
+Dutse,3503,Jigawa,NULL,11.7,9.34,NULL
+Düzce,3504,Düzce,188928,40.84,31.16,NULL
+Dzeržinsk,3505,Nizhnii Novgorodskaya,218630,56.23,43.45,90
+Eastbourne,3506,South East England,113127,50.77,0.28,NULL
+Ebolowa,3507,Sud,NULL,2.92,11.15,636
+Ecatepec,3508,"México, Estado de",1643623,19.61,-99.06,2250
+Ech Chelif,3509,Algeria,155134,36.2,1.3,114
+Ede,3510,Osun,142363,7.74,4.44,269
+Edinburgh,3511,Scotland,505310,55.95,-3.19,47
+Edirne,3512,Edirne,174662,41.68,26.56,42
+Edmonton,3513,Alberta,932546,53.53,-113.5,645
+Effon-Alaiye,3514,Ekiti,158977,7.68,4.82,NULL
+Eger,3515,Heves,56569,47.9,20.37,165
+Eindhoven,3516,Noord-Brabant,221279,51.43,5.48,17
+Eisenstadt,3517,Burgenland,13101,47.85,16.52,182
+Ekibastuz,3518,Pavlodar,130903,51.67,75.37,347
+Ekurhuleni - Germiston,3519,Gauteng,3178471,-26.17,28.33,NULL
+El Aaiun,3520,Western Sahara,183691,27.15,-13.2,NULL
+El Alto,3521,La Paz,848840,-16.52,-68.17,4150
+El Djelfa,3522,Algeria,265833,34.67,3.25,NULL
+El Monte,3523,California,109450,34.07,-118.03,91
+El Paso,3524,Texas,678815,31.79,-106.42,1140
+El Porvenir,3525,Guna Yala,NULL,9.55,-78.97,NULL
+El Progreso,3526,Yoro,114934,15.4,-87.8,NULL
+Elazig,3527,Elazığ,381158,38.67,39.22,1067
+Elbasan,3528,Albania,78703,41.1,20.07,150
+Elbląg,3529,Warmińsko-Mazurskie,115220,54.17,19.4,10
+Elche,3530,Valenciana,235566,38.27,-0.7,86
+Eldoret,3531,Kenya,475716,0.52,35.28,NULL
+Elektrostal,3532,Moskovskaya,146403,55.78,38.47,150
+Elista,3533,Kalmykiya,102583,46.32,44.27,120
+Elizabeth,3534,New Jersey,137298,40.67,-74.19,5
+Embu,3535,São Paulo,240230,-23.65,-46.85,775
+Emfuleni,3536,Gauteng,721662,-26.7,27.84,1468
+Ėngels,3537,Saratovskaya,225428,51.5,46.12,20
+Enschede,3538,Overijssel,158494,52.22,6.9,42
+Ensenada,3539,Baja California,330652,31.86,-116.61,16
+Enterprise,3540,Nevada,221831,36.03,-115.2,778
+Enugu,3541,Enugu,885000,6.45,7.51,202
+Envigado,3542,Antioquia,215766,6.17,-75.58,1675
+Episkopi Cantonment,3543,Akrotiri and Dhekelia,NULL,34.69,32.85,30
+Erdenet,3544,Mongolia,100183,49.03,104.06,1300
+Erfurt,3545,Thüringen,200868,50.98,11.03,194
+Erie,3546,Pennsylvania,93928,42.13,-80.09,199
+Erlangen,3547,Bayern,103719,49.58,11.02,279
+Ermoupoli,3548,Notioy Aigaioy,NULL,37.43,24.92,20
+Erzincan,3549,Erzincan,134544,39.75,39.49,1185
+Erzurum,3550,Erzurum,417028,39.91,41.28,1900
+Esbjerg,3551,Syddanmark,72060,55.48,8.45,11
+Escobedo,3552,Nuevo Léon,454967,25.79,-100.16,510
+Escondido,3553,California,151038,33.12,-117.08,197
+Esfahan,3554,Esfahan,1961260,32.63,51.65,1574
+Eskilstuna,3555,Södermanland,98765,59.37,16.51,26
+Eskisehir,3556,Eskişehir,779758,39.78,30.52,788
+Eslam Shahr,3557,Tehran,448129,35.56,51.23,1456
+Espoo,3558,Uusimaa,261654,60.21,24.66,NULL
+Essen,3559,Nordrhein-Westfalen,566201,51.45,7.01,116
+Estelí,3560,Nicaragua,122924,13.08,-86.35,843.97
+eThekwini,3561,KwaZulu-Natal,3442361,-29.88,31.05,6
+Eugene,3562,Oregon,176654,44.05,-123.09,131
+Evansville,3563,Indiana,117298,37.98,-87.55,118
+Evora,3564,Evora,NULL,38.57,-7.9,300
+Ewo,3565,Cuvette-Ouest,NULL,-0.87,14.82,534
+Exeter,3566,South West England,124893,50.72,-3.53,NULL
+Faisalabad,3567,Punjab,3204726,31.43,73.08,184
+Fakaofo,3568,Tokelau,490,-9.37,-171.21,NULL
+Falun,3569,Dalarna,51900,60.61,15.63,110
+Fargo,3570,North Dakota,125990,46.88,-96.79,276
+Fargona,3571,Fargʻona,288850,40.39,71.79,582
+Faridabad,3572,Uttar Pradesh,1414050,28.42,77.31,198
+Faro,3573,Algarve,NULL,37.03,-7.92,6
+Fatick,3574,Fatick,NULL,14.33,-16.41,11
+Fayetteville,3575,North Carolina,208501,35.05,-78.88,80
+Feira de Santana,3576,Bahia,510635,-12.25,-38.95,286
+Ferrara,3577,Emilia-Romagna,132545,44.83,11.62,9
+Ferraz de Vasconcelos,3578,São Paulo,160754,-23.54,-46.37,759
+Fès,3579,Fes Boulemane,1112072,34.03,-5,412
+Fianarantsoa,3580,Madagascar,191776,-21.45,47.09,1200
+Firenze,3581,Toscana,358079,43.78,11.25,50
+Flint,3582,Michigan,81252,43.01,-83.69,229
+Florencia,3583,Caquetá,147939,1.61,-75.61,242
+Florianópolis,3584,Santa Catarina,405286,-27.83,-48.42,3
+Floridablanca,3585,Santander,280025,7.22,-73.07,925
+Flying Fish Cove,3586,Christmas Island,NULL,-10.25,105.43,NULL
+Focsani,3587,Vrancea,NULL,45.7,27.18,55
+Fóggia,3588,Puglia,147036,41.46,15.55,76
+Fontana,3589,California,208393,34.1,-117.47,377
+Forlí,3590,Emilia-Romagna,116434,44.23,12.05,34
+Formosa,3591,Formosa,222226,-26.18,-58.18,57
+Fort-de-France,3592,Martinique,100000,14.6,-61,NULL
+Fort Collins,3593,Colorado,169810,40.56,-105.08,1525
+Fort Lauderdale,3594,Florida,182760,26.13,-80.15,3
+Fort Wayne,3595,Indiana,263886,41.08,-85.14,247
+Fort Worth,3596,Texas,918915,32.76,-97.33,199
+Fortaleza,3597,Ceará,2452185,-3.72,-38.54,21
+Foshan,3598,Guangdong,9042509,23.02,113.12,16
+Foz do Iguaçu,3599,Paraná,253962,-25.55,-54.58,164
+Franca,3600,São Paulo,313046,-20.54,-47.4,1040
+Franceville,3601,Gabon,110568,-1.63,13.58,295
+Francisco Morato,3602,São Paulo,154158,-23.28,-46.74,792
+Francistown,3603,Botswana,102444,-21.17,27.51,1001
+Frankfort,3604,Kentucky,28602,38.2,-84.87,155
+Frankfurt,3605,Hessen,667925,50.12,8.68,112
+Frauenfeld,3606,Thurgau,NULL,47.55,8.9,417
+Fredericton,3607,New Brunswick,56224,45.96,-66.65,20
+Freetown,3608,Sierra Leone,1055964,8.48,-13.23,26
+Freiburg,3609,Baden-Württemberg,209628,48,7.85,278
+Fremont,3610,California,230504,37.55,-121.99,17
+Fresno,3611,California,542107,36.75,-119.77,94
+Fribourg,3612,Fribourg,NULL,46.8,7.15,610
+Frisco,3613,Texas,200509,33.14,-96.81,236
+Fuenlabrada,3614,Madrid,192612,40.28,-3.8,664
+Fujisawa,3615,Kanagawa,423894,35.35,139.47,NULL
+Fukui,3616,Fukui,265904,36.07,136.22,NULL
+Fukuoka,3617,Fukuoka,1538681,33.58,130.4,NULL
+Fukushima,3618,Fukushima,294247,37.77,140.47,67
+Fukuyama,3619,Hiroshima,464811,34.48,133.37,NULL
+Fullerton,3620,California,143617,33.88,-117.93,50
+Funabashi,3621,Chiba,622890,35.7,139.98,NULL
+Funafuti,3622,Tuvalu,6320,-8.52,179.2,NULL
+Funchal,3623,Madeira,105590,32.65,-16.92,NULL
+Fürth,3624,Bayern,115613,49.47,11,294
+Fushun,3625,Liaoning,1228890,41.87,123.9,NULL
+Fuyang,3626,Anhui,1191810,32.9,115.82,NULL
+Fuzhou,3627,Fujian,3723454,26.08,119.31,NULL
+Gaborone,3628,Botswana,244107,-24.66,25.91,1014
+Gagnoa,3629,Gôh-Djiboua,167900,6.13,-5.93,NULL
+Galaţi,3630,Galaţi,249432,45.42,28.04,55
+Galway,3631,Connacht,83456,53.27,-9.05,25
+Gambella,3632,Gambella,NULL,8.25,34.58,526
+Gander,3633,Newfoundland and Labrador,NULL,48.96,-54.61,128
+Gandhinagar,3634,Gujarat,NULL,23.22,72.68,81
+Gangtok,3635,Sikkim,NULL,27.33,88.62,1600
+Ganja,3636,Azerbaijan,322600,40.68,46.36,408
+Ganzhou,3637,Jiangxi,1778132,25.87,114.93,107
+Gao,3638,Gao,NULL,16.27,-0.05,226
+Garanhuns,3639,Pernambuco,115356,-8.89,-36.49,896
+Garden Grove,3640,California,171949,33.78,-117.96,27
+Garland,3641,Texas,246018,32.91,-96.64,168
+Garoua,3642,Nord,235996,9.3,13.4,249
+Gatchina,3643,Leningradskaya,94377,59.58,30.13,100
+Gateshead,3644,North East England,115720,54.95,-1.6,NULL
+Gatineau,3645,Ontario,265349,45.48,-75.65,NULL
+Gauhati,3646,Assam,584342,26.18,91.73,55.5
+Gävle,3647,Gävleborg,96170,60.67,17.14,8
+Gaza,3648,Gaza Strip,631215,31.5,34.5,NULL
+Gaziantep,3649,Gaziantep,1714775,37.07,37.38,850
+Gbadolite,3650,Nord-Ubangi,NULL,4.3,21,400
+Gdańsk,3651,Pomorskie,486022,54.37,18.63,3
+Gdynia,3652,Pomorskie,245222,54.5,18.53,3
+Gebze,3653,Kocaeli,748510,40.8,29.43,NULL
+Geelong,3654,Victoria,287704,-38.15,144.35,NULL
+Geita,3655,Geita,NULL,-2.87,32.23,NULL
+Gelsenkirchen,3656,Nordrhein-Westfalen,258766,51.52,7.1,48
+Gemena,3657,Sud-Ubangi,NULL,3.25,19.75,400
+General San Martín,3658,Buenos Aires,414196,-23.8,-64.78,472
+General Santos,3659,Soccsksargen,474395,6.12,125.17,15
+General Trias,3660,Calabarzon,314303,14.38,120.88,22
+Genève,3661,Genève,203856,46.2,6.15,375
+Génova,3662,Liguria,586180,44.41,8.93,20
+Gent,3663,Oost-Vlaanderen,263927,51.05,3.73,NULL
+George Town,3664,Cayman Islands,34399,19.3,-81.39,3
+Georgetown,3665,Guyana,118363,6.8,-58.17,-2
+Georgetown,3666,Pulau Pinang,708127,5.4,100.23,NULL
+Gera,3667,Thüringen,96067,50.88,12.08,194
+Getafe,3668,Madrid,183872,40.3,-3.73,622
+Ghardaïa,3669,Algeria,142913,32.48,3.67,572
+Ghaziabad,3670,Uttar Pradesh,1648643,28.67,77.42,214
+Gibraltar,3671,Gibraltar,NULL,36.12,-5.25,NULL
+Gifu,3672,Gifu,406735,35.42,136.77,NULL
+Gijón,3673,Asturias,269311,43.53,-5.7,14
+Gilbert,3674,Arizona,267918,33.35,-111.79,377
+Gilgit,3675,Gilgit-Baltistan,216760,35.92,74.29,1500
+Gillingham,3676,South East England,107897,51.38,0.55,NULL
+Giresun,3677,Giresun,122787,40.92,38.39,10
+Girón,3678,Santander,141107,7.07,-73.17,706
+Girona,3679,Catalunya,101648,41.98,2.82,70
+Gisenyi,3680,Rwanda,136830,-1.7,29.25,1481
+Gitega,3681,Burundi,41944,-3.44,29.93,1725
+Giugliano in Campania,3682,Campania,108793,40.93,14.2,NULL
+Giurgiu,3683,Giurgiu,NULL,43.9,25.97,25
+Glarus,3684,Glarus,NULL,47.03,9.07,472
+Glasgow,3685,Scotland,631690,55.86,-4.26,NULL
+Glendale,3686,Arizona,248325,33.54,-112.19,351
+Glendale,3687,California,196543,34.17,-118.25,159
+Gliwice,3688,Śląskie,174016,50.28,18.67,200
+Gloucester,3689,South West England,151176,51.87,-2.24,NULL
+Goaso,3690,Ahafo,NULL,6.8,-2.51,NULL
+Godomey,3691,Benin,253262,6.36,2.35,30
+Goiânia,3692,Goiás,1297076,-16.67,-49.25,749
+Gölcük,3693,Kocaeli,166180,40.67,29.83,NULL
+Gold Coast,3694,Queensland,718772,-28.02,153.4,NULL
+Goma,3695,Nord-Kivu,461306,-1.68,29.23,1489
+Gombe,3696,Gombe,460000,10.28,11.17,NULL
+Gomel,3697,Gomel,492136,52.45,30.98,138
+Gómez Palacio,3698,Durango,301742,25.58,-103.5,NULL
+Gonaïves,3699,Haiti,228725,19.45,-72.68,6
+Gonbad-e-Kavus,3700,Golestan,151910,37.25,55.17,NULL
+Gondar,3701,Amhara,466000,12.6,37.47,2133
+Gorakhpur,3702,Uttar Pradesh,505566,26.76,83.37,84
+Gorgan,3703,Golestan,350676,36.84,54.43,1350
+Gorno Altaysk,3704,Altay,56933,51.95,85.97,300
+Gorontalo,3705,Gorontalo,153036,0.53,123.07,9
+Gorzów Wielkopolski,3706,Lubuskie,119964,52.73,15.25,19
+Göteborg,3707,Västra Götaland,526089,57.7,11.97,12
+Göttingen,3708,Niedersachsen,115843,51.53,9.94,150
+Governador Valadares,3709,Minas Gerais,253300,-18.85,-41.95,170
+Goyang,3710,South Korea,1045497,37.65,126.8,NULL
+Gracias,3711,Lempira,NULL,14.58,-88.58,800
+Granada,3712,Andalucía,233680,37.18,-3.6,738
+Granada,3713,Nicaragua,123697,11.93,-85.95,NULL
+Grand Prairie,3714,Texas,196100,32.72,-97.02,157
+Grand Rapids,3715,Michigan,198917,42.96,-85.66,195
+Grand Turk,3716,Turks and Caicos Islands,NULL,21.47,-71.14,NULL
+Gravataí,3717,Rio Grande do Sul,243497,-29.94,-50.99,26
+Graz,3718,Steiermark,261726,47.07,15.43,353
+Green Bay,3719,Wisconsin,107395,44.51,-88.02,177
+Greensboro,3720,North Carolina,299035,36.08,-79.82,273
+Grenoble,3721,Auvergne-Rhône-Alpes,157424,45.2,5.72,212
+Grodno,3722,Grodno,327540,53.67,23.83,137
+Groningen,3723,Groningen,198023,53.22,6.57,7
+Grozny,3724,Chechenskaya,328533,43.32,45.72,130
+Grudziadz,3725,Kujawsko-Pomorskie,90890,53.49,18.78,50
+Guacara,3726,Carabobo,141762,10.25,-67.9,438
+Guadalajara,3727,Jalisco,1385621,20.68,-103.34,1566
+Guadalupe,3728,Nuevo Léon,635862,25.68,-100.26,500
+Guanajuato,3729,Guanajuato,72237,21.02,-101.27,NULL
+Guanare,3730,Portuguesa,129751,9.04,-69.75,183
+Guangzhou,3731,Guangdong,16096724,23.13,113.27,21
+Guantánamo,3732,Guantánamo,217135,20.14,-75.21,46
+Guarapuava,3733,Paraná,152993,-25.39,-51.46,1120
+Guarda,3734,Guarda,NULL,40.53,-7.33,1056
+Guarenas,3735,Miranda,170204,10.47,-66.62,374
+Guarujá,3736,São Paulo,290696,-23.99,-46.26,4
+Guarulhos,3737,São Paulo,1221979,-23.47,-46.53,759
+Guayaquil,3738,Ecuador,2291158,-2.18,-79.88,4
+Guelmim,3739,Guelmim Es Semara,118318,28.98,-10.07,NULL
+Guigang,3740,Guangxi,921440,23.1,109.61,45
+Guilin,3741,Guangxi,1361244,25.27,110.28,153
+Guiyang,3742,Guizhou,4021275,26.65,106.63,1275
+Gujranwala,3743,Punjab,2027001,32.15,74.18,NULL
+Gujrat,3744,Punjab,390533,32.57,74.08,NULL
+Guliston,3745,Sirdaryo,NULL,40.48,68.78,271
+Gulu,3746,Northern,149802,2.76,32.3,1078
+Gümüşhane,3747,Gümüşhane,NULL,40.46,39.48,NULL
+Gunsan,3748,South Korea,269023,35.98,126.72,NULL
+Guntur,3749,Andhra Pradesh,651382,16.3,80.44,30
+Gusau,3750,Zamfara,132393,12.15,6.67,450
+Gustavia,3751,Saint Barthelemy,2299,17.9,-62.85,NULL
+Gwalior,3752,Madhya Pradesh,1054420,26.22,78.18,196
+Gwangju,3753,South Korea,1477573,35.17,126.92,NULL
+Győr,3754,Győr-Moson-Sopron,129527,47.68,17.63,108
+Ha Long,3755,Northern Midlands and Mountains,270054,20.95,107.08,NULL
+Haarlem,3756,Noord-Holland,155361,52.38,4.63,2
+Hachioji,3757,Tokyo,577513,35.67,139.32,NULL
+Haeju,3758,North Korea,273300,38.05,125.72,NULL
+Hafar al_Batin,3759,Ash Sharqiyah,271642,28.43,45.96,NULL
+Hagåtña,3760,Guam,NULL,13.48,144.75,5
+Hagen,3761,Nordrhein-Westfalen,187944,51.37,7.48,106
+Haifa,3762,Hefa,285316,32.82,34.98,475
+Haikou,3763,Hainan,2349239,20.04,110.34,NULL
+Hail,3764,Hail,310897,27.52,41.68,992
+Hailar,3765,Nei Mongol,365012,49.2,119.7,614
+Haining,3766,Zhejiang,752775,30.53,120.68,NULL
+Haiphong,3767,Red River Delta,841520,20.87,106.68,NULL
+Hakha,3768,Chin,NULL,22.65,93.61,1868
+Hakkari,3769,Hakkari,NULL,37.58,43.74,NULL
+Hakodate,3770,Hokkaido,265979,41.77,140.73,NULL
+Halab,3771,Halab,2181061,36.22,37.17,379
+Halifax,3772,Nova Scotia,390096,44.65,-63.57,10
+Halle,3773,Sachsen-Anhalt,229153,51.48,11.97,88
+Halmstad,3774,Halland,93231,56.67,12.86,11
+Hamah,3775,Hamah,467807,35.13,36.75,280
+Hamamatsu,3776,Shizuoka,797980,34.71,137.73,NULL
+Hamar,3777,Hedmark,15685,60.8,11.06,134
+Hamburg,3778,Hamburg,1706696,53.57,10,6
+Hamedan,3779,Hamedan,554406,34.8,48.52,1850
+Hämeenlinna,3780,Kanta-Häme,67803,61,24.47,NULL
+Hamhung-Hungnam,3781,North Korea,768551,39.92,127.53,NULL
+Hamilton,3782,Bermuda,NULL,32.29,-64.78,NULL
+Hamilton,3783,Ontario,519949,43.25,-79.87,75
+Hamilton,3784,New Zealand,168600,-37.78,175.28,40
+Hamm,3785,Nordrhein-Westfalen,176037,51.68,7.82,63
+Hammerfest,3786,Finnmark,7089,70.66,23.68,2
+Hampton,3787,Virginia,137148,37.03,-76.36,3
+Handan,3788,Hebei,2095134,36.6,114.48,NULL
+Hangzhou,3789,Zhejiang,9236032,30.25,120.17,NULL
+Hannover,3790,Niedersachsen,506416,52.37,9.72,55
+Hanoi,3791,Red River Delta,3605364,21.03,105.85,19
+Haora,3792,West Bengal,1077075,22.59,88.31,12
+Harar,3793,Harari,157000,9.32,42.12,1885
+Harare,3794,Zimbabwe,1491740,-17.86,31.03,1490
+Harbin,3795,Heilongjiang,5242897,45.75,126.63,150
+Hargeisa,3796,Somalia,760000,9.55,44.07,1330
+Härnösand,3797,Västernorrland,27287,62.64,17.94,1
+Harrisburg,3798,Pennsylvania,50099,40.27,-76.88,98
+Hartford,3799,Connecticut,121054,41.76,-72.67,18
+Hasselt,3800,Limburg,78714,50.93,5.34,NULL
+Hatay,3801,Hatay,362124,36.2,36.15,67
+Hayward,3802,California,162954,37.67,-122.08,32
+Heerlen,3803,Limburg,88139,50.88,5.98,113
+Hefei,3804,Anhui,5055978,31.87,117.28,37
+Heidelberg,3805,Baden-Württemberg,146751,49.42,8.72,114
+Heilbronn,3806,Baden-Württemberg,116059,49.15,9.22,157
+Helena,3807,Montana,32091,46.6,-112.03,1181
+Helsingborg,3808,Skåne,132011,56.05,12.72,10
+Helsingør,3809,Hovedstaden,NULL,56.03,12.62,8
+Helsinki,3810,Uusimaa,614535,60.17,24.94,NULL
+Hemel Hempstead,3811,East of England,103212,51.75,-0.47,NULL
+Henderson,3812,Nevada,317610,36.03,-114.98,569
+Hengyang,3813,Hunan,1185130,26.9,112.6,NULL
+Herat,3814,Afghanistan,574300,34.34,62.2,920
+Heredia,3815,Heredia,123616,10,-84.12,1150
+Herisau,3816,Appenzell Ausserrhoden,NULL,47.38,9.27,771
+Hermansverk,3817,Sogn og Fjordane,NULL,61.18,6.85,6
+Hermosillo,3818,Sonora,855563,29.1,-110.95,210
+Herne,3819,Nordrhein-Westfalen,155160,51.55,7.22,65
+Heze,3820,Shandong,1293767,35.23,115.43,NULL
+Hialeah,3821,Florida,223109,25.86,-80.29,2
+Higashiosaka,3822,Osaka,502784,34.68,135.6,NULL
+High Wycombe,3823,South East England,127856,51.63,-0.75,NULL
+Hildesheim,3824,Niedersachsen,99554,52.15,9.95,81
+Hillerød,3825,Hovedstaden,NULL,55.93,12.31,41
+Hilo,3826,Hawaii,44186,19.71,-155.09,18
+Hilversum,3827,Noord-Holland,86738,52.23,5.17,15
+Himeji,3828,Hyogo,535664,34.82,134.68,NULL
+Hims,3829,Hims,750501,34.73,36.71,501
+Hirakata,3830,Osaka,404152,34.82,135.65,NULL
+Hiroshima,3831,Hiroshima,1194034,34.39,132.46,NULL
+Ho,3832,Volta,104532,6.61,0.47,150
+Hobart,3833,Tasmania,218386,-42.88,147.32,54
+Hódmezővásárhely,3834,Csongrád,NULL,46.43,20.32,NULL
+Hohhot,3835,Nei Mongol,2373399,40.82,111.65,1065
+Holguín,3836,Holguín,287881,20.89,-76.26,5
+Hollywood,3837,Florida,153067,26.02,-80.17,3
+Honiara,3838,Solomon Islands,130176,-9.43,159.95,29
+Honolulu,3839,Hawaii,350964,21.3,-157.82,6
+Horlivka,3840,Donetska,241106,48.3,38.05,215
+Hortolândia,3841,São Paulo,192692,-22.86,-47.22,587
+Hospitalet de Llobregat,3842,Catalunya,265003,41.36,2.1,8
+Houston,3843,Texas,2304580,29.76,-95.38,13
+Hpa an,3844,Kayin,NULL,16.89,97.63,NULL
+Hradec Králové,3845,Královéhradecký,92649,50.21,15.83,235
+Hsinchu,3846,Taiwan,425071,24.82,120.98,NULL
+Huaian,3847,Jiangsu,1850000,33.3,119.13,NULL
+Huaibei,3848,Anhui,830891,33.58,116.47,NULL
+Huainan,3849,Anhui,1300351,32.62,116.98,NULL
+Hualien,3850,Taiwan,108077,23.97,121.61,NULL
+Huambo,3851,Huambo,665574,-12.77,15.73,1721
+Huancavelica,3852,Huancavelica,NULL,-12.79,-74.98,3676
+Huancayo,3853,Junín,420306,-12.07,-75.22,3259
+Huánuco,3854,Huánuco,203809,-9.93,-76.24,1880
+Huaraz,3855,Ancash,120928,-9.53,-77.53,3052
+Hubli,3856,Karnataka,648298,15.36,75.08,671
+Huddersfield,3857,Yorkshire and the Humber,167534,53.65,-1.78,NULL
+Huddinge,3858,Stockholm,101010,59.23,17.98,NULL
+Hue,3859,North and South Central Coast,351456,16.47,107.58,NULL
+Huelva,3860,Andalucía,142668,37.25,-6.95,54
+Huichon,3861,North Korea,168180,40.17,126.28,NULL
+Huizhou,3862,Guangdong,2900113,23.07,114.4,15
+Huludao,3863,Liaoning,764241,40.72,120.83,NULL
+Huntington Beach,3864,California,198711,33.69,-118,12
+Huntsville,3865,Alabama,215006,34.73,-86.58,193
+Hurghada,3866,Egypt,195675,27.26,33.81,14
+Huzhou,3867,Zhejiang,1083953,30.87,120.1,NULL
+Hyderabad,3868,Telangana,6731790,17.37,78.48,505
+Hyderabad,3869,Sindh,1734309,25.38,68.37,13
+Iaşi,3870,Iaşi,290422,47.16,27.59,60
+Ibadan,3871,Oyo,3160000,7.4,3.92,239
+Ibagué,3872,Tolima,492554,4.43,-75.23,1285
+Ibirité,3873,Minas Gerais,158590,-20.02,-44.06,872
+Ica,3874,Ica,284981,-14.07,-75.73,406
+Ichikawa,3875,Chiba,481732,35.72,139.93,NULL
+Idlib,3876,Idlib,126284,35.93,36.63,500
+Ife,3877,Osun,505000,7.47,4.57,NULL
+Iğdır,3878,Iğdır,99276,39.92,44.04,861
+Ijebu-Ode,3879,Ogun,124313,6.82,3.92,70
+Ikare,3880,Ondo,410000,7.52,5.75,NULL
+Ikire,3881,Osun,111435,7.36,4.18,NULL
+Ikorodu,3882,Lagos,184674,6.6,3.5,NULL
+Ilam,3883,Ilam,194030,33.64,46.42,1431
+Ilawe-Ekiti,3884,Ekiti,104049,7.6,5.1,NULL
+Ilesha,3885,Osun,290000,7.62,4.72,NULL
+Ilhéus,3886,Bahia,155281,-14.79,-39.05,52
+Iligan,3887,Northern Mindanao,299054,8.22,124.24,10
+Illéla,3888,Tahoua,142214,14.46,5.24,NULL
+Iloilo,3889,Western Visayas,447992,11,122.67,NULL
+Ilorin,3890,Kwara,960000,8.5,4.55,NULL
+Imperatriz,3891,Maranhão,234547,-5.53,-47.48,95
+Impfondo,3892,Likouala,NULL,1.64,18.07,326
+Imphal,3893,Manipur,NULL,24.82,93.95,786
+Imus,3894,Calabarzon,403785,14.43,120.94,NULL
+Incheon,3895,South Korea,2945454,37.48,126.63,NULL
+Indaiatuba,3896,São Paulo,199592,-23.09,-47.22,624
+Independence,3897,Missouri,123011,39.08,-94.41,315
+Indianapolis,3898,Indiana,887642,39.77,-86.15,218
+Indore,3899,Madhya Pradesh,1964086,22.7,75.9,553
+İnegöl,3900,Bursa,233174,40.08,29.51,NULL
+Inglewood,3901,California,107762,33.96,-118.35,40
+Ingolstadt,3902,Bayern,124927,48.77,11.43,374
+Inhambane,3903,Inhambane,82119,-23.86,35.38,3
+Inirida,3904,Guainía,20279,3.87,-67.92,95
+Innsbruck,3905,Tirol,119617,47.27,11.38,574
+Inongo,3906,Mai-Ndombe,NULL,-1.93,18.28,NULL
+Ioannina,3907,Ipeiroy,112486,39.67,20.85,480
+Ipatinga,3908,Minas Gerais,236968,-19.5,-42.53,220
+Ipoh,3909,Perak,657892,4.6,101.07,21.95
+Ipswich,3910,East of England,151240,52.06,1.16,NULL
+Iqaluit,3911,Nunavut,6699,63.75,-68.52,NULL
+Iquique,3912,Tarapacá,294949,-20.22,-70.15,1
+Iquitos,3913,Loreto,404545,-3.73,-73.25,104
+Iraklio,3914,Kritis,173993,35.33,25.13,10
+Irapuato,3915,Guanajuato,452090,20.67,-101.35,1724
+Irbid,3916,Jordan,502714,32.55,35.85,620
+Iringa,3917,Iringa,151345,-7.77,35.7,NULL
+Irkutsk,3918,Irkutskaya,617264,52.31,104.3,444
+Irvine,3919,California,307670,33.67,-117.82,17
+Irving,3920,Texas,256684,32.81,-96.95,147
+Iseyin,3921,Oyo,170936,7.97,3.6,NULL
+Isiro,3922,Haut-Uele,NULL,2.77,27.62,750
+Iskenderun,3923,Hatay,186699,36.58,36.17,4
+Islamabad,3924,FCT Islamabad,1009832,33.72,73.07,507
+Isparta,3925,Isparta,245784,37.76,30.56,1049
+İstanbul,3926,İstanbul,15204387,41.01,28.96,40
+Itaboraí,3927,Rio de Janeiro,215412,-22.74,-42.86,17
+Itabuna,3928,Bahia,199643,-14.79,-39.28,54
+Itagüi,3929,Antioquia,247918,6.17,-75.62,1550
+Itajaí,3930,Santa Catarina,173452,-26.9,-48.67,2
+Itanagar,3931,Arunachal Pradesh,NULL,27.1,93.62,750
+Itapecerica da Serra,3932,São Paulo,151349,-23.72,-46.85,920
+Itapetininga,3933,São Paulo,131050,-23.59,-48.05,656
+Itapevi,3934,São Paulo,200769,-23.55,-46.93,741
+Itaquaquecetuba,3935,São Paulo,321770,-23.49,-46.35,790
+Itu,3936,São Paulo,144269,-23.26,-47.3,583
+Ivano-Frankivsk,3937,Ivano-Frankivska,237855,48.92,24.71,244
+Ivanovo,3938,Ivanovskaya,408330,57,40.98,120
+Izhevsk,3939,Udmurtskaya,627734,56.83,53.18,140
+İzmir,3940,İzmir,2947901,38.42,27.13,25
+Jabalpur,3941,Madhya Pradesh,1055525,23.17,79.93,412
+Jaboatão,3942,Pernambuco,630595,-8.11,-35.02,10
+Jacareí,3943,São Paulo,208297,-23.31,-45.97,567
+Jackson,3944,Mississippi,153701,32.3,-90.18,85
+Jacksonville,3945,Florida,949611,30.34,-81.66,5
+Jaén,3946,Andalucía,111915,37.77,-3.77,573
+Jaipur,3947,Rajasthan,3046163,26.9,75.8,431
+Jakarta,3948,DKI Jakarta,9607787,-6.2,106.82,8
+Jalālābād,3949,Afghanistan,271900,34.43,70.5,575
+Jalandhar,3950,Punjab,509510,31.33,75.58,228
+Jalingo,3951,Taraba,NULL,8.9,11.37,NULL
+Jambi,3952,Jambi,531857,-1.59,103.61,16
+Jamestown,3953,Saint Helena,NULL,-15.95,-5.72,25
+Jammu,3954,Jammu and Kashmir,NULL,32.73,74.87,327
+Jamnagar,3955,Gujarat,350544,22.47,70.07,17
+Jamshedpur,3956,Jharkhand,478950,22.8,86.3,135
+Jaú,3957,São Paulo,126943,-22.3,-48.56,541
+Jayapura,3958,Papua,256705,-2.53,140.72,20
+Jazan,3959,Jazan,127743,16.89,42.56,40
+Jeddah,3960,Makkah Al-Mokarramah,3430697,21.54,39.17,12
+Jefferson City,3961,Missouri,43228,38.58,-92.17,192
+Jeju,3962,South Korea,492306,33.51,126.52,NULL
+Jelec,3963,Lipetskaya,108404,52.62,38.47,140
+Jena,3964,Thüringen,105739,50.93,11.59,143
+Jeonju,3965,South Korea,666517,35.82,127.15,NULL
+Jequié,3966,Bahia,139426,-13.86,-40.08,215
+Jerez de la Frontera,3967,Andalucía,213616,36.7,-6.12,56
+Jersey City,3968,New Jersey,292449,40.71,-74.07,6
+Jessentuki,3969,Stavropolskiy,119658,44.03,42.85,610
+Jhang,3970,Punjab,414131,31.27,72.32,NULL
+Jhansi,3971,Uttar Pradesh,313491,25.45,78.57,285
+Jhelum,3972,Punjab,190425,32.93,73.73,250
+Jhongli,3973,Taiwan,376217,24.96,121.22,NULL
+Jiangmen,3974,Guangdong,1795459,22.57,113.07,10
+Jiangyin,3975,Jiangsu,1331352,31.84,120.3,NULL
+Jiaozuo,3976,Henan,874733,35.24,113.22,139
+Jiaxing,3977,Zhejiang,1188321,30.77,120.75,NULL
+Jieyang,3978,Guangdong,1242906,23.55,116.37,8
+Jihlava,3979,Vysočina,50523,49.4,15.59,525
+Jijiga,3980,Somali,198000,9.35,42.8,1609
+Jilin,3981,Jilin,1509292,43.7,126.2,202
+Jimma,3982,Oromia,250900,7.67,36.83,1780
+Jinan,3983,Shandong,5648162,36.67,116.98,23
+Jingzhou,3984,Hubei,950215,30.32,112.25,NULL
+Jinhua,3985,Zhejiang,1040948,29.08,119.65,NULL
+Jinja,3986,Eastern,76057,0.4,33.2,1143
+Jinju,3987,South Korea,352403,35.2,128.08,NULL
+Jinotega,3988,Nicaragua,123548,13.17,-86,1000
+Jinzhou,3989,Liaoning,1021478,41.12,121.13,24
+Jiujiang,3990,Jiangxi,947424,29.74,115.99,NULL
+Jiutepec,3991,Morelos,174629,18.88,-99.17,1355
+Jixi,3992,Heilongjiang,626019,45.3,130.97,230
+Jizzax,3993,Jizzax,177447,40.12,67.84,378
+João Pessoa,3994,Paraíba,720785,-7.08,-34.83,40
+Jodhpur,3995,Rajasthan,1033756,26.28,73.02,231
+Joensuu,3996,Pohjols-Karjala,74332,62.6,29.75,NULL
+Johannesburg,3997,Gauteng,4434827,-26.2,28.05,1753
+Johor Bahru,3998,Johor,497067,1.48,103.73,36.88
+Joinville,3999,Santa Catarina,497850,-26.32,-48.84,4
+Joliet,4000,Illinois,150362,41.52,-88.15,187
+Jolo,4001,Muslim Mindanao,125564,6.05,121,10
+Jönköping,4002,Jönköping,129478,57.78,14.16,104
+Jos,4003,Plateau,925000,9.93,8.88,1217
+Juazeiro,4004,Bahia,160775,-9.43,-40.5,1098
+Juazeiro do Norte,4005,Ceará,240128,-7.2,-39.33,350
+Juba,4006,South Sudan,525923,4.85,31.6,550
+Juiz de Fora,4007,Minas Gerais,510378,-21.76,-43.35,678
+Juliaca,4008,Puno,283872,-15.49,-70.13,3825
+Jundiaí,4009,São Paulo,354204,-23.19,-46.88,761
+Juneau,4010,Alaska,32255,58.3,-134.42,17
+Juticalpa,4011,Olancho,56302,14.67,-86.22,410
+Južno-Sachalinsk,4012,Sakhalin,181587,46.97,142.73,40
+Jyväskylä,4013,Keski-Suomi,134862,62.24,25.74,NULL
+Kabinda,4014,Lomami,219154,-6.15,24.5,1100
+Kabul,4015,Afghanistan,4434600,34.53,69.17,1791
+Kabwe,4016,Central,299206,-14.43,28.45,1183
+Kaduna,4017,Kaduna,1685000,10.52,7.44,250
+Kāduqlī,4018,Janūb Kurdufān,NULL,11,29.7,NULL
+Kaechon,4019,North Korea,319554,39.7,125.91,NULL
+Kaedi,4020,Gorgol,49152,16.15,-13.51,23
+Kaesong,4021,North Korea,308440,37.97,126.55,NULL
+Kaffrine,4022,Kaffrine,NULL,14.12,-15.7,NULL
+Kagoshima,4023,Kagoshima,599814,31.6,130.55,NULL
+Kahramanmaraş,4024,Kahramanmaraş,559873,37.58,36.93,67
+Kaifeng,4025,Henan,1193802,34.8,114.3,75
+Kaiserslautern,4026,Rheinland-Pfalz,96340,49.44,7.77,251
+Kajaani,4027,Kainuu,37304,64.2,25.7,NULL
+Kalabancoro,4028,Koulikoro,96173,12.57,-8.03,NULL
+Kalemi,4029,Tanganyika,NULL,-5.93,29.2,NULL
+Kaliningrad,4030,Kaliningradskaya,490449,54.7,20.45,NULL
+Kalisz,4031,Wielkopolskie,95905,51.76,18.08,144
+Kalmar,4032,Kalmar,54554,56.66,16.36,8
+Kalookan,4033,Metro Manila,1583978,14.65,120.97,NULL
+Kaluga,4034,Kaluzhskaya,337058,54.55,36.28,190
+Kalyan,4035,Maharashtra,1247327,19.24,73.13,8.84
+Kamensk-Uralskij,4036,Sverdlovskaya,164192,56.4,61.93,160
+Kamianske,4037,Dnipropetrovska,229794,48.52,34.62,120
+Kamina,4038,Haut-Lomami,NULL,-8.73,25,1100
+Kamoke,4039,Punjab,249767,31.97,74.22,NULL
+Kampala,4040,Central,1507114,0.31,32.58,1190
+Kamyšin,4041,Volgogradskaya,107927,50.08,45.4,50
+Kananga,4042,Kasai-Central,1169000,-5.89,22.4,608
+Kanazawa,4043,Ishikawa,465699,36.57,136.65,NULL
+Kandahar,4044,Afghanistan,523300,31.62,65.72,1010
+Kangar,4045,Perlis,NULL,6.43,100.2,NULL
+Kanggye,4046,North Korea,251971,40.97,126.6,NULL
+Kano,4047,Kano,4155000,12,8.52,488
+Kanpur,4048,Uttar Pradesh,2765348,26.5,80.3,126
+Kansas City,4049,Kansas,156607,39.11,-94.68,265
+Kansas City,4050,Missouri,508090,39.1,-94.58,277
+Kaohsiung,4051,Taiwan,2778659,22.63,120.27,9
+Kaolack,4052,Kaolack,233708,14.02,-16.25,NULL
+Kaposvár,4053,Somogy,66245,46.36,17.78,153
+Kara,4054,Togo,115400,9.55,1.19,312
+Karabük,4055,Karabük,123309,41.2,32.63,NULL
+Karachi,4056,Sindh,14916456,24.86,67.01,8
+Karadeniz Ereğli,4057,Zonguldak,121439,41.28,31.42,NULL
+Karaganda,4058,Karaganda,484596,49.83,73.17,546
+Karaj,4059,Alborz,1592492,35.84,51.01,1312
+Karaman,4060,Karaman,172683,37.18,33.22,NULL
+Karlovy Vary,4061,Karlovarský,44323,50.23,12.87,447
+Karlskrona,4062,Blekinge,59007,56.16,15.59,16
+Karlsruhe,4063,Baden-Württemberg,289173,49.01,8.4,115
+Karlstad,4064,Värmland,86929,59.38,13.5,64
+Kars,4065,Kars,90124,40.62,43.1,1768
+Karyes,4066,Aghion Oros,233,40.26,24.24,370
+Kasama,4067,Northern,NULL,-10.21,31.18,NULL
+Kashan,4068,Tehran,304487,33.99,51.48,982
+Kashgar,4069,Xinjiang,506640,39.47,75.98,1270
+Kashiwa,4070,Chiba,413954,35.87,139.98,NULL
+Kaspijsk,4071,Dagestan,121140,42.88,47.64,-20
+Kassala,4072,Kassalā,298529,15.45,36.4,NULL
+Kassel,4073,Hessen,190765,51.32,9.5,167
+Kastamonu,4074,Kastamonu,125622,41.38,33.78,800
+Kasur,4075,Punjab,358409,31.12,74.45,218
+Kathmandu,4076,Nepal,845767,27.7,85.33,1400
+Kati,4077,Koulikoro,84500,12.75,-8.07,481
+Katowice,4078,Śląskie,285711,50.25,19,266
+Katsina,4079,Katsina,505000,12.98,7.6,NULL
+Kaunas,4080,Lithuania,298753,54.9,23.89,48
+Kavala,4081,Anatolikis Makedonias kai Thrakis,58790,40.93,24.4,20
+Kavaratti,4082,Lakshadweep,NULL,10.57,72.62,NULL
+Kawaguchi,4083,Saitama,578112,35.8,139.72,NULL
+Kawasaki,4084,Kanagawa,1475213,35.52,139.7,NULL
+Kayes,4085,Kayes,126319,14.45,-11.43,33
+Kayseri,4086,Kayseri,979377,38.73,35.48,1050
+Kazan,4087,Tatarstan,1308660,55.79,49.13,116
+Kecskemét,4088,Bács-Kiskun,111411,46.91,19.69,105
+Kediri,4089,Jawa Timur,268507,-7.82,112.01,3
+Kedougou,4090,Kédougou,NULL,12.55,-12.18,NULL
+Keelung,4091,Taiwan,377153,25.13,121.73,NULL
+Keflavik,4092,Iceland,19311,64.02,-22.57,NULL
+Kemerovo,4093,Kemerovskaya,557119,55.37,86.07,140
+Kendari,4094,Sulawesi Tenggara,289966,-3.97,122.59,5
+Kenema,4095,Sierra Leone,225110,7.87,-11.19,180
+Kenge,4096,Kwango,NULL,-4.8,17.05,NULL
+Kénitra,4097,Gharb Chrarda Beni Hssen,431282,34.25,-6.58,NULL
+Kerbela,4098,Kerbela,711530,32.62,44.03,NULL
+Kerch,4099,Krym,151996,45.36,36.47,10
+Kerkyra,4100,Ionion Nison,NULL,39.58,19.87,20
+Kerman,4101,Kerman,537718,30.28,57.08,1755
+Kermanshah,4102,Kermanshah,946651,34.31,47.07,1350
+Khabarovsk,4103,Khabarovskiy,617441,48.48,135.07,72
+Khamis Mushait,4104,Aseer,430828,18.3,42.73,NULL
+Khanty Mansijsk,4105,Tyumenskaya,107473,61,69,50
+Khartoum,4106,Al-Kharṭūm,1410858,15.63,32.53,382
+Khartoum North,4107,Al-Kharṭūm,1012211,15.63,32.63,NULL
+Khomeinishahr,4108,Esfahan,247128,32.7,51.52,NULL
+Khon Kaen,4109,Thailand,416475,16.43,102.83,NULL
+Khorramabad,4110,Lorestan,373416,33.49,48.36,1147
+Khorramshahr,4111,Khuzestan,133097,30.44,48.17,5
+Khorugh,4112,Gorno-Badakhshan,NULL,37.49,71.56,2123
+Khoy,4113,West Azarbayejan,198845,38.55,44.95,1148
+Khujand,4114,Sughd,183600,40.28,69.62,300
+Khulna,4115,Khulna,718735,22.82,89.55,9
+Kibaha,4116,Pwani,128488,-6.77,38.91,NULL
+Kidal,4117,Kidal,NULL,18.44,1.41,NULL
+Kiel,4118,Schleswig-Holstein,235782,54.33,10.13,5
+Kielce,4119,Świętokrzyskie,186894,50.88,20.62,260
+Kiffa,4120,Assaba,60005,16.62,-11.4,94
+Kigali,4121,Rwanda,859332,-1.94,30.06,1567
+Kigoma-Ujiji,4122,Kigoma,215458,-4.88,29.63,773
+Kikwit,4123,Kwilu,397737,-5.04,18.82,452
+Kilis,4124,Kilis,108984,36.72,37.12,663
+Kim Chaek,4125,North Korea,207299,40.67,129.2,NULL
+Kimberley,4126,Northern Cape,NULL,-28.74,24.77,1184
+Kindu,4127,Maniema,NULL,-2.95,25.95,504
+Kingston,4128,Jamaica,662426,17.98,-76.8,9
+Kingston,4129,Norfolk Island,NULL,-29,168,NULL
+Kingston upon Hull,4130,Yorkshire and the Humber,295179,53.75,-0.33,NULL
+Kingstown,4131,Saint Vincent and the Grenadines,12909,13.16,-61.22,NULL
+Kinkala,4132,Pool,NULL,-4.36,14.76,407
+Kinshasa,4133,Kinshasa,11575000,-4.32,15.32,240
+Kirikkale,4134,Kırıkkale,188769,39.84,33.51,NULL
+Kirklareli,4135,Kırklareli,NULL,41.73,27.23,203
+Kirkuk,4136,Kirkuk,972272,35.47,44.32,350
+Kirkwall,4137,Scotland,7045,58.98,-2.96,NULL
+Kirov,4138,Kirovskaya,468212,58.6,49.65,150
+Kirsehir,4139,Kırşehir,148207,39.15,34.16,NULL
+Kisangani,4140,Tshopo,1040000,0.52,25.2,401
+Kislovodsk,4141,Stavropolskiy,127521,43.92,42.72,810
+Kismayo,4142,Somalia,358000,-0.36,42.54,10
+Kisumu,4143,Kenya,397957,-0.1,34.75,1131
+Kitakyushu,4144,Fukuoka,961286,33.88,130.88,NULL
+Kitchener,4145,Ontario,219153,43.45,-80.48,NULL
+Kitwe,4146,Copperbelt,661901,-12.82,28.2,NULL
+Kızıltepe,4147,Mardin,192672,37.19,40.59,NULL
+Klagenfurt,4148,Kärnten,94483,46.62,14.3,446
+Klaipeda,4149,Lithuania,152008,55.71,21.13,21
+Klang,4150,Selangor,744062,3.03,101.45,NULL
+Knoxville,4151,Tennessee,190740,35.97,-83.94,270
+Kobe,4152,Hyogo,1537272,34.69,135.2,NULL
+Koblenz,4153,Rheinland-Pfalz,107825,50.36,7.6,73
+Kocaeli,4154,Kocaeli,338369,40.77,29.92,100
+Kochi,4155,Kerala,582588,9.97,76.28,1
+Kochi,4156,Kochi,337190,33.57,133.53,NULL
+Koforidua,4157,Eastern,120971,6.1,-0.27,238
+Kofu,4158,Yamanashi,193125,35.67,138.57,NULL
+Kohima,4159,Nagaland,NULL,25.67,94.11,1444
+Kokkola,4160,Keski-Pohjanmaa,47723,63.87,21.13,NULL
+Koksetau,4161,Akmola,140846,53.28,69.38,234
+Kolda,4162,Kolda,NULL,12.88,-14.95,34
+Kolhapur,4163,Maharashtra,406370,16.69,74.23,545.6
+Kolkata,4164,West Bengal,4496694,22.57,88.37,9
+Köln,4165,Nordrhein-Westfalen,1005775,50.94,6.95,53
+Kolomna,4166,Moskovskaya,134850,55.08,38.78,125
+Kolwezi,4167,Lualaba,454287,-10.72,25.47,1448
+Komotini,4168,Anatolikis Makedonias kai Thrakis,NULL,41.1,25.42,45
+Komsomolsk-na-Amure,4169,Khabarovskiy,238505,50.57,137,30
+Konya,4170,Konya,1345077,37.87,32.48,1200
+Kopejsk,4171,Chelyabinskaya,147806,55.1,61.62,200
+Korçë,4172,Albania,51152,40.62,20.77,850
+Körfez,4173,Kocaeli,170963,40.78,29.75,NULL
+Korhogo,4174,Savanes,245239,9.42,-5.62,380
+Korolëv,4175,Moskovskaya,228095,55.92,37.82,160
+Koronadal,4176,Soccsksargen,76924,6.5,124.85,100
+Koror,4177,Palau,9564,7.36,134.48,10
+Košice,4178,Košický,229040,48.72,21.25,206
+Kostroma,4179,Kostromskaya,267481,57.77,40.93,110
+Koszalin,4180,Zachodniopomorskie,105883,54.18,16.18,32
+Kota,4181,Rajasthan,1001694,25.18,75.83,271
+Kota Bahru,4182,Kelantan,233673,6.13,102.25,NULL
+Kota Kinabalu,4183,Sabah,452058,5.97,116.1,NULL
+Koulikoro,4184,Koulikoro,NULL,12.86,-7.56,NULL
+Koutiala,4185,Sikasso,141444,12.38,-5.47,NULL
+Kouvola,4186,Kymenlaakso,85306,60.87,26.7,NULL
+Kovrov,4187,Vladimirskaya,132417,56.37,41.33,125
+Kowloon,4188,Hong Kong,2230550,22.32,114.18,NULL
+Kozani,4189,Dytikis Makedonias,NULL,40.3,21.78,710
+Kozhikode,4190,Kerala,456618,11.25,75.77,1
+Kragujevac,4191,Serbia,150835,44.02,20.91,18095
+Kraków,4192,Małopolskie,800653,50.06,19.94,219
+Kralendijk,4193,Bonaire,NULL,12.15,-68.26,NULL
+Kramatorsk,4194,Donetska,150084,48.72,37.53,NULL
+Krasnodar,4195,Krasnodarskiy,1099344,45.03,38.97,25
+Krasnogorsk,4196,Moskovskaya,187634,55.83,37.32,150
+Krasnoyarsk,4197,Krasnoyarsk,1187771,56.02,93.07,259
+Krefeld,4198,Nordrhein-Westfalen,222247,51.33,6.57,38
+Kremenchuk,4199,Poltavska,217710,49.07,33.42,80
+Kristiansand,4200,Vest-Agder,84476,58.15,8,NULL
+Kristianstad,4201,Skåne,80507,56.03,14.16,NULL
+Kropywnyzkyj,4202,Kirovohradska,222695,48.5,32.27,124
+Kryvyi Rih,4203,Dnipropetrovska,612750,47.92,33.25,84
+Kuala Lumpur,4204,Kuala Lumpur,1588750,3.13,101.68,21.95
+Kuala Terengganu,4205,Terengganu,250528,5.33,103.15,NULL
+Kuantan,4206,Pahang,427515,3.82,103.33,21.95
+Kuching Utara,4207,Sarawak,570407,1.56,110.35,27
+Kulyab,4208,Khatlon,106300,37.91,69.78,580
+Kumamoto,4209,Kumamoto,740822,32.78,130.73,NULL
+Kumanovo,4210,North Macedonia,75051,42.14,21.72,340
+Kumasi,4211,Ashanti,2035064,6.67,-1.62,305
+Kunming,4212,Yunnan,5273144,25.07,102.68,1892
+Kunshan,4213,Jiangsu,1652159,31.32,120.99,NULL
+Kuopio,4214,Pohjois-Savo,106475,62.89,27.68,NULL
+Kupang,4215,Nusa Tenggara Timur,336239,-10.18,123.58,62
+Kurashiki,4216,Okayama,477118,34.58,133.77,NULL
+Kurgan,4217,Kurganskaya,310911,55.47,65.35,75
+Kursk,4218,Kurskaya,440052,51.72,36.18,250
+Kushiro,4219,Hokkaido,174742,43,144.37,NULL
+Kusong,4220,North Korea,196515,39.97,125.17,NULL
+Kustanay,4221,Kostanai,221970,53.2,63.62,125
+Kūstī,4222,An-Nīl al-Abyaḍ,213080,13.18,32.68,390
+Kütahya,4223,Kütahya,258592,39.42,29.98,930
+Kutaisi,4224,Georgia,147635,42.25,42.7,80
+Kyïv,4225,Kyïv,2962180,50.45,30.52,179
+Kyoto,4226,Kyoto,1475183,35.01,135.77,NULL
+Kyzyl,4227,Tyva,125241,51.72,94.45,631
+Kyzylorda,4228,Kyzylorda,213165,44.85,65.52,128
+L'Aquila,4229,Abruzzo,66964,42.35,13.4,714
+La Asuncion,4230,Nueva Esparta,NULL,11.03,-63.86,67
+La Ceiba,4231,Atlántida,176212,15.77,-86.83,3
+La Chorrera,4232,Panamá Oeste,118521,8.95,-79.65,NULL
+La Esperanza,4233,Intibucá,NULL,14.31,-88.18,1700
+La Guaira,4234,Vargas,NULL,10.6,-66.93,NULL
+La Habana,4235,La Habana,2106146,23.13,-82.38,59
+La Matanza,4236,Buenos Aires,1775816,-34.71,-58.61,26
+La Palma,4237,Darién,NULL,8.41,-78.15,NULL
+La Paz,4238,La Paz,764617,-16.5,-68.15,3640
+La Paz,4239,La Paz,NULL,14.32,-87.67,750
+La Paz,4240,Baja California Sur,250141,24.14,-110.31,27
+La Plata,4241,Buenos Aires,654324,-34.92,-57.95,26
+La Rioja,4242,La Rioja,178872,-29.41,-66.85,515
+La Serena,4243,Coquimbo,401938,-29.9,-71.25,28
+La Spezia,4244,Liguria,92659,44.1,9.82,10
+Labuan,4245,Labuan,NULL,5.32,115.21,NULL
+Lae,4246,North,148934,-6.74,146.98,8
+Lafayette,4247,Louisiana,121374,30.22,-92.03,11
+Lafia,4248,Nasarawa,108000,8.49,8.52,NULL
+Lages,4249,Santa Catarina,153937,-27.82,-50.33,916
+Laghouat,4250,Algeria,134372,33.8,2.88,769
+Lagos,4251,Lagos,13745000,6.45,3.4,41
+Lahore,4252,Punjab,11126285,31.55,74.34,217
+Lahti,4253,Päijät-Häme,103396,60.98,25.65,NULL
+Laiwu,4254,Shandong,761440,36.18,117.67,NULL
+Lakewood,4255,Colorado,155984,39.7,-105.08,1682
+Lalitpur,4256,Nepal,299843,27.67,85.32,1350
+Lamia,4257,Stereas Elladas,75315,38.9,22.43,50
+Lancaster,4258,California,173516,34.68,-118.15,719
+Langfang,4259,Hebei,886490,39.54,116.69,25
+Lansing,4260,Michigan,112644,42.73,-84.55,262
+Lanús,4261,Buenos Aires,459263,-34.7,-58.4,9
+Lanzhou,4262,Gansu,3012577,36.03,103.8,1518
+Lappeenranta,4263,Etelä-Karjala,72617,61.07,28.18,NULL
+Lapu-Lapu,4264,Central Visayas,408112,10.3,124,NULL
+Laredo,4265,Texas,255205,27.52,-99.49,134
+Larissa,4266,Thessalias,162591,39.64,22.42,67
+Larkana,4267,Sindh,490508,27.56,68.23,147
+Larnaka,4268,Cyprus,51468,34.92,33.63,10
+Las Palmas de Gran Canaria,4269,Canarias,380667,28.15,-15.42,8
+Las Piñas,4270,Metro Manila,588894,14.45,120.98,NULL
+Las Tablas,4271,Los Santos,NULL,7.77,-80.28,42
+Las Vegas,4272,Nevada,641903,36.17,-115.14,610
+Latina,4273,Lazio,117892,41.47,12.9,21
+Lauro de Freitas,4274,Bahia,163449,-12.89,-38.33,30
+Lausanne,4275,Vaud,140202,46.52,6.63,495
+Laval,4276,Quebec,401553,45.58,-73.75,91
+Le Havre,4277,Normandie,174156,49.49,0.1,5
+Le Mans,4278,Pays de la Loire,143240,48.01,0.2,38
+Lecce,4279,Puglia,89916,40.35,18.17,49
+Leeds,4280,Yorkshire and the Humber,487837,53.8,-1.55,9
+Leeuwarden,4281,Friesland,108145,53.2,5.78,3
+Leganés,4282,Madrid,188687,40.33,-3.76,666.22
+Legazpi,4283,Bicol,196639,13.13,123.73,NULL
+Legnica,4284,Dolnośląskie,94878,51.21,16.16,113
+Leicester,4285,East Midlands,487837,52.63,-1.13,NULL
+Leiden,4286,Zuid-Holland,121387,52.17,4.48,0
+Leipzig,4287,Sachsen,502979,51.33,12.38,113
+Leiria,4288,Leiria,54540,39.75,-8.8,NULL
+Lelystad,4289,Flevoland,76252,52.5,5.48,-3
+Lemesos,4290,Cyprus,101000,34.67,33.03,NULL
+León,4291,Castilla y León,122398,42.61,-5.57,837
+León,4292,Guanajuato,1579803,21.12,-101.68,1815
+León,4293,Nicaragua,201100,12.43,-86.89,86
+Lerwick,4294,Scotland,6958,60.16,-1.14,NULL
+Leshan,4295,Sichuan,802817,29.57,103.77,NULL
+Leticia,4296,Amazonas,33503,-4.21,-69.93,96
+Letterkenny,4297,Ulster,17400,54.95,-7.75,52
+Leuven,4298,Vlaams-Brabant,102275,50.88,4.7,NULL
+Leverkusen,4299,Nordrhein-Westfalen,158984,51.03,6.98,60
+Lexington,4300,Kentucky,322570,38.03,-84.49,298
+Lhasa,4301,Xizang,568927,29.65,91.12,4200
+Lianyungang,4302,Jiangsu,1071019,34.6,119.17,NULL
+Liaocheng,4303,Shandong,1020430,36.45,115.98,NULL
+Liaoyang,4304,Liaoning,764504,41.27,123.18,29
+Liberec,4305,Liberecký,104340,50.72,15.07,374
+Liberia,4306,Guanacaste,62987,10.63,-85.43,144
+Libreville,4307,Gabon,703940,0.39,9.45,10
+Lichinga,4308,Niassa,242204,-13.31,35.24,1398
+Liège,4309,Liège,197217,50.63,5.57,NULL
+Lienz,4310,Tirol,11761,46.83,12.77,673
+Liestal,4311,Basel-Landschaft,NULL,47.47,7.73,327
+Likasi,4312,Haut-Katanga,460959,-10.98,26.73,1318
+Lille,4313,Hauts-de-France,227533,50.63,3.06,17
+Lillehammer,4314,Oppland,22118,61.12,10.47,440
+Lilongwe,4315,Malawi,9893188,-13.98,33.78,1050
+Lima,4316,Lima City,8574974,-12.04,-77.03,161
+Limeira,4317,São Paulo,267785,-22.56,-47.4,588
+Limerick,4318,Munster,61570,52.67,-8.62,10
+Limoges,4319,Nouvelle-Aquitaine,137758,45.84,1.26,209
+Limón,4320,Limón,94415,9.98,-83.03,1
+Lincoln,4321,East Midlands,111201,53.23,-0.54,NULL
+Lincoln,4322,Nebraska,291082,40.81,-96.68,359
+Lindi,4323,Lindi,NULL,-10,39.71,NULL
+Linhares,4324,Espírito Santo,121567,-19.39,-40.07,33
+Linköping,4325,Östergötland,148521,58.42,15.63,45
+Linyi,4326,Shandong,2743843,35.05,118.35,74
+Linz,4327,Oberösterreich,189889,48.3,14.28,266
+Lipa,4328,Calabarzon,332386,13.94,121.16,NULL
+Lipetsk,4329,Lipetskaya,496403,52.62,39.6,160
+Lisala,4330,Mongala,NULL,2.15,21.5,400
+Lisboa,4331,Lisboa,545796,38.71,-9.14,5
+Little Rock,4332,Arkansas,202591,34.74,-92.33,102
+Liuyang,4333,Hunan,886257,28.15,113.62,63
+Liuzhou,4334,Guangxi,2204841,24.32,109.38,NULL
+Liverpool,4335,North West England,576561,53.4,-2.98,70
+Livingstone,4336,Southern,NULL,-17.85,25.87,986
+Livorno,4337,Toscana,157052,43.55,10.32,3
+Ljubljana,4338,Slovenia,285604,46.06,14.51,295
+Lleida,4339,Catalunya,138933,41.62,0.63,155
+Lobito,4340,Benguela,324050,-12.36,13.53,139
+Lodja,4341,Sankuru,NULL,-3.52,24,500
+Łódź,4342,Łódzkie,670642,51.78,19.47,162
+Logroño,4343,La Rioja,150596,42.47,-2.45,384
+Loikaw,4344,Kayah,NULL,19.67,97.21,884
+Lokoja,4345,Kogi,NULL,7.82,6.75,NULL
+Lomas de Zamora,4346,Buenos Aires,616279,-34.77,-58.4,20
+Lomé,4347,Togo,2173800,6.13,1.22,10
+London,4348,Ontario,366151,42.98,-81.25,251
+London,4349,London,8888608,51.52,-0.09,11
+Londrina,4350,Paraná,493520,-23.31,-51.16,610
+Long Beach,4351,California,466742,33.77,-118.2,9
+Long Xuyen,4352,Mekong River Delta,239588,10.37,105.45,0.5
+Longueuil,4353,Quebec,231409,45.53,-73.52,NULL
+Longyearbyen,4354,Svalbard,NULL,78.13,15.33,NULL
+Los Angeles,4355,Bío-Bío,143563,-37.47,-72.35,139
+Los Angeles,4356,California,3898747,34.05,-118.25,93
+Los Mochis,4357,Sinaloa,298009,25.78,-108.99,10
+Los Teques,4358,Miranda,183142,10.33,-67.03,NULL
+Louga,4359,Louga,104349,15.65,-16.35,44
+Louisville,4360,Kentucky,633045,38.25,-85.77,142
+Lowell,4361,Massachusetts,115554,42.64,-71.31,31
+Luan,4362,Anhui,1069940,31.75,116.51,NULL
+Luanda,4363,Luanda,6760439,-8.84,13.23,6
+Luanshya,4364,Copperbelt,211966,-13.13,28.4,1225
+Lubango,4365,Huíla,731575,-14.92,13.5,1720
+Lubbock,4366,Texas,257141,33.57,-101.88,993
+Lübeck,4367,Schleswig-Holstein,210305,53.87,10.69,13
+Lubercy,4368,Moskovskaya,224195,55.67,37.93,130
+Lublin,4369,Lubelskie,334681,51.25,22.57,168
+Lubuk Linggau,4370,Sumatera Selatan,201308,-3.3,102.86,NULL
+Lubumbashi,4371,Haut-Katanga,2015000,-11.67,27.47,1208
+Lucapa,4372,Lunda-Norte,146719,-8.42,20.75,880
+Lucena,4373,Calabarzon,266248,13.93,121.62,15
+Lucknow,4374,Uttar Pradesh,2817105,26.8,80.9,128
+Ludhiana,4375,Punjab,1618879,30.91,75.85,262
+Ludwigshafen,4376,Rheinland-Pfalz,157584,49.48,8.44,95
+Luebo,4377,Kasai,NULL,-5.35,21.42,420
+Luena,4378,Moxico,350803,-11.79,19.91,1350
+Lugano,4379,Ticino,62315,46,8.95,273
+Luhansk,4380,Luhanska,399559,48.57,39.3,105
+Lulea,4381,Norrbotten,66526,65.58,22.15,6
+Lüleburgaz,4382,Kırklareli,123889,41.41,27.36,30
+Lund,4383,Skåne,112950,55.7,13.2,NULL
+Luohe,4384,Henan,807745,33.57,114.03,NULL
+Luoyang,4385,Henan,2230661,34.67,112.44,144
+Lusaka,4386,Lusaka,2204059,-15.42,28.28,1279
+Luton,4387,East of England,233498,51.9,-0.43,NULL
+Lutsk,4388,Volynska,217197,50.75,25.34,174
+Luxembourg,4389,Luxembourg,128494,49.61,6.13,230
+Luzern,4390,Luzern,82620,47.05,8.3,436
+Luzhou,4391,Sichuan,1128479,28.88,105.45,262
+Luziânia,4392,Goiás,162807,-16.25,-47.95,930
+Lviv,4393,Lvivska,721510,49.85,24.02,296
+Lyon,4394,Auvergne-Rhône-Alpes,491268,45.76,4.84,162
+Lysychansk,4395,Luhanska,95031,48.92,38.4,145
+M'Bour,4396,Thiès,232777,14.42,-16.97,14
+Maanshan,4397,Anhui,784608,31.7,118.35,NULL
+Maarrat an Numan,4398,Idlib,150965,35.63,36.67,530
+Maastricht,4399,Limburg,122243,50.85,5.68,49
+Mabalacat,4400,Central Luzon,250631,15.22,120.58,NULL
+Macaé,4401,Rio de Janeiro,202859,-22.37,-41.79,2
+Macao,4402,Macau,533635,22.17,113.55,NULL
+Macapá,4403,Amapá,381214,0.03,-51.07,12
+Maceió,4404,Alagoas,932129,-9.67,-35.73,7
+Machida,4405,Tokyo,432348,35.55,139.45,NULL
+Madīnat 'Ashirh min-Ramaḍān,4406,Egypt,226953,31.42,31.82,NULL
+Madingou,4407,Bouenza,NULL,-4.15,13.55,190
+Madison,4408,Wisconsin,269840,43.07,-89.4,266
+Madrid,4409,Madrid,3277451,40.38,-3.72,667
+Madurai,4410,Tamil Nadu,1017865,9.9,78.1,101
+Maebashi,4411,Gumma,336154,36.39,139.06,NULL
+Magadan,4412,Magadanskaya,95982,59.57,150.8,70
+Magangué,4413,Bolívar,92316,9.25,-74.77,49
+Magaria,4414,Zinder,130707,13,8.91,NULL
+Magas,4415,Ingushetia,15271,43.07,44.8,200
+Magdeburg,4416,Sachsen-Anhalt,228144,52.13,11.62,55
+Magé,4417,Rio de Janeiro,215236,-22.65,-43.04,5
+Magnitogorsk,4418,Chelyabinskaya,410594,53.38,59.03,310
+Magwe,4419,Magwe,NULL,20.15,94.95,NULL
+Mahiljou,4420,Mahiljou,358279,53.9,30.33,192
+Maidstone,4421,South East England,121723,51.27,0.53,NULL
+Maiduguri,4422,Borno,1065000,11.83,13.15,320
+Mainz,4423,Rheinland-Pfalz,200344,50,8.27,89
+Majkop,4424,Adygeya,143385,44.6,40.08,220
+Majunga,4425,Madagascar,246022,-15.72,46.32,NULL
+Majuro,4426,Marshall Islands,23225,7.07,171.27,NULL
+Makassar,4427,Sulawesi Selatan,1338663,-5.13,119.42,5
+Makati,4428,Metro Manila,582602,14.55,121.03,15.4
+Makhachkala,4429,Dagestan,623254,42.97,47.5,-15
+Makiïvka,4430,Donetska,340337,48.08,38.07,169
+Makkah,4431,Makkah Al-Mokarramah,1534731,21.5,41,277
+Makurdi,4432,Benue,365000,7.73,8.54,NULL
+Malabo,4433,Insular,257000,3.75,8.77,30
+Malabon,4434,Metro Manila,365525,14.67,120.97,NULL
+Málaga,4435,Andalucía,578063,36.72,-4.42,11
+Malambo,4436,Atlántico,119878,10.85,-74.75,NULL
+Malang,4437,Jawa Timur,820243,-7.98,112.62,476
+Malanje,4438,Malanje,486870,-9.53,16.35,1155
+Malatya,4439,Malatya,485198,38.35,38.3,954
+Malayer,4440,Hamedan,170237,34.3,48.82,NULL
+Male,4441,Maldives,133412,4.18,73.51,2.4
+Malindi,4442,Kenya,119859,-3.22,40.13,NULL
+Malmö,4443,Skåne,307758,55.61,13.04,12
+Malolos,4444,Central Luzon,252074,14.84,120.81,19
+Mamoutzou,4445,Mayotte,NULL,-12.46,45.13,NULL
+Mamuju,4446,Sulawesi Barat,NULL,-2.67,118.86,390
+Man,4447,Montagnes,149041,7.4,-7.55,330
+Manado,4448,Sulawesi Utara,410481,1.49,124.84,5
+Managua,4449,Nicaragua,1028808,12.14,-86.25,83
+Manaus,4450,Amazonas,1792881,-3.1,-60.02,53
+Manbij,4451,Halab,204766,36.53,37.95,460
+Manchester,4452,North West England,560392,53.47,-2.23,38
+Manchester,4453,New Hampshire,115644,42.99,-71.46,64
+Mandalay,4454,Mandalay,1225133,21.98,96.08,22
+Mandaluyong,4455,Metro Manila,386276,14.58,121.03,NULL
+Mandaue,4456,Central Visayas,362654,10.33,123.93,NULL
+Mangaung,4457,Free State,747431,-29.12,26.22,1395
+Manila,4458,Metro Manila,1660714,14.58,121,16
+Manisa,4459,Manisa,377629,38.63,27.42,NULL
+Manizales,4460,Caldas,405234,5.1,-75.55,2160
+Mannheim,4461,Baden-Württemberg,290117,49.49,8.47,97
+Manokwari,4462,Papua Barat,136302,-0.87,134.08,37
+Mansa,4463,Luapula,NULL,-11.2,28.88,NULL
+Manzanillo,4464,Granma,98904,20.34,-77.11,25
+Maoming,4465,Guangdong,1307802,21.65,110.92,29
+Maputo,4466,Cidade de Maputo,1080277,-25.97,32.58,47
+Mar del Plata,4467,Buenos Aires,618989,-38,-57.55,38
+Marabá,4468,Pará,186270,-5.35,-49.12,170
+Maracaibo,4469,Zulia,1372724,10.65,-71.63,6
+Maracanaú,4470,Ceará,207623,-3.87,-38.63,NULL
+Maracay,4471,Aragua,459007,10.25,-67.6,436
+Maradi,4472,Maradi,267249,13.49,7.1,385
+Maragheh,4473,West Azarbayejan,175255,37.39,46.24,1456
+Marawi,4474,Muslim Mindanao,201785,8,124.3,700
+Marbella,4475,Andalucía,149032,36.52,-4.88,27
+Mardan,4476,Khyber Pakhtunkhwa,358604,34.2,72.05,NULL
+Mardin,4477,Mardin,129990,37.32,40.74,1083
+Marg‘ilon,4478,Fargʻona,235024,40.47,71.72,487
+Maribor,4479,Slovenia,97019,46.55,15.65,275
+Mariehamn,4480,Åland,10851,60.1,19.93,NULL
+Mariestad,4481,Västra Götaland,24255,58.7,13.82,NULL
+Marigot,4482,Saint Martin,5700,18.1,-63.1,NULL
+Marikina,4483,Metro Manila,450741,14.65,121.1,14.7
+Marília,4484,São Paulo,207021,-22.21,-49.95,660
+Maringá,4485,Paraná,350653,-23.4,-51.92,515
+Mariupol,4486,Donetska,431859,47.1,37.55,22
+Markham,4487,Ontario,301709,43.88,-79.25,200
+Maroua,4488,Extrême-Nord,201371,10.6,14.32,384
+Marrakech,4489,Marrakech Tensift Al Haouz,928850,31.63,-8.01,466
+Marsa Matruh,4490,Egypt,355616,31.33,27.22,30
+Marseille,4491,Provence-Alpes-Côte d'Azur,850636,43.3,5.37,10
+Mary,4492,Mary,101000,37.6,61.83,226
+Masaya,4493,Nicaragua,166588,11.97,-86.1,242
+Maseru,4494,Lesotho,330760,-29.31,27.48,1600
+Mashhad,4495,Khorasan-e-Razavi,3001184,36.3,59.6,995
+Masjed Soleyman,4496,Khuzestan,100497,31.94,49.3,372
+Massaua,4497,Eritrea,47709,15.61,39.45,8
+Mata-Utu,4498,Wallis and Futuna,NULL,-13.28,-176.18,NULL
+Matadi,4499,Kongo Central,306053,-5.82,13.47,146
+Matagalpa,4500,Nicaragua,150643,12.92,-85.92,680
+Matam,4501,Matam,NULL,15.62,-13.33,NULL
+Matamoros,4502,Tamaulipas,510739,25.88,-97.5,9
+Matanzas,4503,Matanzas,133769,23.05,-81.58,20
+Mataram,4504,Nusa Tenggara Barat,402843,-8.58,116.12,26
+Mataró,4505,Catalunya,129749,41.53,2.45,28
+Matola,4506,Maputo,1032197,-25.96,32.46,3
+Matsudo,4507,Chiba,483480,35.78,139.9,NULL
+Matsue,4508,Shimane,206230,35.47,133.05,NULL
+Matsuyama,4509,Ehime,514865,33.83,132.77,NULL
+Maturín,4510,Monagas,298581,9.75,-63.18,67
+Mauá,4511,São Paulo,417064,-23.67,-46.46,818
+Mawlamyine,4512,Mon,288120,16.48,97.62,NULL
+Mazar-i-Sharif,4513,Afghanistan,484500,36.7,67.12,357
+Mazatlán,4514,Sinaloa,441975,23.22,-106.42,NULL
+Mazyr,4515,Gomel,108792,52.05,29.27,160
+Mbabane,4516,Eswatini,60691,-26.32,31.13,1243
+Mbandaka,4517,Équateur,345663,0.05,18.26,370
+Mbanza Congo,4518,Zaire,173850,-6.27,14.25,408
+Mbarara,4519,Western,195160,-0.61,30.66,1473
+Mbeya,4520,Mbeya,385279,-8.9,33.45,1697
+Mbombela,4521,Mpumalanga,588794,-25.47,30.99,NULL
+Mbuji-Mayi,4522,Kasai-Oriental,2007000,-6.15,23.6,584
+McAllen,4523,Texas,142210,26.22,-98.24,37
+Medan,4524,Sumatera Utara,2097610,3.58,98.67,2.5
+Medellín,4525,Antioquia,2382399,6.23,-75.59,1495
+Meerut,4526,Uttar Pradesh,1305429,28.99,77.7,224.659
+Mejicanos,4527,El Salvador,157188,13.73,-89.22,712
+Mekele,4528,Tigray,457900,13.48,39.47,2084
+Meknès,4529,Meknes Tafilalet,520428,33.9,-5.55,552
+Melaka,4530,Melaka,484855,2.2,102.25,NULL
+Melbourne,4531,Victoria,4901863,-37.81,144.96,31
+Melilla,4532,Melilla,86450,35.3,-2.95,NULL
+Melitopol,4533,Zaporizka,150768,46.83,35.37,NULL
+Memphis,4534,Tennessee,633104,35.12,-89.97,103
+Mendoza,4535,Mendoza,114893,-32.88,-68.82,746.5
+Menemen,4536,İzmir,178506,38.6,27.07,20
+Menongue,4537,Cuando Cubango,306622,-14.66,17.68,1354
+Merauke,4538,Papua,86782,-8.5,140.4,5
+Merida,4539,Extremadura,NULL,38.9,-6.33,217
+Mérida,4540,Yucatán,921771,20.97,-89.62,10
+Mérida,4541,Mérida,230120,8.48,-71.19,NULL
+Mersin,4542,Mersin,1027643,36.8,34.63,10
+Mesa,4543,Arizona,504258,33.42,-111.83,379
+Mesquita,4544,Rio de Janeiro,168376,-22.78,-43.43,NULL
+Mesquite,4545,Texas,150108,32.78,-96.61,151
+Messina,4546,Sicilia,243262,38.18,15.55,3
+Metz,4547,Grand Est,119962,49.12,6.18,162
+Mexicali,4548,Baja California,854186,32.66,-115.47,8
+Miami,4549,Florida,442241,25.78,-80.21,2
+Mianyang,4550,Sichuan,1549499,31.47,104.68,473
+Miass,4551,Chelyabinskaya,147995,55,60.1,340
+Middelburg,4552,Zeeland,NULL,51.5,3.62,3
+Middlesbrough,4553,North East England,179959,54.58,-1.24,NULL
+Miercurea Ciuc,4554,Harghita,NULL,46.36,25.8,662
+Mikhaylovsk,4555,Stavropolskiy,114133,45.23,42.03,440
+Mikkeli,4556,Etelä-Savo,54633,61.68,27.27,NULL
+Milano,4557,Lombardia,1242123,45.47,9.18,120
+Milton Keynes,4558,South East England,192943,52.04,-0.76,NULL
+Milwaukee,4559,Wisconsin,577222,43.05,-87.96,188
+Minatitlán,4560,Veracruz,149162,17.98,-94.55,20
+Mingaora,4561,Khyber Pakhtunkhwa,331091,34.47,72.22,984
+Minna,4562,Niger,345000,9.61,6.56,NULL
+Minneapolis,4563,Minnesota,429954,44.98,-93.27,253
+Minsk,4564,Minsk City,1836808,53.9,27.57,280.6
+Mirpur Khas,4565,Sindh,233916,25.53,69.02,NULL
+Miskolc,4566,Borsod-Abaúj-Zemplén,167754,48.1,20.79,131
+Misratah,4567,Libya,350000,32.38,15.09,9
+Mississauga,4568,Ontario,713443,43.6,-79.65,156
+Mito,4569,Ibaraki,270783,36.37,140.47,NULL
+Mitu,4570,Vaupés,9746,1.2,-70.17,183
+Mixco,4571,Guatemala,463019,14.63,-90.61,1600
+Miyazaki,4572,Miyazaki,401138,31.92,131.42,NULL
+Mmabatho,4573,North West,NULL,-25.85,25.63,NULL
+Mobile,4574,Alabama,187041,30.69,-88.04,3
+Moçâmedes,4575,Namibe,282056,-15.2,12.15,9
+Mocoa,4576,Putumayo,38457,1.15,-76.65,604
+Módena,4577,Emilia-Romagna,179149,44.65,10.93,34
+Modesto,4578,California,218464,37.66,-120.99,27
+Moers,4579,Nordrhein-Westfalen,104009,51.46,6.62,30
+Mogadishu,4580,Somalia,2425000,2.03,45.35,NULL
+Mogi das Cruzes,4581,São Paulo,357313,-23.52,-46.19,780
+Mogi Guaçu,4582,São Paulo,130295,-22.37,-46.94,591
+Mohammedia,4583,Grand Casablanca,208612,33.68,-7.38,10
+Mokpo,4584,South Korea,224509,34.76,126.38,NULL
+Molde,4585,Møre og Romsdal,21448,62.76,7.24,130
+Molenbeek-Saint-Jean,4586,Bruxelles,97979,50.85,4.33,NULL
+Mombasa,4587,Kenya,1208333,-4.05,39.67,50
+Monaco,4588,Monaco,1064,43.73,7.42,NULL
+Mönchengladbach,4589,Nordrhein-Westfalen,255188,51.2,6.43,70
+Monclova,4590,Coahuila,237169,26.91,-101.42,620
+Mongu,4591,Western,NULL,-15.28,23.13,NULL
+Monrovia,4592,Liberia,1010970,6.31,-10.8,NULL
+Mons,4593,Hainaut,95887,50.45,3.95,NULL
+Monte Carlo,4594,Monaco,17372,43.74,7.43,NULL
+Montería,4595,Córdoba,388499,8.75,-75.88,18
+Montero,4596,Santa Cruz,109518,-17.34,-63.26,357
+Monterrey,4597,Nuevo Léon,1142952,25.67,-100.3,540
+Montes Claros,4598,Minas Gerais,344427,-16.73,-43.86,678
+Montevideo,4599,Uruguay,1318755,-34.88,-56.18,43
+Montgomery,4600,Alabama,200603,32.36,-86.28,73
+Montpelier,4601,Vermont,8074,44.25,-72.57,183
+Montpellier,4602,Occitanie,264538,43.61,3.88,7
+Montréal,4603,Quebec,1649519,45.5,-73.57,30
+Montreuil,4604,Île-de-France,103068,48.86,2.44,52
+Monywa,4605,Sagaing,371963,22.11,95.14,NULL
+Monza,4606,Lombardia,119856,45.58,9.27,162
+Mopti,4607,Mopti,120786,14.5,-4.2,268
+Moquegua,4608,Moquegua,NULL,-17.2,-70.93,1410
+Moradabad,4609,Uttar Pradesh,429214,28.83,78.78,198
+Morelia,4610,Michoacán,743275,19.77,-101.19,1921
+Moreno Valley,4611,California,208634,33.94,-117.23,497
+Morioka,4612,Iwate,297631,39.68,141.15,NULL
+Morogoro,4613,Morogoro,305840,-6.82,37.67,NULL
+Morón,4614,Buenos Aires,321109,-34.65,-58.62,26
+Moroni,4615,Comoros,74749,-11.7,43.26,29
+Moshi,4616,Kilimanjaro,184292,-3.33,37.34,700
+Moskva,4617,Moscow,13010112,55.75,37.62,156
+Moss,4618,Østfold,24517,59.46,10.7,14
+Mossoró,4619,Rio Grande do Norte,237241,-5.19,-37.34,20
+Mostaganem,4620,Algeria,162885,35.93,0.08,104
+Mostar,4621,Federacija Bosne i Hercegovine,113169,43.33,17.8,60
+Móstoles,4622,Madrid,208632,40.33,-3.87,620
+Moundou,4623,Chad,137251,8.56,16.1,413
+Moyobamba,4624,San Martín,NULL,-6.03,-76.97,NULL
+Mpanda,4625,Katavi,NULL,-6.35,31.07,NULL
+Msunduzi,4626,KwaZulu-Natal,618536,-29.62,30.38,596
+Mtwara,4627,Mtwara,100626,-10.27,40.18,NULL
+Mudanjiang,4628,Heilongjiang,808216,44.55,129.63,233
+Mufulira,4629,Copperbelt,200182,-12.55,28.23,NULL
+Mugla,4630,Muğla,NULL,37.22,28.37,660
+Mukono,4631,Central,162744,0.36,32.75,1200
+Mülheim,4632,Nordrhein-Westfalen,166865,51.43,6.88,40
+Mulhouse,4633,Grand Est,110351,47.75,7.34,232
+Multan,4634,Punjab,1871843,30.2,71.47,122
+Mumbai,4635,Maharashtra,12442373,18.98,72.83,14
+München,4636,Bayern,1348335,48.13,11.57,519
+Münster,4637,Nordrhein-Westfalen,289576,51.97,7.63,60
+Muntinlupa,4638,Metro Manila,504509,14.38,121.05,16
+Murcia,4639,Murcia,459778,37.99,-1.13,43
+Murmansk,4640,Murmanskaya,270384,68.97,33.08,50
+Murom,4641,Vladimirskaya,107497,55.57,42.03,115
+Mus,4642,Muş,111228,38.73,41.49,NULL
+Muscat,4643,Oman,24099,23.6,58.58,20
+Musoma,4644,Mara,134327,-1.5,33.8,1189
+Muzaffarabad,4645,Azad Jammu and Kashmir,725000,34.21,73.28,737
+Mwanza,4646,Mwanza,706453,-2.52,32.9,1140
+Mwene-Ditu,4647,Lomami,NULL,-7,23.45,910
+Myitkyina,4648,Kachin,NULL,25.38,97.4,NULL
+Mykolaïv,4649,Mykolaïvska,476101,46.97,32,42
+Mymensingh,4650,Mymensingh,258040,24.75,90.4,19
+Mysore,4651,Karnataka,606755,12.26,76.6,763
+Mytilini,4652,Boreioy Aigaioy,NULL,39.1,26.55,8
+Mytišči,4653,Moskovskaya,255429,55.92,37.77,150
+N'Djamena,4654,Chad,951418,12.11,15.05,298
+N'Zérékoré,4655,Guinea,194178,7.75,-8.82,NULL
+Naberezhnye Tchelny,4656,Tatarstan,548434,55.68,52.32,100
+Nablus,4657,West Bank,156906,32.2,35.3,NULL
+Nacala Porto,4658,Maputo,206449,-14.45,40.67,NULL
+Nacaome,4659,Valle,NULL,13.52,-87.48,NULL
+Nachodka,4660,Primorskiy,139931,42.82,132.87,8
+Nador,4661,Oriental,161726,35.17,-2.93,42
+Nagano,4662,Nagano,377598,36.63,138.18,NULL
+Nagasaki,4663,Nagasaki,429508,32.78,129.87,NULL
+Nagoya,4664,Aichi,2295638,35.18,136.9,NULL
+Nagpur,4665,Maharashtra,2405665,21.15,79.09,310
+Naha,4666,Okinawa,319435,26.21,127.68,NULL
+Nairobi,4667,Kenya,4397073,-1.28,36.82,1661
+Najafabad,4668,Esfahan,235281,32.85,51.6,NULL
+Najran,4669,Najran,298288,17.49,44.13,1293
+Nakhon Ratchasima,4670,Thailand,213577,14.98,102.1,NULL
+Nakhon Sawan,4671,Thailand,89682,15.7,100.14,33
+Nakhon Si Thammarat,4672,Thailand,105592,8.44,99.96,9
+Nakuru,4673,Kenya,570674,-0.3,36.07,1850
+Nalčik,4674,Kabardino-Balkarskaya,247054,43.48,43.62,480
+Nalerigu,4675,North East,NULL,10.53,-0.37,335
+Nam Dinh,4676,Red River Delta,179229,20.42,106.17,NULL
+Namangan,4677,Namangan,626120,41,71.67,450
+Nampho,4678,North Korea,366815,38.73,125.4,NULL
+Nampula,4679,Nampula,663212,-15.12,39.27,360
+Namur,4680,Namur,111432,50.47,4.87,NULL
+Nanchang,4681,Jiangxi,3518975,28.68,115.88,37
+Nanchong,4682,Sichuan,1254455,30.8,106.08,340
+Nancy,4683,Grand Est,105382,48.69,6.18,188
+Nanjing,4684,Jiangsu,7519814,32.05,118.77,20
+Nanning,4685,Guangxi,4582703,22.82,108.32,NULL
+Nantes,4686,Pays de la Loire,287845,47.22,-1.55,5
+Nantong,4687,Jiangsu,2987600,31.98,120.9,2
+Nanyang,4688,Henan,1407616,33,112.53,131
+Naperville,4689,Illinois,149540,41.75,-88.17,214
+Nápoli,4690,Campania,962003,40.83,14.25,17
+Nara,4691,Nara,NULL,34.68,135.8,NULL
+Narayanganj,4692,Dhaka,286330,23.62,90.5,3
+Narvik,4693,Nordland,18754,68.42,17.56,NULL
+Nashik,4694,Maharashtra,1486053,20,73.78,660
+Nashville-Davidson,4695,Tennessee,689447,36.17,-86.78,182
+Nassau,4696,Bahamas,248948,25.07,-77.33,10
+Natal,4697,Rio Grande do Norte,803739,-5.78,-35.2,30
+Naucalpan,4698,"México, Estado de",911168,19.48,-99.24,2300
+Navi Mumbai,4699,Maharashtra,1120547,19.02,73.02,NULL
+Navoiy,4700,Navoiy,144158,40.08,65.38,382
+Nawabshah,4701,Sindh,279688,26.15,68.25,NULL
+Nay Pyi Taw,4702,Nay Pyi Taw,1158367,19.75,96.1,115
+Nazareth,4703,HaZafon,77445,32.7,35.3,NULL
+Nazilli,4704,Aydın,123115,37.91,28.32,NULL
+Nazran,4705,Ingushetia,122350,43.22,44.77,200
+Ndalatando,4706,Cuanza Norte,165839,-9.3,14.92,670
+Ndola,4707,Copperbelt,624579,-12.97,28.63,NULL
+Neftejugansk,4708,Tyumenskaya,124732,61.08,72.7,40
+Neftekamsk,4709,Bashkortostan,131942,56.14,54.47,100
+Neiva,4710,Huila,335994,3,-75.3,442
+Nelson Mandela Bay,4711,Eastern Cape,1152115,-33.96,25.6,89
+Nema,4712,Hodh Chargui,NULL,16.62,-7.25,280
+Netanya,4713,HaMerkaz,221353,32.33,34.85,NULL
+Neuchatel,4714,Neuchâtel,NULL,47,6.93,430
+Neuquén,4715,Neuquén,231198,-38.95,-68.06,260
+Neuss,4716,Nordrhein-Westfalen,150568,51.2,6.7,40
+Nevinnomyssk,4717,Stavropolskiy,117562,44.63,41.93,320
+Nevsehir,4718,Nevşehir,120599,38.63,34.71,NULL
+New Haven,4719,Connecticut,134023,41.31,-72.92,18
+New Orleans,4720,Louisiana,383997,29.95,-90.07,-2
+New Taipei,4721,Taiwan,3939305,25.01,121.45,NULL
+New York,4722,New York,8804190,40.71,-74.01,10
+Newark,4723,New Jersey,311549,40.72,-74.17,4
+Newcastle,4724,New South Wales,505489,-32.92,151.75,9
+Newcastle upon Tyne,4725,North East England,281727,54.97,-1.6,NULL
+Newport,4726,Wales,139383,51.58,-3,NULL
+Newport News,4727,Virginia,186247,37.07,-76.48,4.5
+Neyshabur,4728,Khorasan-e-Razavi,264375,36.21,58.8,1250
+Nezahualcóyotl,4729,"México, Estado de",1072676,19.4,-98.99,2220
+Ngaoundéré,4730,Adamaoua,152698,7.32,13.58,1212
+Ngerulmud,4731,Palau,271,7.5,134.61,60
+Ngiva,4732,Cunene,NULL,-17.07,15.73,1098
+Nha Trang,4733,North and South Central Coast,285788,12.25,109.18,NULL
+Niamey,4734,Niamey,1026848,13.52,2.11,207
+Nice,4735,Provence-Alpes-Côte d'Azur,344064,43.7,7.27,10
+Nicosia,4736,Cyprus,55014,35.17,33.37,220
+Nigde,4737,Niğde,157640,37.97,34.68,1229
+Niigata,4738,Niigata,810157,37.92,139.04,NULL
+Nijmegen,4739,Gelderland,168810,51.85,5.87,29
+Nikopol,4740,Dnipropetrovska,107464,47.57,34.4,51
+Nilópolis,4741,Rio de Janeiro,157425,-22.81,-43.41,14
+Nîmes,4742,Occitanie,144940,43.84,4.36,21
+Ningbo,4743,Zhejiang,3731203,29.87,121.55,150
+Ningxiang,4744,Hunan,759080,28.25,112.55,130
+Niš,4745,Serbia,183164,43.32,21.9,195
+Nishinomiya,4746,Hyogo,487850,34.74,135.34,NULL
+Niterói,4747,Rio de Janeiro,487562,-22.88,-43.1,3
+Nitra,4748,Nitriansky,78489,48.31,18.09,190
+Nizhnevartovsk,4749,Tyumenskaya,283256,60.95,76.55,45
+Nizhnii Novgorod,4750,Nizhnii Novgorodskaya,1226076,56.33,44.01,78
+Nizhny Tagil,4751,Sverdlovskaya,338966,57.92,59.97,200
+Nizip,4752,Gaziantep,116794,37.07,37.38,NULL
+Nižnekamsk,4753,Tatarstan,241479,55.63,51.82,110
+Njombe,4754,Njombe,NULL,-9.33,34.77,NULL
+Nogales,4755,Sonora,261137,31.32,-110.95,1199
+Noginsk,4756,Moskovskaya,103891,55.85,38.43,150
+Nojabrsk,4757,Tyumenskaya,100188,63.2,75.45,115
+Nonthaburi,4758,Thailand,415138,13.85,100.52,NULL
+Norfolk,4759,Virginia,238005,36.92,-76.2,2.13
+Norilsk,4760,Krasnoyarsk,174453,69.33,88.22,90
+Norrköping,4761,Östergötland,132124,58.6,16.2,NULL
+North Las Vegas,4762,Nevada,262527,36.23,-115.15,672
+Northampton,4763,East Midlands,245899,52.23,-0.89,NULL
+Norwalk,4764,California,102773,33.91,-118.08,28
+Norwich,4765,East of England,200996,52.63,1.3,NULL
+Nossa Senhora do Socorro,4766,Sergipe,155823,-10.85,-37.06,36
+Nottingham,4767,East Midlands,306573,52.95,-1.13,61
+Nouadhibou,4768,Dakhlet Nouadhibou,118167,20.93,-17.03,1
+Nouakchott,4769,Nouakchott,958399,18.1,-15.95,7
+Noumea,4770,New Caledonia,94285,-22.28,166.46,20
+Nova Friburgo,4771,Rio de Janeiro,159372,-22.27,-42.53,846
+Nova Iguaçu,4772,Rio de Janeiro,787563,-22.76,-43.45,25
+Novara,4773,Piemonte,101952,45.45,8.62,162
+Novi Sad,4774,Serbia,231798,45.25,19.85,72
+Novo Hamburgo,4775,Rio Grande do Sul,234798,-29.68,-51.13,57
+Novočeboksarsk,4776,Chuvashia,120375,56.13,47.5,90
+Novočerkassk,4777,Rostovskaya,163674,47.42,40.08,80
+Novokujbyševsk,4778,Samarskaya,108438,53.1,49.93,90
+Novokuznetsk,4779,Kemerovskaya,537480,53.75,87.12,200
+Novomoskovsk,4780,Tulskaya,119697,54.08,38.22,220
+Novopolotsk,4781,Vitebsk,104080,55.53,28.65,133
+Novorossiysk,4782,Krasnodarskiy,262293,44.72,37.75,20
+Novošachtinsk,4783,Rostovskaya,103480,47.75,39.93,130
+Novosibirsk,4784,Novosibirskaya,1633595,55.02,82.93,177
+Novyj Urengoj,4785,Tyumenskaya,107251,66.08,76.68,40
+Nueva Gerona,4786,Isla de la Juventud,NULL,21.88,-82.8,17
+Nueva Ocotepeque,4787,Ocotepeque,NULL,14.43,-89.18,NULL
+Nuevo Laredo,4788,Tamaulipas,416055,27.49,-99.51,NULL
+Nukualofa,4789,Tonga,21185,-21.13,-175.2,3
+Nukus,4790,Qoraqalpogʻiston,319583,42.47,59.6,76
+Nürnberg,4791,Bayern,486314,49.45,11.08,309
+Nuuk,4792,Greenland,18326,64.18,-51.74,5
+Nyala,4793,Janūb Dārfūr,492984,12.04,24.88,673
+Nyíregyháza,4794,Szabolcs-Szatmár-Bereg,119746,47.95,21.73,116
+Nykoping,4795,Södermanland,64199,58.75,17.01,20
+Oakland,4796,California,440646,37.8,-122.27,13
+Oaxaca,4797,Oaxaca,258913,17.07,-96.72,1555
+Oberhausen,4798,Nordrhein-Westfalen,210216,51.55,6.85,35
+Obninsk,4799,Kaluzhskaya,125376,55.09,36.61,175
+Obuasi,4800,Ashanti,143644,6.2,-1.68,101
+Oceanside,4801,California,174068,33.21,-117.33,20
+Odense,4802,Syddanmark,173814,55.4,10.39,13
+Odesa,4803,Odeska,1015826,46.47,30.73,40
+Odessa,4804,Texas,114428,31.86,-102.31,884
+Odienné,4805,Denguélé,NULL,9.51,-7.56,451
+Odincovo,4806,Moskovskaya,180530,55.67,37.27,190
+Offenbach am Main,4807,Hessen,113443,50.1,8.8,98
+Ogbomosho,4808,Oyo,780000,8.13,4.25,329
+Oita,4809,Oita,478146,33.23,131.61,NULL
+Okara,4810,Punjab,357935,30.81,73.45,105
+Okayama,4811,Okayama,719474,34.65,133.92,NULL
+Okene,4812,Kogi,NULL,7.55,6.23,NULL
+Okhotsk,4813,Magadanskaya,4215,59.37,143.26,10
+Oklahoma City,4814,Oklahoma,681054,35.48,-97.53,366
+Oktjabrskij,4815,Bashkortostan,115557,54.47,53.47,140
+Oldenburg,4816,Niedersachsen,157267,53.14,8.21,5
+Oldham,4817,North West England,111321,53.54,-2.12,NULL
+Olinda,4818,Pernambuco,370332,-8.01,-34.85,16
+Olmaliq,4819,Toshkent,131111,40.85,69.6,530
+Olomouc,4820,Olomoucký,106063,49.6,17.25,219
+Olsztyn,4821,Warmińsko-Mazurskie,170225,53.78,20.5,90
+Olympia,4822,Washington,55605,47.04,-122.89,29
+Omaha,4823,Nebraska,486051,41.25,-96,332
+Omdurman,4824,Al-Kharṭūm,1849659,15.65,32.48,178
+Omsk,4825,Omskaya,1125695,54.98,73.37,90
+Ondo,4826,Ondo,305000,7.08,4.83,NULL
+Onitsha,4827,Anambra,1080000,6.17,6.78,NULL
+Ontario,4828,California,175265,34.05,-117.63,306
+Opole,4829,Opolskie,127387,50.67,17.93,176
+Oporto,4830,Porto,231800,41.16,-8.62,NULL
+Oradea,4831,Bihor,196367,47.07,21.92,142
+Oral,4832,West Kazakhstan,227385,51.23,51.37,35
+Oran,4833,Algeria,803329,35.7,-0.63,60
+Orange,4834,California,139911,33.8,-117.83,58
+Oranjestad,4835,Aruba,81915,12.52,-70.04,4
+Ordu,4836,Ordu,183901,40.98,37.88,5
+Örebro,4837,Örebro,138952,59.27,15.21,34
+Orechovo-Zujevo,4838,Moskovskaya,105745,55.8,38.97,120
+Orel,4839,Orlovskaya,303169,52.97,36.07,170
+Orenburg,4840,Orenburgskaya,543654,51.78,55.1,150
+Orizaba,4841,Veracruz,120500,18.85,-97.1,NULL
+Orlando,4842,Florida,307573,28.42,-81.3,25
+Orléans,4843,Centre-Val de Loire,114185,47.9,1.91,90
+Orsha,4844,Vitebsk,117225,54.51,30.42,192
+Orsk,4845,Orenburgskaya,189195,51.2,58.57,200
+Orumiyeh,4846,West Azarbayejan,736624,37.56,45.07,1332
+Oruro,4847,Oruro,264683,-17.97,-67.12,3735
+Osaka,4848,Osaka,2691185,34.69,135.5,NULL
+Osasco,4849,São Paulo,666740,-23.53,-46.79,760
+Osh,4850,Kyrgyzstan,265200,40.53,72.8,963
+Oshawa,4851,Ontario,149607,43.9,-78.85,106
+Oshogbo,4852,Osun,820000,7.77,4.57,NULL
+Osijek,4853,Croatia,75535,45.56,18.68,94
+Öskemen,4854,East-Kazakhstan,314014,49.98,82.62,283
+Oslo,4855,Oslo,623966,59.95,10.75,23
+Osmaniye,4856,Osmaniye,247276,37.08,36.25,NULL
+Osnabrück,4857,Niedersachsen,153699,52.28,8.05,63
+Osorno,4858,Lagos,147826,-40.58,-73.13,35
+Ostende,4859,West-Vlaanderen,71647,51.22,2.9,2
+Ostersund,4860,Jämtland,56662,63.18,14.64,312
+Ostrava,4861,Moravskoslezský,282450,49.84,18.29,335
+Otsu,4862,Shiga,340973,35.02,135.85,NULL
+Ottawa,4863,Ontario,883391,45.42,-75.68,70
+Ouagadougou,4864,Burkina Faso,2415266,12.36,-1.54,305
+Ouesso,4865,Sangha,NULL,1.61,16.05,340
+Oujda,4866,Oriental,494252,34.69,-1.91,470
+Oulu,4867,Pohjois-Pohjanmaa,194181,65.02,25.47,NULL
+Ourense,4868,Galicia,104578,42.34,-7.86,132
+Overland Park,4869,Kansas,197238,38.98,-94.67,331
+Oviedo,4870,Asturias,217164,43.36,-5.84,232
+Owando,4871,Cuvette,NULL,-0.48,15.9,325
+Owerri,4872,Imo,540000,5.49,7.04,NULL
+Owo,4873,Ondo,157181,7.18,5.58,NULL
+Oxford,4874,South East England,172264,51.75,-1.26,NULL
+Oxnard,4875,California,202063,34.19,-119.18,16
+Oyo,4876,Oyo,385000,7.85,3.93,NULL
+Pachuca,4877,Hidalgo,297848,20.1,-98.75,2432
+Padang,4878,Sumatera Barat,833562,-0.95,100.35,5
+Paderborn,4879,Nordrhein-Westfalen,142365,51.72,8.77,110
+Pádova,4880,Veneto,206192,45.42,11.87,12
+Pagadian,4881,Zamboanga Peninsula,130008,7.83,123.43,100
+Pago Pago,4882,American Samoa,NULL,-14.28,-170.7,9
+Palangkaraya,4883,Kalimantan Tengah,220962,-2.21,113.92,5
+Palembang,4884,Sumatera Selatan,1455284,-2.99,104.76,8
+Palermo,4885,Sicilia,657561,38.12,13.37,14
+Palikir,4886,Micronesia,6647,7,158.2,20
+Palma de Mallorca,4887,Illes Balears,424837,39.57,2.65,13
+Palmas,4888,Tocantins,221742,-10.18,-48.33,230
+Palmdale,4889,California,169450,34.58,-118.1,810
+Palmira,4890,Valle de Cauca,275254,3.58,-76.25,1001
+Palu,4891,Sulawesi Tengah,336532,-0.9,119.83,118
+Pamplona,4892,Navarra,203596,42.82,-1.65,446
+Panaji,4893,Goa,NULL,15.5,73.83,NULL
+Panamá City,4894,Panamá,880691,8.98,-79.52,2
+Pangkal Pinang,4895,Kepulauan Bangka Belitung,174758,-2.13,106.12,13
+Panjin,4896,Liaoning,980422,41.12,122.05,NULL
+Papeete,4897,French Polynesia,NULL,-17.53,-149.57,10
+Paradise,4898,Nevada,191238,36.08,-115.12,627
+Parakou,4899,Benin,255478,9.35,2.62,324
+Paramaribo,4900,Suriname,240924,5.87,-55.17,3
+Paraná,4901,Entre Ríos,247139,-31.73,-60.53,77
+Paranaguá,4902,Paraná,135386,-25.52,-48.51,5
+Parañaque,4903,Metro Manila,665822,14.47,121.02,12
+Pardubice,4904,Pardubický,89619,50.04,15.78,237
+Paris,4905,Île-de-France,2249975,48.86,2.35,28
+Parla,4906,Madrid,130550,40.24,-3.77,648.5
+Parma,4907,Emilia-Romagna,175895,44.8,10.33,55
+Parnaíba,4908,Piauí,137485,-2.9,-41.78,5
+Parnamirim,4909,Rio Grande do Norte,202456,-5.92,-35.25,NULL
+Pasadena,4910,California,138699,34.16,-118.13,263
+Pasadena,4911,Texas,151950,29.68,-95.17,9
+Pasay,4912,Metro Manila,416522,14.55,121,NULL
+Pasig,4913,Metro Manila,755300,14.58,121.08,NULL
+Passo Fundo,4914,Rio Grande do Sul,180120,-28.25,-52.4,687
+Pasto,4915,Nariño,308095,1.21,-77.28,2527
+Paterson,4916,New Jersey,159732,40.91,-74.16,34
+Pathein,4917,Ayeyarwady,286684,16.77,94.72,NULL
+Patna,4918,Bihar,1684222,25.6,85.1,53
+Patos de Minas,4919,Minas Gerais,127724,-18.58,-46.52,815
+Patra,4920,Dytikis Elladas,213984,38.25,21.73,10
+Paulista,4921,Pernambuco,300466,-7.94,-34.87,13
+Pavlodar,4922,Pavlodar,329901,52.3,76.95,123
+Pavlohrad,4923,Dnipropetrovska,103073,48.52,35.86,60
+Pécs,4924,Baranya,156049,46.07,18.23,153
+Peiraias,4925,Attikis,163688,37.95,23.63,10
+Pekalongan,4926,Jawa Tengah,281434,-6.88,109.67,NULL
+Pekanbaru,4927,Riau,897767,0.53,101.45,12
+Pelotas,4928,Rio Grande do Sul,306193,-31.77,-52.34,7
+Pematang Siantar,4929,Sumatera Utara,234698,2.96,99.06,NULL
+Pemba,4930,Cabo Delgado,200529,-12.97,40.55,30
+Pembroke Pines,4931,Florida,171178,26.01,-80.31,2
+Penonomé,4932,Coclé,85737,8.52,-80.36,70
+Penza,4933,Penzenskaya,501109,53.2,45,150
+Peoria,4934,Arizona,190985,33.58,-112.24,348
+Peoria,4935,Illinois,113150,40.72,-89.61,201
+Pereira,4936,Risaralda,385838,4.81,-75.69,1411
+Peristeri,4937,Attikis,139981,38.02,23.68,50
+Perm,4938,Permskij,1034002,58,56.32,171
+Perpignan,4939,Occitanie,118238,42.7,2.9,8
+Perth,4940,Western Australia,2099530,-31.95,115.86,2
+Perúgia,4941,Umbria,162449,43.11,12.39,493
+Pervouralsk,4942,Sverdlovskaya,114450,56.92,59.93,283
+Pescara,4943,Abruzzo,117166,42.46,14.21,4
+Peshawar,4944,Khyber Pakhtunkhwa,1970042,34.02,71.58,359
+Petah Tiqwa,4945,HaMerkaz,247956,32.09,34.89,15
+Petaling Jaya,4946,Selangor,613977,3.08,101.65,NULL
+Petare,4947,Miranda,520982,10.48,-66.82,900
+Peterborough,4948,East of England,189561,52.58,-0.25,NULL
+Pétion-Ville,4949,Haiti,271175,18.52,-72.28,NULL
+Petrolina,4950,Pernambuco,219215,-9.39,-40.51,376
+Petropavlovsk,4951,North-Kazakhstan,207402,54.88,69.17,140
+Petropavlovsk-Kamčatskij,4952,Kamchatka,164900,53.02,158.65,150
+Petrópolis,4953,Rio de Janeiro,281286,-22.5,-43.18,838
+Petrozavodsk,4954,Karelia,234897,61.78,34.33,60
+Pforzheim,4955,Baden-Württemberg,114411,48.9,8.72,261
+Philadelphia,4956,Pennsylvania,1603767,39.95,-75.17,12
+Philipsburg,4957,Sint Maarten,1327,18.02,-63.05,NULL
+Phnom Penh,4958,Cambodia,2189460,11.55,104.92,12
+Phoenix,4959,Arizona,1608139,33.45,-112.07,331
+Phuket,4960,Thailand,258480,7.89,98.4,6
+Piacenza,4961,Emilia-Romagna,100311,45.05,9.7,61
+Piatra-Neamţ,4962,Neamţ,85055,46.93,26.37,310
+Pierre,4963,South Dakota,14091,44.37,-100.34,443
+Pimpri Chinchwad,4964,Maharashtra,1727692,18.62,73.8,570
+Pinar del Río,4965,Pinar del Río,140230,22.41,-83.67,61
+Pindamonhangaba,4966,São Paulo,141708,-22.92,-45.46,540
+Pingdingshan,4967,Henan,1045966,33.73,113.3,NULL
+Pingtung,4968,Taiwan,207862,22.68,120.49,20
+Pinsk,4969,Brest,130355,52.11,26.01,141
+Piracicaba,4970,São Paulo,356743,-22.73,-47.65,547
+Pisa,4971,Toscana,85858,43.72,10.4,4
+Piteşti,4972,Argeş,155383,44.86,24.87,300
+Pittsburgh,4973,Pennsylvania,302971,40.44,-79.98,233
+Piura,4974,Piura,477605,-5.2,-80.63,NULL
+Pizhou,4975,Jiangsu,850773,34.4,118,NULL
+Plano,4976,Texas,285494,33.02,-96.7,206
+Playa del Carmen,4977,Quintana Roo,304942,20.63,-87.07,10
+Pleven,4978,Bulgaria,91119,43.41,24.62,191
+Płock,4979,Mazowieckie,114594,52.55,19.7,60
+Ploieşti,4980,Prahova,209945,44.93,26.03,160
+Plovdiv,4981,Bulgaria,342048,42.15,24.75,164
+Plymouth,4982,South West England,240903,50.37,-4.14,20
+Plymouth,4983,Montserrat,0,16.71,-62.22,NULL
+Plzeň,4984,Plzeňský,174007,49.75,13.38,308
+Poços de Caldas,4985,Minas Gerais,148722,-21.79,-46.56,1196
+Podgorica,4986,Montenegro,150977,42.44,19.26,48
+Podolsk,4987,Moskovskaya,314934,55.42,37.53,160
+Pointe-Noire,4988,Pointe-Noire,829134,-4.78,11.86,14
+Pokhara,4989,Nepal,518452,28.26,83.97,822
+Polokwane,4990,Limpopo,628999,-23.9,29.45,1312
+Poltava,4991,Poltavska,283402,49.59,34.55,132
+Pomona,4992,California,151713,34.06,-117.76,259
+Ponce,4993,Puerto Rico,107951,18,-66.61,16
+Pondicherry,4994,Puducherry,NULL,11.93,79.79,3
+Ponta Delgada,4995,Azores,40050,37.82,-25.75,NULL
+Ponta Grossa,4996,Paraná,304733,-25.1,-50.15,975
+Pontianak,4997,Kalimantan Barat,554764,0,109.33,1
+Poole,4998,South West England,160778,50.72,-1.98,NULL
+Popayán,4999,Cauca,266561,2.45,-76.61,1760
+Pori,5000,Satakunta,83457,61.48,21.8,NULL
+Porlamar,5001,Nueva Esparta,97667,10.95,-63.85,10
+Port-au-Prince,5002,Haiti,875978,18.53,-72.33,98
+Port-Gentil,5003,Gabon,136462,-0.72,8.78,3
+Port-of-Spain,5004,Trinidad and Tobago,37074,10.67,-61.52,3
+Port Blair,5005,Andaman and Nicobar Islands,NULL,11.67,92.74,16
+Port Harcourt,5006,Rivers,2075000,4.75,7,18
+Port Louis,5007,Mauritius,149226,-20.16,57.5,NULL
+Port Moresby,5008,South,318128,-9.51,147.22,35
+Port St. Lucie,5009,Florida,204851,27.28,-80.35,5
+Port Sudan,5010,Al-Baḥr al-Aḥmar,394561,19.62,37.22,NULL
+Port Vila,5011,Vanuatu,49528,-17.75,168.3,NULL
+Portalegre,5012,Portalegre,NULL,39.32,-7.42,NULL
+Portland,5013,Maine,68408,43.66,-70.25,19
+Portland,5014,Oregon,652503,45.52,-122.68,15.2
+Porto-Novo,5015,Benin,264320,6.5,2.61,38
+Porto Alegre,5016,Rio Grande do Sul,1409351,-30.03,-51.23,10
+Porto Seguro,5017,Bahia,104078,-16.43,-39.08,4
+Porto Velho,5018,Rondônia,390733,-8.76,-63.9,83
+Portsmouth,5019,South East England,241623,50.82,-1.08,NULL
+Posadas,5020,Misiones,275028,-27.37,-55.9,120
+Potenza,5021,Basilicata,66777,40.63,15.8,819
+Potosí,5022,Potosí,189652,-19.58,-65.75,4067
+Potsdam,5023,Brandenburg,156021,52.4,13.07,32
+Poza Rica de Hidalgo,5024,Veracruz,180507,20.53,-97.45,50
+Poznań,5025,Wielkopolskie,546859,52.4,16.92,60
+Praha,5026,Praha,1301432,50.08,14.42,399
+Praia,5027,Cape Verde,137868,14.92,-23.51,25
+Praia Grande,5028,São Paulo,262051,-24.01,-46.4,3
+Prato,5029,Toscana,185456,43.88,11.1,65
+Presidente Prudente,5030,São Paulo,203375,-22.13,-51.38,NULL
+Prešov,5031,Prešovský,84824,49,21.24,250
+Preston,5032,North West England,99101,53.76,-2.7,NULL
+Prishtine,5033,Kosovo,198214,42.67,21.17,652
+Probolinggo,5034,Jawa Timur,217062,-7.75,113.22,NULL
+Prokopjevsk,5035,Kemerovskaya,177819,53.88,86.72,280
+Providence,5036,Rhode Island,190934,41.82,-71.42,23
+Prypjat,5037,Kyïvska,0,51.4,30.06,120
+Pskov,5038,Pskovskaya,193082,57.82,28.33,45
+Pucallpa,5039,Ucayali,353891,-8.38,-74.52,154
+Puebla,5040,Puebla,1542232,19.03,-98.18,2135
+Puerto Ayacucho,5041,Amazonas,NULL,5.66,-67.63,74
+Puerto Cabello,5042,Carabobo,177751,10.47,-68.02,3
+Puerto Carreno,5043,Vichada,14974,6.18,-67.47,51
+Puerto Cortes,5044,Cortés,90161,15.88,-87.95,NULL
+Puerto La Cruz,5045,Anzoátegui,205866,10.2,-64.63,10
+Puerto Lempira,5046,Gracias a Dios,NULL,15.27,-83.77,NULL
+Puerto Maldonado,5047,Madre de Dios,NULL,-12.6,-69.18,183
+Puerto Montt,5048,Lagos,171136,-41.47,-72.93,14
+Puerto Plata,5049,Dominican Republic,118496,19.8,-70.7,8
+Puerto Princesa,5050,Mimaropa,191738,9.75,118.75,NULL
+Pune,5051,Maharashtra,3124458,18.52,73.86,561
+Puning,5052,Guangdong,935668,23.3,116.17,10
+Puno,5053,Puno,133199,-15.84,-70.02,3830
+Punta Arenas,5054,Magallanes,125932,-53.17,-70.93,34
+Puntarenas,5055,Puntarenas,115019,9.97,-84.83,5
+Puškino,5056,Moskovskaya,110868,56.02,37.83,160
+Putian,5057,Fujian,1539389,25.43,110.01,NULL
+Putrajaya,5058,Putrajaya,NULL,2.94,101.7,NULL
+Puyang,5059,Henan,824397,35.77,115.07,NULL
+Pyatigorsk,5060,Stavropolskiy,146473,44.05,43.07,600
+Pyongyang,5061,North Korea,3255288,39.02,125.74,38
+Qaemshahr,5062,Mazandaran,204953,36.46,52.86,NULL
+Qarshi,5063,Qasqadaryo,274891,38.87,65.8,374
+Qazvin,5064,Qazvin,402748,36.27,50,NULL
+Qina,5065,Egypt,241422,26.17,32.73,75
+Qingdao,5066,Shandong,6165279,36.07,120.38,NULL
+Qinhuangdao,5067,Hebei,1520199,39.93,119.6,NULL
+Qinzhou,5068,Guangxi,771052,21.95,108.62,12
+Qiqihar,5069,Heilongjiang,1029522,47.35,123.92,147
+Qom,5070,Qom,1201158,34.64,50.88,928
+Qu‘qon,5071,Fargʻona,252730,40.53,70.94,409
+Quanzhou,5072,Fujian,1469157,24.92,118.58,NULL
+Quebec,5073,Quebec,516622,46.82,-71.22,98
+Queimados,5074,Rio de Janeiro,137962,-22.72,-43.55,29
+Quelimane,5075,Zambézia,246915,-17.88,36.89,2
+Querétaro,5076,Querétaro,794789,20.59,-100.39,1820
+Quetta,5077,Balochistan,1001205,30.18,67,1680
+Quetzaltenango,5078,Guatemala,180706,14.83,-91.51,2234
+Quezon City,5079,Metro Manila,2936116,14.63,121.03,17
+Qui Nhon,5080,North and South Central Coast,263892,13.77,109.23,NULL
+Quibdó,5081,Chocó,113124,5.69,-76.66,43
+Quillacollo,5082,Cochabamba,137029,-17.4,-66.28,2425
+Quilmes,5083,Buenos Aires,582943,-34.72,-58.27,17
+Quito,5084,Ecuador,1619146,-0.23,-78.52,2850
+Qujing,5085,Yunnan,976161,25.48,103.8,1873
+Rabak,5086,An-Nīl al-Abyaḍ,123890,13.18,32.73,NULL
+Rabat,5087,Rabat Sale Zemmour Zaer,577827,34.03,-6.83,20
+Rach Gia,5088,Mekong River Delta,211351,10.02,105.08,0.5
+Radom,5089,Mazowieckie,201601,51.4,21.17,130
+Rahimyar Khan,5090,Punjab,420419,28.42,70.3,NULL
+Raipur,5091,Chhattisgarh,1010433,20.92,82,298.15
+Rajahmundry,5092,Andhra Pradesh,324881,16.98,81.78,14
+Rajkot,5093,Gujarat,1286678,22.3,70.78,128
+Rajshahi,5094,Rajshahi,552791,24.37,88.6,18
+Raleigh,5095,North Carolina,467665,35.78,-78.64,96
+Ramallah,5096,West Bank,NULL,31.9,35.2,NULL
+Ramenskoye,5097,Moskovskaya,114537,55.57,38.21,125
+Ramla,5098,HaMerkaz,76246,31.93,34.87,80
+Râmnicu Vâlcea,5099,Vâlcea,98776,45.1,24.38,NULL
+Rancagua,5100,Libertador General Bernardo O'Higgins,290864,-34.17,-70.75,572
+Ranchi,5101,Jharkhand,1073427,23.36,85.33,651
+Rancho Cucamonga,5102,California,174453,34.12,-117.58,368
+Randers,5103,Midtjylland,61664,56.46,10.04,56
+Rangpur,5104,Rangpur,294265,25.56,89.25,34
+Rasht,5105,Gilan,679995,37.28,49.58,5
+Ravenna,5106,Emilia-Romagna,153740,44.42,12.2,4
+Rawalpindi,5107,Punjab,2098231,33.6,73.03,508
+Rawson,5108,Chubut,122531,-43.3,-65.1,4
+Reading,5109,South East England,242572,51.45,-0.97,61
+Recife,5110,Pernambuco,1537704,-8.05,-34.9,10
+Recklinghausen,5111,Nordrhein-Westfalen,115958,51.59,7.16,85
+Regensburg,5112,Bayern,135403,49.02,12.08,337
+Réggio di Calabria,5113,Calabria,180817,38.11,15.66,31
+Reggio nell'Emilia,5114,Emilia-Romagna,162082,44.7,10.63,58
+Regina,5115,Saskatchewan,193100,50.45,-104.61,577
+Reims,5116,Grand Est,180752,49.26,4.03,80
+Remscheid,5117,Nordrhein-Westfalen,110708,51.18,7.2,365
+Rennes,5118,Bretagne,208033,48.11,-1.68,20
+Reno,5119,Nevada,264165,39.53,-119.82,1374
+Resistencia,5120,Chaco,290723,-27.45,-58.99,20
+Resita,5121,Caraş-Severin,NULL,45.3,21.89,208
+Reus,5122,Catalunya,105981,41.15,1.12,134
+Reutlingen,5123,Baden-Württemberg,109799,48.48,9.22,382
+Reutov,5124,Moskovskaya,113871,55.76,37.96,166
+Reykjavik,5125,Iceland,228415,64.13,-21.93,NULL
+Reynosa,5126,Tamaulipas,691557,26.09,-98.28,33
+Rhodes,5127,Notioy Aigaioy,115490,36.43,28.22,26
+Ribeirão das Neves,5128,Minas Gerais,294153,-19.77,-44.09,NULL
+Ribeirão Pires,5129,São Paulo,113068,-23.72,-46.42,800
+Ribeirão Preto,5130,São Paulo,602966,-21.18,-47.81,546
+Richmond,5131,British Columbia,190473,49.17,-123.13,5
+Richmond,5132,California,116448,37.94,-122.35,14
+Richmond,5133,Virginia,226610,37.53,-77.47,45.7
+Rīga,5134,Latvia,696618,56.95,24.11,7
+Rijeka,5135,Croatia,107964,45.32,14.42,10
+Rikitea,5136,French Polynesia,NULL,-23.25,-134.98,10
+Rímini,5137,Emilia-Romagna,139601,44.05,12.57,6
+Rio Branco,5138,Acre,308545,-9.97,-67.81,143
+Rio Claro,5139,São Paulo,181720,-22.41,-47.56,613
+Río Cuarto,5140,Córdoba,157010,-33.13,-64.35,452
+Rio de Janeiro,5141,Rio de Janeiro,6320446,-22.91,-43.2,31
+Río Gallegos,5142,Santa Cruz,95796,-51.63,-69.22,20
+Rio Grande,5143,Rio Grande do Sul,189429,-32.03,-52.1,6
+Rio Verde,5144,Goiás,163540,-17.79,-50.92,748
+Riohacha,5145,La Guajira,126103,11.54,-72.91,5
+Rishon LeZiyyon,5146,HaMerkaz,254384,31.95,34.8,40
+Riverside,5147,California,314998,33.95,-117.4,252
+Rivne,5148,Rivnenska,245289,50.62,26.25,136
+Riyadh,5149,Ar-Riyadh,5188286,24.63,46.72,612
+Rize,5150,Rize,119828,41.02,40.52,6
+Rizhao,5151,Shandong,1147175,35.42,119.43,NULL
+Road Town,5152,British Virgin Islands,NULL,18.27,-64.37,NULL
+Roatan,5153,Islas de la Bahía,NULL,16.3,-86.55,NULL
+Rochdale,5154,North West England,114615,53.61,-2.16,NULL
+Rochester,5155,New York,211328,43.17,-77.61,154
+Rockford,5156,Illinois,148655,42.26,-89.06,222
+Rodriguez,5157,Calabarzon,360602,14.72,121.12,NULL
+Roma,5158,Lazio,2617175,41.88,12.43,21
+Rondonópolis,5159,Mato Grosso,188028,-16.47,-54.64,227
+Ronne,5160,Hovedstaden,NULL,55.1,14.7,15
+Rosario,5161,Santa Fe,948312,-32.95,-60.67,31
+Roseau,5162,Dominica,14725,15.3,-61.39,43
+Rosso,5163,Trarza,51026,16.51,-15.8,6
+Rostock,5164,Mecklenburg-Vorpommern,200265,54.08,12.13,14
+Rostov-na-Donu,5165,Rostovskaya,1142162,47.23,39.7,50
+Rotherham,5166,Yorkshire and the Humber,109697,53.43,-1.36,NULL
+Rotterdam,5167,Zuid-Holland,619180,51.92,4.5,0
+Rouen,5168,Normandie,111553,49.44,1.1,2
+Rovaniemi,5169,Lappia,61244,66.5,25.73,NULL
+Roxas,5170,Western Visayas,167003,11.58,122.75,NULL
+Rubcovsk,5171,Altayskiy,126834,51.52,81.2,210
+Ruda Śląska,5172,Śląskie,133793,50.27,18.7,272
+Rudniy,5173,Kostanai,114170,52.97,63.13,NULL
+Rufisque,5174,Dakar,221066,14.72,-17.27,NULL
+Rugao,5175,Jiangsu,761879,32.25,120.57,2
+Ruian,5176,Zhejiang,1012484,27.78,120.63,NULL
+Rundu,5177,Namibia,63431,-17.9,19.75,1095
+Ruse,5178,Bulgaria,135440,43.82,25.95,45
+Ryazan,5179,Ryazanskaya,528599,54.6,39.7,130
+Rybinsk,5180,Yaroslavskaya,177295,58.05,38.83,100
+Rybnik,5181,Śląskie,133772,50.08,18.55,210
+Rzeszów,5182,Podkarpackie,195871,50.03,22,221
+Saanich,5183,British Columbia,NULL,48.48,-123.38,23
+Saarbrücken,5184,Saarland,175853,49.23,7,230
+Sabadell,5185,Catalunya,216759,41.55,2.11,190
+Sabará,5186,Minas Gerais,123084,-19.89,-43.81,705
+Sabzevar,5187,Khorasan-e-Razavi,243700,36.21,57.68,977.6
+Sacaba,5188,Cochabamba,169494,-17.4,-66.04,2719
+Šachty,5189,Rostovskaya,226452,47.7,40.23,100
+Sacramento,5190,California,524943,38.56,-121.47,9
+Safi,5191,Doukala Abda,308508,32.28,-9.23,20
+Saga,5192,Saga,236372,33.27,130.3,NULL
+Sagaing,5193,Sagaing,NULL,21.88,95.98,NULL
+Sagamihara,5194,Kanagawa,720780,35.57,139.37,NULL
+Saharanpur,5195,Uttar Pradesh,374945,29.96,77.55,NULL
+Sahiwal,5196,Punjab,389605,30.66,73.11,152.4
+Saint-Denis,5197,Île-de-France,111354,48.95,2.35,23
+Saint-Denis,5198,Reunion,145347,-20.9,55.5,25
+Saint-Étienne,5199,Auvergne-Rhône-Alpes,170049,45.43,4.39,422
+Saint-Louis,5200,Saint-Louis,209752,16.03,-16.5,NULL
+Saint-Paul,5201,Reunion,103916,-21.01,55.27,3
+Saint-Pierre,5202,Saint Pierre and Miquelon,5618,46.78,-56.18,10
+Saint Catharines,5203,Ontario,131400,43.18,-79.23,97.8
+Saint George's,5204,Grenada,38249,12.05,-61.75,NULL
+Saint Helier,5205,Jersey,NULL,49.2,-2.1,NULL
+Saint Peter Port,5206,Guernsey,NULL,49.6,-2.6,NULL
+Saipan,5207,Northern Mariana Islands,43385,15.18,145.76,60
+Saitama,5208,Saitama,1263979,35.87,139.65,NULL
+Sakai,5209,Osaka,839310,34.57,135.48,NULL
+Sakaka,5210,Al-Jouf,150257,29.97,40.2,566
+Sakarya,5211,Sakarya,544984,40.78,30.4,31
+Salalah,5212,Oman,293962,17.02,54.09,NULL
+Salamanca,5213,Castilla y León,143549,40.97,-5.67,802
+Salamanca,5214,Guanajuato,160682,20.57,-101.2,1721
+Salavat,5215,Bashkortostan,148575,53.37,55.93,156
+Sale,5216,North West England,141068,53.42,-2.32,NULL
+Salé,5217,Rabat Sale Zemmour Zaer,890403,34.03,-6.8,NULL
+Salekhard,5218,Tyumenskaya,42544,66.53,66.6,15
+Salem,5219,Tamil Nadu,366712,11.65,78.16,278
+Salem,5220,Oregon,175535,44.93,-123.03,47
+Salerno,5221,Campania,132608,40.68,14.77,4
+Salford,5222,North West England,129794,53.51,-2.33,68
+Salgótarján,5223,Nógrád,NULL,48.09,19.79,299
+Salinas,5224,California,163542,36.68,-121.66,16
+Salt Lake City,5225,Utah,199723,40.75,-111.88,1288
+Salta,5226,Salta,520683,-24.78,-65.42,1152
+Saltillo,5227,Coahuila,864431,25.43,-101,1600
+Salto,5228,Uruguay,104011,-31.38,-57.95,48
+Salvador,5229,Bahia,2674923,-12.97,-38.48,8
+Salzburg,5230,Salzburg,145270,47.8,13.03,424
+Salzgitter,5231,Niedersachsen,98895,52.15,10.33,90
+Samara,5232,Samarskaya,1173299,53.2,50.14,100
+Samarinda,5233,Kalimantan Timur,727500,-0.5,117.15,8
+Samarqand,5234,Samarqand,546303,39.7,66.98,702
+Samarra,5235,Salah al-Deen,144771,34.2,43.87,80
+Samsun,5236,Samsun,643820,41.28,36.33,NULL
+Samut Prakan,5237,Thailand,681000,13.6,100.6,NULL
+San-Pedro,5238,Bas-Sassandra,174287,4.75,-6.64,10
+San Andres,5239,"San Andrés, Providencia y Santa Catalina",41400,12.58,-81.7,NULL
+San Antonio,5240,Texas,1434625,29.42,-98.5,198
+San Bernardino,5241,California,222101,34.1,-117.3,321
+San Carlos,5242,Ilocos,188571,15.93,120.35,NULL
+San Carlos,5243,Cojedes,NULL,9.65,-68.58,152
+San Cristóbal,5244,Táchira,328636,7.77,-72.23,860
+San Cristóbal de La Laguna,5245,Canarias,158117,28.48,-16.3,543
+San Diego,5246,California,1386932,32.72,-117.16,129
+San Felipe,5247,Yaracuy,NULL,10.34,-68.74,250
+San Fernando,5248,Central Luzon,306659,15.03,120.68,NULL
+San Fernando,5249,Ilocos,97677,16.62,120.32,NULL
+San Fernando,5250,Apure,NULL,7.89,-67.47,47
+San Fernando del Valle de Catamarca,5251,Catamarca,159703,-28.47,-65.78,500
+San Francisco,5252,California,873965,37.78,-122.42,16
+San Isidro,5253,Buenos Aires,292878,-34.47,-58.52,15
+San Jose,5254,California,1013240,37.33,-121.9,25
+San José,5255,San José,288054,9.93,-84.08,1172
+San José de las Lajas,5256,Mayabeque,NULL,22.97,-82.16,135
+San Jose del Guaviare,5257,Guaviare,36354,2.57,-72.63,185
+San Jose Del Monte,5258,Central Luzon,574089,14.81,121.05,100
+San Juan,5259,Puerto Rico,322854,18.41,-66.06,8
+San Juan,5260,San Juan,109123,-31.53,-68.53,640
+San Juan,5261,Guárico,NULL,9.91,-67.36,428.5
+San Luis,5262,San Luis,169947,-33.3,-66.33,709
+San Luis Potosí,5263,San Luis Potosí,845941,22.15,-100.84,1850
+San Marino,5264,San Marino,4048,43.93,12.45,749
+San Mateo,5265,Calabarzon,252527,14.7,121.12,NULL
+San Miguel,5266,El Salvador,218410,13.48,-88.18,129
+San Miguel de Tucumán,5267,Tucumán,548866,-26.83,-65.22,431
+San Miguelito,5268,Panamá,315019,9.03,-79.5,NULL
+San Nicolás de los Garzas,5269,Nuevo Léon,412199,25.75,-100.28,512
+San Pablo,5270,Calabarzon,266068,14.07,121.32,NULL
+San Pedro,5271,Calabarzon,325809,14.36,121.06,NULL
+San Pedro Garza García,5272,Nuevo Léon,132128,25.66,-100.4,540
+San Pedro Sula,5273,Cortés,598519,15.5,-88.03,83
+San Salvador,5274,El Salvador,354174,13.69,-89.19,658
+San Salvador de Jujuy,5275,Jujuy,257970,-24.18,-65.3,1259
+Sanaa,5276,Yemen,1527861,15.35,44.21,2250
+Sanandaj,5277,Kurdestan,412767,35.31,46.99,1538
+Sancti Spíritus,5278,Sancti Spíritus,104968,21.93,-79.44,51
+Sandakan,5279,Sabah,276791,5.83,118.12,12
+Sandvika,5280,Akershus,116677,59.88,10.52,12
+Sankt Gallen,5281,Sankt Gallen,76213,47.42,9.37,675
+Sankt Peterburg,5282,Sankt-Peterburg,5601911,59.95,30.3,3
+Şanlıurfa,5283,Şanlıurfa,586733,37.16,38.79,477
+Sannār,5284,Sannār,123158,13.55,33.6,NULL
+Santa Ana,5285,El Salvador,245421,13.98,-89.53,665
+Santa Ana,5286,California,310227,33.74,-117.88,35
+Santa Ana de Coro,5287,Falcón,158763,11.42,-69.67,17
+Santa Barbara,5288,Santa Bárbara,NULL,14.92,-88.23,NULL
+Santa Bárbara d'Oeste,5289,São Paulo,178596,-22.75,-47.41,570
+Santa Clara,5290,Villa Clara,211925,22.41,-79.96,125
+Santa Clarita,5291,California,228673,34.42,-118.51,368
+Santa Coloma de Gramenet,5292,Catalunya,118489,41.47,2.22,56
+Santa Cruz de la Sierra,5293,Santa Cruz,1453549,-17.8,-63.18,416
+Santa Cruz de Tenerife,5294,Canarias,208103,28.47,-16.25,4
+Santa Cruz do Sul,5295,Rio Grande do Sul,105190,-29.72,-52.43,122
+Santa Fe,5296,Santa Fe,391164,-31.63,-60.7,25
+Santa Fe,5297,New Mexico,87505,35.67,-105.96,2195
+Santa Luzia,5298,Minas Gerais,202378,-19.77,-43.85,751
+Santa Maria,5299,Rio Grande do Sul,248347,-29.68,-53.8,113
+Santa Marta,5300,Magdalena,455299,11.24,-74.21,6
+Santa Rita,5301,Paraíba,103717,-7.11,-34.98,NULL
+Santa Rosa,5302,La Pampa,102860,-36.62,-64.28,175
+Santa Rosa,5303,Calabarzon,353767,14.36,121.06,NULL
+Santa Rosa,5304,California,178127,38.45,-122.7,50
+Santa Rosa de Copan,5305,Copán,48485,14.77,-88.78,1168
+Santa Tecla,5306,El Salvador,126353,13.67,-89.24,931
+Santander,5307,Cantabria,172000,43.46,-3.8,15
+Santarem,5308,Santarem,NULL,39.23,-8.68,NULL
+Santarém,5309,Pará,215790,-2.43,-54.72,51
+Santiago,5310,Dominican Republic,550753,19.47,-70.7,175
+Santiago,5311,Veraguas,88997,8.11,-80.97,101
+Santiago,5312,Santiago,6160040,-33.45,-70.67,521
+Santiago de Compostela,5313,Galicia,NULL,42.88,-8.54,260
+Santiago de Cuba,5314,Santiago de Cuba,431272,20.02,-75.81,82
+Santiago del Estero,5315,Santiago de Estero,252192,-27.78,-64.27,187
+Santo André,5316,São Paulo,676407,-23.66,-46.53,700
+Santo Domingo,5317,Dominican Republic,2581827,18.47,-69.95,14
+Santo Domingo de los Colorados,5318,Ecuador,305632,-0.25,-79.17,625
+Santos,5319,São Paulo,419086,-23.94,-46.32,2
+Sanya,5320,Hainan,801020,18.25,109.5,NULL
+São Bernardo do Campo,5321,São Paulo,752658,-23.7,-46.55,762
+São Caetano do Sul,5322,São Paulo,149263,-23.63,-46.55,744
+São Carlos,5323,São Paulo,213061,-22.02,-47.89,856
+São Gonçalo,5324,Rio de Janeiro,998999,-22.83,-43.05,19
+São João de Meriti,5325,Rio de Janeiro,458673,-22.8,-43.37,19
+São José,5326,Santa Catarina,207312,-27.61,-48.63,3
+São José do Rio Preto,5327,São Paulo,383490,-20.81,-49.38,489
+São José dos Campos,5328,São Paulo,617106,-23.19,-45.88,660
+São José dos Pinhais,5329,Paraná,236895,-25.53,-49.21,906
+São Leopoldo,5330,Rio Grande do Sul,213238,-29.76,-51.15,26
+São Luís,5331,Maranhão,958522,-2.53,-44.3,4
+São Paulo,5332,São Paulo,11152344,-23.55,-46.63,760
+São Tomé,5333,Sao Tome and Principe,66888,0.34,6.68,137
+São Vicente,5334,São Paulo,331817,-23.96,-46.39,6
+Sapele,5335,Delta,310000,5.9,5.67,NULL
+Sapporo,5336,Hokkaido,1952356,43.07,141.35,NULL
+Sapucaia do Sul,5337,Rio Grande do Sul,130469,-29.84,-51.14,35
+Sarajevo,5338,Federacija Bosne i Hercegovine,291422,43.87,18.42,518
+Saransk,5339,Mordoviya,314871,54.18,45.18,160
+Sarapul,5340,Udmurtskaya,101381,56.47,53.8,80
+Saratov,5341,Saratovskaya,901361,51.53,46.02,50
+Sargodha,5342,Punjab,659862,32.08,72.67,193
+Sari,5343,Mazandaran,309820,36.56,53.06,5
+Sariwon,5344,North Korea,307764,38.51,125.75,NULL
+Sarnen,5345,Obwalden,NULL,46.88,8.23,473
+Saskatoon,5346,Saskatchewan,222189,52.13,-106.68,481.5
+Sássari,5347,Sardegna,123782,40.73,8.57,225
+Satu Mare,5348,Satu-Mare,102411,47.79,22.89,127
+Saurimo,5349,Lunda-Sul,423548,-9.65,20.4,1081
+Savannah,5350,Georgia,147780,32.02,-81.12,15
+Savar,5351,Dhaka,296851,23.86,90.26,NULL
+Sawhaj,5352,Egypt,248174,26.55,31.7,61
+Ščëlkovo,5353,Moskovskaya,134211,55.92,38,150
+Schaerbeek,5354,Bruxelles,132799,50.87,4.38,NULL
+Schaffhausen,5355,Schaffhausen,NULL,47.7,8.63,403
+Schwerin,5356,Mecklenburg-Vorpommern,91293,53.63,11.42,44
+Schwyz,5357,Schwyz,NULL,47.02,8.65,516
+Scottsdale,5358,Arizona,241361,33.5,-111.93,383
+Seattle,5359,Washington,737015,47.61,-122.33,50
+Sedhiou,5360,Sédhiou,NULL,12.7,-15.55,NULL
+Ségou,5361,Ségou,133501,13.45,-6.27,294
+Séguéla,5362,Woroba,46189,7.97,-6.67,NULL
+Seinäjoki,5363,Etelä-Pohjanmaa,62052,62.8,22.73,NULL
+Sejong,5364,South Korea,353933,36.28,127.28,NULL
+Selibaby,5365,Guidimagha,NULL,15.16,-12.18,NULL
+Semarang,5366,Jawa Tengah,1555984,-6.97,110.42,4
+Semei,5367,East-Kazakhstan,312065,50.43,80.27,206
+Semnan,5368,Semnan,185129,35.57,53.4,1130
+Sendai,5369,Miyagi,1082159,38.27,140.87,NULL
+Seongnam,5370,South Korea,922025,37.43,127.15,NULL
+Seoul,5371,South Korea,9586195,37.57,126.97,NULL
+Serang,5372,Banten,577785,-6.12,106.15,39
+Serekunda,5373,Gambia,362986,13.44,-16.68,10
+Seremban,5374,Negeri Sembilan,246441,2.72,101.95,79
+Sergijev Posad,5375,Moskovskaya,101756,56.3,38.13,210
+Serpuchov,5376,Moskovskaya,133793,54.92,37.4,140
+Serra,5377,Espírito Santo,406450,-20.13,-40.31,301
+Sete Lagoas,5378,Minas Gerais,208956,-19.47,-44.25,766.73
+Sétif,5379,Algeria,252127,36.18,5.4,1096
+Settat,5380,Chaouia Ouardigha,142250,33,-7.62,NULL
+Setúbal,5381,Setubal,98470,38.53,-8.88,NULL
+Sevastopol,5382,Sevastopol,464349,44.6,33.53,100
+Severodvinsk,5383,Arkhangelskaya,157213,64.57,39.87,7
+Seversk,5384,Tomskaya,106648,56.6,84.85,90
+Sevilla,5385,Andalucía,684340,37.38,-5.99,12
+Sfax,5386,Tunisia,280566,34.73,10.77,NULL
+Sfintu Gheorghe,5387,Covasna,NULL,45.86,25.79,555
+Sha Tin,5388,Hong Kong,487961,22.37,114.18,NULL
+Shah Alam,5389,Selangor,541306,3.08,101.53,NULL
+Shahr-e-Kord,5390,Chaharmahal and Bakhtiyari,190441,32.33,50.86,2070
+Shanghai,5391,Shanghai,21909814,31.2,121.5,4
+Shangqiu,5392,Henan,1031123,34.42,115.65,50
+Shangrao,5393,Jiangxi,1342220,28.45,117.97,NULL
+Shantou,5394,Guangdong,3838900,23.35,116.67,51
+Shaoguan,5395,Guangdong,803375,24.82,113.6,59
+Shaoxing,5396,Zhejiang,2333080,30,120.58,NULL
+Sheffield,5397,Yorkshire and the Humber,525142,53.38,-1.47,NULL
+Sheikhupura,5398,Punjab,473129,31.72,73.99,236
+Shenyang,5399,Liaoning,7026358,41.8,123.4,55
+Shenzhen,5400,Guangdong,17494398,22.55,114.1,2
+Shibin al Kawm,5401,Egypt,249611,30.56,31.01,9
+Shijiazhuang,5402,Hebei,5090440,38.07,114.48,83
+Shillong,5403,Meghalaya,NULL,25.57,91.88,1525
+Shinyanga,5404,Shinyanga,103795,-3.66,33.42,NULL
+Shiraz,5405,Fars,1565572,29.62,52.53,1500
+Shiyan,5406,Hubei,954914,32.63,110.8,NULL
+Shizuoka,5407,Shizuoka,704989,34.98,138.38,NULL
+Shkodër,5408,Albania,77075,42.07,19.5,13
+Sholapur,5409,Maharashtra,604215,17.68,75.92,457
+Shreveport,5410,Louisiana,187593,32.51,-93.75,44
+Shubra al Khimah,5411,Egypt,1187747,30.13,31.24,16
+Shymkent,5412,South-Kazakhstan,683273,42.32,69.6,506
+Sialkot,5413,Punjab,655852,32.5,74.54,256
+Sibiti,5414,Lékoumou,NULL,-3.69,13.35,440
+Sibiu,5415,Sibiu,147245,45.8,24.15,415
+Sibu,5416,Sarawak,167427,2.29,111.83,8
+Sidi Bel Abbës,5417,Algeria,210146,35.19,-0.64,470
+Siegen,5418,Nordrhein-Westfalen,99187,50.88,8.02,267
+Siem Reap,5419,Cambodia,225607,13.36,103.86,18
+Sievierodonetsk,5420,Luhanska,101135,48.93,38.5,71
+Siirt,5421,Siirt,160340,37.92,41.95,895
+Sikasso,5422,Sikasso,226618,11.32,-5.67,410
+Silvassa,5423,Dadra and Nagar Haveli,NULL,20.27,73.02,32
+Simferopol,5424,Krym,336212,44.95,34.1,350
+Simi Valley,5425,California,126356,34.27,-118.74,234
+Simla,5426,Himachal Pradesh,NULL,31.1,77.17,2205
+Sincelejo,5427,Sucre,249323,9.3,-75.4,213
+Singapore,5428,Singapore,5685807,1.3,103.8,NULL
+Singida,5429,Singida,85242,-4.81,34.74,NULL
+Sinop,5430,Sinop,NULL,42.03,35.15,NULL
+Sinpho,5431,North Korea,152759,40.08,128.25,NULL
+Sinuiju,5432,North Korea,359341,40.1,124.4,NULL
+Sion,5433,Valais,NULL,46.23,7.37,500
+Sioux Falls,5434,South Dakota,192517,43.54,-96.73,448
+Siracusa,5435,Sicilia,118385,37.08,15.28,17
+Sirjan,5436,Kerman,199704,29.45,55.68,1730
+Sirnak,5437,Şırnak,NULL,37.52,42.46,1650
+Sittard-Geleen,5438,Limburg,93726,51,5.87,47
+Sittwe,5439,Rakhine,149348,20.15,92.9,NULL
+Sivas,5440,Sivas,361998,39.75,37.02,1285
+Şiverek,5441,Şanlıurfa,156853,37.75,39.32,NULL
+Skien,5442,Telemark,53015,59.21,9.55,NULL
+Skikda,5443,Algeria,182903,36.87,6.9,18
+Skopje,5444,North Macedonia,422540,42,21.43,240
+Slatina,5445,Olt,NULL,44.43,24.36,155
+Slobozia,5446,Ialomiţa,NULL,44.56,27.37,NULL
+Slough,5447,South East England,175100,51.51,-0.59,NULL
+Sloviansk,5448,Donetska,106972,48.85,37.62,NULL
+Smolensk,5449,Smolenskaya,316570,54.78,32.05,242
+Soacha,5450,Cundinamarca,655025,4.59,-74.22,2566
+Sobral,5451,Ceará,166310,-3.67,-40.24,70
+Sochi,5452,Krasnodarskiy,466078,43.59,39.72,30
+Sofia,5453,Bulgaria,1221785,42.7,23.33,500
+Sokodé,5454,Togo,109200,8.98,1.13,340
+Sokoto,5455,Sokoto,815000,13.07,5.23,NULL
+Soledad,5456,Atlántico,602644,10.92,-74.75,5
+Soledad de Graciano Sanchez,5457,San Luis Potosí,310192,22.18,-100.93,NULL
+Solihull,5458,West Midlands,126245,52.41,-1.78,NULL
+Solingen,5459,Nordrhein-Westfalen,155265,51.17,7.08,221
+Solothurn,5460,Solothurn,NULL,47.22,7.53,430
+Solwezi,5461,North-Western,NULL,-12.18,26.4,1235
+Songea,5462,Ruvuma,203309,-10.68,35.65,NULL
+Songkhla,5463,Thailand,183666,7.21,100.6,11
+Sorø,5464,Sjælland,NULL,55.43,11.57,NULL
+Sorocaba,5465,São Paulo,580655,-23.5,-47.46,601
+Sosnowiec,5466,Śląskie,193660,50.3,19.17,250
+Sousse,5467,Tunisia,221715,35.83,10.63,NULL
+South Bend,5468,Indiana,103453,41.67,-86.26,211
+Southampton,5469,South East England,266934,50.9,-1.4,NULL
+Southend-on-Sea,5470,East of England,182591,51.54,0.71,NULL
+Soyapango,5471,El Salvador,268228,13.73,-89.15,648
+Split,5472,Croatia,149830,43.51,16.45,10
+Spokane,5473,Washington,228989,47.66,-117.42,562
+Spring Valley,5474,Nevada,215597,36.11,-115.25,721
+Springfield,5475,Illinois,114394,39.7,-89.62,170
+Springfield,5476,Massachusetts,155929,42.1,-72.59,21
+Springfield,5477,Missouri,169176,37.2,-93.29,396
+Sri Jayawardhanapura,5478,Sri Lanka,107925,6.91,79.89,1
+Srinagar,5479,Jammu and Kashmir,1180570,34.09,74.79,1585
+St Helens,5480,North West England,106591,53.45,-2.75,NULL
+St. John's,5481,Antigua and Barbuda,22219,17.12,-61.85,1
+St. John's,5482,Newfoundland and Labrador,106172,47.57,-52.71,10
+St. Louis,5483,Missouri,301578,38.63,-90.2,142
+St. Paul,5484,Minnesota,311527,44.94,-93.09,214
+St. Petersburg,5485,Florida,258308,27.77,-82.64,13
+St. Pölten,5486,Niederösterreich,51955,48.2,15.62,267
+Stamford,5487,Connecticut,135470,41.05,-73.54,7
+Stanley,5488,Falkland Islands,NULL,-51.42,-57.51,NULL
+Stans,5489,Nidwalden,NULL,46.95,8.35,452
+Stara Zagora,5490,Bulgaria,125732,42.43,25.65,196
+Staryj Oskol,5491,Belgorodskaya,221676,51.3,37.83,150
+Stavanger,5492,Rogaland,129191,58.96,5.72,NULL
+Stavropol,5493,Stavropolskiy,547443,45.05,41.98,550
+Steinkjer,5494,Nord-Trøndelag,20480,64.06,11.72,NULL
+Sterling Heights,5495,Michigan,134346,42.58,-83.03,187
+Sterlitamak,5496,Bashkortostan,277410,53.63,55.95,150
+Stockholm,5497,Stockholm,881235,59.33,18.07,2
+Stockport,5498,North West England,111023,53.41,-2.15,NULL
+Stockton,5499,California,320804,37.98,-121.3,4
+Stoke-on-Trent,5500,West Midlands,279769,53,-2.18,107
+Strasbourg,5501,Grand Est,272222,48.58,7.75,132
+Stuttgart,5502,Baden-Württemberg,585890,48.78,9.18,247
+Suceava,5503,Suceava,92121,47.65,26.26,300
+Sucre,5504,Chuquisaca,259388,-19.05,-65.25,2810
+Sukabumi,5505,Jawa Barat,298681,-6.92,106.93,584
+Sukkur,5506,Sindh,499900,27.71,68.85,67
+Sullana,5507,Piura,194025,-4.9,-80.52,NULL
+Sumaré,5508,São Paulo,238470,-22.82,-47.27,583
+Sumbawanga,5509,Rukwa,124204,-7.97,31.62,NULL
+Sumbe,5510,Cuanza Sul,267693,-11.21,13.84,10
+Sumgayit,5511,Azerbaijan,290500,40.59,49.67,-10
+Sumy,5512,Sumska,259660,50.92,34.75,166
+Sunchon,5513,North Korea,297317,39.42,125.93,NULL
+Sunderland,5514,North East England,170134,54.91,-1.38,NULL
+Sunnyvale,5515,California,155805,37.37,-122.04,38
+Sunrise Manor,5516,Nevada,205618,36.18,-115.06,555
+Sunshine Coast,5517,Queensland,353906,-26.65,153.07,NULL
+Sunyani,5518,Bono,74240,7.33,-2.33,303
+Suqian,5519,Jiangsu,1255619,33.93,118.28,NULL
+Surabaya,5520,Jawa Timur,2765487,-7.27,112.74,5
+Surakarta,5521,Jawa Tengah,499337,-7.57,110.82,NULL
+Surat,5522,Gujarat,4467797,21.18,72.83,13
+Surgut,5523,Tyumenskaya,396443,61.25,73.43,40
+Surrey,5524,British Columbia,468251,49.18,-122.85,25
+Sutton Coldfield,5525,West Midlands,109899,52.56,-1.82,NULL
+Suva,5526,Fiji,185913,-18.14,178.44,NULL
+Suwon,5527,South Korea,1210150,37.27,127.02,NULL
+Suzano,5528,São Paulo,253240,-23.54,-46.31,749.43
+Suzhou,5529,Anhui,920722,33.62,116.99,NULL
+Suzhou,5530,Jiangsu,5892892,31.3,120.6,NULL
+Swansea,5531,Wales,178118,51.62,-3.95,NULL
+Swindon,5532,South West England,201669,51.56,-1.78,NULL
+Sydney,5533,New South Wales,4959107,-33.86,151.21,3
+Syktyvkar,5534,Komi,220580,61.67,50.82,130
+Sylhet,5535,Sylhet,532426,24.9,91.87,35
+Syracuse,5536,New York,148620,43.05,-76.14,116
+Syzran,5537,Samarskaya,165725,53.17,48.47,50
+Szczecin,5538,Zachodniopomorskie,396168,53.43,14.55,1
+Szeged,5539,Csongrád,168048,46.26,20.15,75
+Székesfehérvár,5540,Fejér,100570,47.19,18.41,118
+Szekszárd,5541,Tolna,NULL,46.36,18.7,83
+Szolnok,5542,Jász-Nagykun-Szolnok,72953,47.17,20.18,68
+Szombathely,5543,Vas,78884,47.24,16.62,209
+Taboão da Serra,5544,São Paulo,244528,-23.62,-46.78,NULL
+Tabora,5545,Tabora,160608,-5.02,32.8,1241
+Tabouk,5546,Tabouk,512629,28.4,36.58,760
+Tabriz,5547,East Azarbayejan,1558693,38.07,46.3,1351.4
+Tacloban,5548,Eastern Visayas,242089,11.24,125,2
+Tacna,5549,Tacna,300963,-18.06,-70.25,552
+Tacoma,5550,Washington,219346,47.24,-122.46,74
+Taganrog,5551,Rostovskaya,245120,47.22,38.92,30
+Tagbilaran,5552,Central Visayas,105051,9.65,123.85,NULL
+Taguig,5553,Metro Manila,804915,14.52,121.05,16
+Tagum,5554,Davao,214380,7.41,125.81,NULL
+Tahoua,5555,Tahoua,149498,14.88,5.27,389
+Taian,5556,Shandong,1416591,36.2,117.08,167
+Taichung,5557,Taiwan,2684893,24.15,120.67,NULL
+Tainan,5558,Taiwan,1881645,22.98,120.18,NULL
+Taipa-Coloane,5559,Macau,148435,22.17,113.55,NULL
+Taipei,5560,Taiwan,2673226,25.03,121.63,10
+Taiping,5561,Perak,183320,4.85,100.73,NULL
+Taitung,5562,Taiwan,107720,22.76,121.14,NULL
+Taiyuan,5563,Shanxi,4303673,37.87,112.56,800
+Taizhou,5564,Jiangsu,1348327,32.45,119.92,NULL
+Taizhou,5565,Zhejiang,1485502,28.67,121.35,NULL
+Taizz,5566,Yemen,458933,13.58,44.02,1370
+Takamatsu,5567,Kagawa,420748,34.35,134.05,NULL
+Takoradi,5568,Western,539548,4.9,-1.76,10
+Talara,5569,Piura,92491,-4.58,-81.27,11
+Talas,5570,Kayseri,163770,38.68,35.57,1150
+Talca,5571,Maule,237295,-35.43,-71.67,102
+Taldykurgan,5572,Almaty,135217,45.02,78.37,600
+Tallahassee,5573,Florida,196169,30.46,-84.25,62
+Tallinn,5574,Estonia,437817,59.44,24.75,9
+Tamale,5575,Northern,371351,9.41,-0.85,151
+Tamanrasset,5576,Algeria,92635,22.79,5.53,1320
+Tamatave,5577,Madagascar,325857,-18.15,49.42,NULL
+Tambacounda,5578,Tambacounda,107293,13.77,-13.67,24
+Tambov,5579,Tambovskaya,261803,52.72,41.43,130
+Tampa,5580,Florida,384959,27.97,-82.48,15
+Tampere,5581,Pirkanmaa,220678,61.5,23.77,NULL
+Tampico,5582,Tamaulipas,297373,22.26,-97.87,10
+Tanchon,5583,North Korea,345875,40.46,128.91,NULL
+Tanga,5584,Tanga,221127,-5.07,39.1,25
+Tanger,5585,Tanger Tetouan,947952,35.77,-5.8,80
+Tangerang,5586,Banten,1798601,-6.18,106.63,NULL
+Tangerang Selatan,5587,Banten,1290322,-6.29,106.72,NULL
+Tangshan,5588,Hebei,2551948,39.62,118.18,NULL
+Tanjung Pinang,5589,Kepulauan Riau,NULL,1.08,104.48,18
+Tanjung Selor,5590,Kalimantan Utara,NULL,2.85,117.32,24
+Tanout,5591,Zinder,154238,14.97,8.88,NULL
+Tanta,5592,Egypt,528672,30.78,31,12
+Taoyuan,5593,Taiwan,413488,24.99,121.31,NULL
+Tapachula,5594,Chiapas,217550,14.9,-92.27,177
+Tarakan,5595,Kalimantan Utara,178854,3.3,117.6,24
+Táranto,5596,Puglia,200154,40.47,17.23,15
+Tarapoto,5597,San Martín,151743,-6.48,-76.37,356
+Tarawa,5598,Kiribati,63439,1.43,173,NULL
+Taraz,5599,Zhambyl,351476,42.9,71.37,610
+Targoviste,5600,Dâmboviţa,NULL,44.92,25.46,292
+Târgu Mureş,5601,Mureş,134290,46.55,24.56,320
+Tarija,5602,Tarija,205346,-21.53,-64.73,1854
+Tarlac,5603,Central Luzon,273096,15.48,120.6,24
+Tarnów,5604,Małopolskie,106259,50.01,20.99,190
+Tarragona,5605,Catalunya,136150,41.12,1.25,68
+Tarsus,5606,Mersin,274405,36.92,34.9,NULL
+Tartu,5607,Estonia,95190,58.38,26.72,57.2
+Tartus,5608,Tartus,160862,34.88,35.88,20
+Tasikmalaya,5609,Jawa Barat,635464,-7.33,108.2,NULL
+Tatabánya,5610,Komárom-Esztergom,67753,47.59,18.39,167
+Taubaté,5611,São Paulo,272673,-23.02,-45.56,NULL
+Taunggyi,5612,Shan,380665,20.78,97.03,1399
+Tavoy,5613,Tanintharyi,NULL,14.08,98.2,NULL
+Tawau,5614,Sabah,397673,4.26,117.89,NULL
+Taytay,5615,Calabarzon,319104,14.57,121.13,NULL
+Tbilisi,5616,Georgia,1078297,41.72,44.78,380
+Tébessa,5617,Algeria,194461,35.4,8.12,858
+Techiman,5618,Bono East,67241,7.58,-1.93,NULL
+Tegal,5619,Jawa Tengah,239599,-6.87,109.13,5
+Tegucigalpa,5620,Francisco Morazán,996658,14.1,-87.22,990
+Tehran,5621,Tehran,8693706,35.7,51.42,1200
+Tehuacán,5622,Puebla,293825,18.47,-97.4,NULL
+Tekirdag,5623,Tekirdağ,182143,40.98,27.52,NULL
+Tel Aviv-Yafo,5624,Tel Aviv,460613,32.07,34.78,5
+Telde,5625,Canarias,103175,27.98,-15.42,130
+Telford,5626,West Midlands,155570,52.68,-2.45,NULL
+Tema,5627,Greater Accra,139784,5.67,0,5
+Temara,5628,Rabat Sale Zemmour Zaer,313510,33.93,-6.91,NULL
+Tembisa,5629,Gauteng,463109,-26.01,28.21,1549
+Temirtau,5630,Karaganda,175632,50.05,72.95,NULL
+Tempe,5631,Arizona,180587,33.43,-111.94,348
+Temuco,5632,Araucanía,278513,-38.73,-72.67,360
+Tengzhou,5633,Shandong,937438,35.08,117.15,NULL
+Teófilo Otoni,5634,Minas Gerais,110076,-17.86,-41.5,334
+Tepic,5635,Nayarit,371387,21.51,-104.89,920
+Teresina,5636,Piauí,767557,-5.09,-42.8,87
+Teresópolis,5637,Rio de Janeiro,146207,-22.41,-42.97,871
+Termiz,5638,Surkhandarya,179572,37.22,67.28,302
+Ternate,5639,Maluku Utara,NULL,0.68,127.4,NULL
+Terni,5640,Umbria,109193,42.57,12.65,130
+Ternopil,5641,Ternopilska,223938,49.57,25.6,320
+Terrassa,5642,Catalunya,222576,41.56,2.01,286
+Tessaoua,5643,Maradi,172796,13.75,7.98,NULL
+Tete,5644,Tete,307338,-16.17,33.6,140
+Tétouan,5645,Tanger Tetouan,380787,35.57,-5.37,90
+Thai Nguyen,5646,Northern Midlands and Mountains,249004,21.6,105.85,NULL
+Thane,5647,Maharashtra,1841488,19.17,72.96,NULL
+Thanh Pho Ho Chi Minh,5648,Southeast,7004921,10.78,106.7,19
+The Valley,5649,Anguilla,NULL,18.22,-63.05,9
+Thessaloniki,5650,Kentrikis Makedonias,325182,40.65,22.9,5
+Thiès,5651,Thiès,317763,14.78,-16.92,NULL
+Thimphu,5652,Bhutan,114551,27.47,89.64,2334
+Thousand Oaks,5653,California,126966,34.19,-118.87,270
+Thunder Bay,5654,Ontario,108359,48.38,-89.25,199
+Tianjin,5655,Tianjin,11052404,39.13,117.18,5
+Tianshui,5656,Gansu,752900,34.58,105.73,1171
+Tidjikja,5657,Tagant,NULL,18.55,-11.43,NULL
+Tijuana,5658,Baja California,1810645,32.53,-117.03,20
+Tilburg,5659,Noord-Brabant,210283,51.55,5.08,14
+Tillaberi,5660,Tillabéri,NULL,14.22,1.45,NULL
+Timişoara,5661,Timiş,319279,45.76,21.23,90
+Timon,5662,Maranhão,135133,-5.09,-42.84,NULL
+Tipitapa,5663,Nicaragua,130627,12.2,-86.1,50
+Tirana,5664,Albania,418495,41.33,19.82,110
+Tiraspol,5665,Moldova,148917,46.85,29.63,NULL
+Tirgu Jiu,5666,Gorj,NULL,45.03,23.27,NULL
+Tiruchirappalli,5667,Tamil Nadu,387223,10.81,78.69,88
+Tlalnepantla,5668,"México, Estado de",658907,19.54,-99.19,2250
+Tlaquepaque,5669,Jalisco,650123,20.67,-103.35,1870
+Tlaxcala,5670,Tlaxcala,14692,19.3,-98.23,2239
+Tlemcen,5671,Algeria,173531,34.88,-1.32,842
+Tobolsk,5672,Tyumenskaya,100352,58.2,68.27,90
+Tokat,5673,Tokat,161169,40.31,36.55,623
+Tokchon,5674,North Korea,237133,39.75,126.33,NULL
+Tokushima,5675,Tokushima,258554,34.07,134.55,NULL
+Tokyo,5676,Tokyo,9272740,35.68,139.68,NULL
+Toledo,5677,Castilla-La Mancha,NULL,39.86,-4.02,529
+Toledo,5678,Central Visayas,170335,10.38,123.65,NULL
+Toledo,5679,Ohio,270871,41.67,-83.58,187
+Toliara,5680,Madagascar,168756,-23.35,43.67,NULL
+Toluca,5681,"México, Estado de",910608,19.29,-99.66,2660
+Tolyatti,5682,Samarskaya,684709,53.51,49.42,90
+Tombouctou,5683,Tombouctou,54629,16.78,-3.01,261
+Tomsk,5684,Tomskaya,556478,56.5,84.97,110
+Tonala,5685,Jalisco,442440,20.62,-103.23,NULL
+Tongi,5686,Dhaka,476349,23.89,90.41,NULL
+Tongliao,5687,Nei Mongol,921808,43.62,122.27,179
+Tonsberg,5688,Vestfold,8984,59.3,10.42,NULL
+Toowoomba,5689,Queensland,140303,-27.55,151.95,691
+Topeka,5690,Kansas,126587,39.06,-95.69,288
+Torino,5691,Piemonte,872367,45.07,7.7,239
+Toronto,5692,Ontario,2615060,43.7,-79.4,76
+Torrance,5693,California,147067,33.83,-118.34,27
+Torre del Greco,5694,Campania,85922,40.78,14.37,NULL
+Torrejón de Ardoz,5695,Madrid,133377,40.46,-3.5,568
+Torreón,5696,Coahuila,690193,25.54,-103.45,1120
+Tórshavn,5697,Faroe Islands,13130,62,-7,NULL
+Toruń,5698,Kujawsko-Pomorskie,198273,53.03,18.62,65
+Toshkent,5699,Toshkent City,2571668,41.27,69.22,455
+Tottori,5700,Tottori,193717,35.5,134.23,NULL
+Tougourt,5701,Algeria,143270,33.1,6.07,62
+Toulon,5702,Provence-Alpes-Côte d'Azur,163974,43.13,5.92,10
+Toulouse,5703,Occitanie,447340,43.6,1.44,115
+Tours,5704,Centre-Val de Loire,134633,47.39,0.69,44
+Townsville,5705,Queensland,184271,-19.26,146.82,NULL
+Toyama,5706,Toyama,418686,36.7,137.22,NULL
+Toyota,5707,Aichi,422542,35.08,137.15,NULL
+Trabzon,5708,Trabzon,292741,41,39.73,5
+Trenčín,5709,Trenčiansky,54740,48.89,18.04,211
+Trento,5710,Trentino-Alto Adige,114198,46.07,11.12,190
+Trenton,5711,New Jersey,90871,40.22,-74.76,15
+Trier,5712,Rheinland-Pfalz,105671,49.75,6.63,137
+Trieste,5713,Friuli-Venezia Giulia,202123,45.63,13.8,2
+Trinidad,5714,Beni,106422,-14.83,-64.9,130
+Tripoli,5715,Peloponnisos,NULL,37.52,22.38,655
+Tripoli,5716,Libya,1170000,32.9,13.19,81
+Trivandrum,5717,Kerala,752490,8.49,76.95,10
+Trnava,5718,Trnavský,63803,48.38,17.59,146
+Tromsø,5719,Troms,48109,69.68,18.94,NULL
+Trondheim,5720,Sør-Trøndelag,179692,63.43,10.39,3
+Trujillo,5721,Colón,NULL,15.92,-86,NULL
+Trujillo,5722,La Libertad,908209,-8.11,-79.03,34
+Trujillo,5723,Trujillo,NULL,9.42,-70.5,NULL
+Tshikapa,5724,Kasai,621820,-6.42,20.8,485
+Tshwane,5725,Gauteng,2921488,-25.75,28.19,1339
+Tsu,5726,Mie,279886,34.72,136.5,NULL
+Tucson,5727,Arizona,542629,32.22,-110.93,728
+Tucupita,5728,Delta Amacuro,NULL,9.06,-62.07,5
+Tuen Mun,5729,Hong Kong,465428,22.39,113.97,NULL
+Tuguegarao,5730,Cagayan Valley,126021,17.62,121.72,NULL
+Tula,5731,Tulskaya,473622,54.2,37.62,170
+Tulcea,5732,Tulcea,NULL,45.19,28.8,30
+Tulsa,5733,Oklahoma,413066,36.13,-95.94,220
+Tuluá,5734,Valle de Cauca,174951,4.08,-76.2,960
+Tumbes,5735,Tumbes,101490,-3.57,-80.45,6
+Tunceli,5736,Tunceli,NULL,39.1,39.55,940
+Tunis,5737,Tunisia,637568,36.8,10.18,4
+Tunja,5738,Boyacá,163894,5.53,-73.37,2820
+Turbat,5739,Balochistan,213557,26,63.05,129
+Turkmenabat,5740,Lebap,189200,39.08,63.57,187
+Turku,5741,Varsinais-Suomi,182154,60.45,22.27,NULL
+Tuxtla Gutiérrez,5742,Chiapas,578830,16.75,-93.12,522
+Tuzla,5743,Federacija Bosne i Hercegovine,120441,44.54,18.68,245
+Tver,5744,Tverskaya,416219,56.86,35.92,135
+Tychy,5745,Śląskie,124882,50.13,18.98,NULL
+Tyumen,5746,Tyumenskaya,847488,57.15,65.53,70
+Uberaba,5747,Minas Gerais,289376,-19.75,-47.93,823
+Uberlândia,5748,Minas Gerais,587266,-18.92,-48.29,863
+Ufa,5749,Bashkortostan,1144809,54.75,55.97,150
+Uige,5750,Uíge,493529,-7.62,15.05,858
+Ujjain,5751,Madhya Pradesh,362633,23.18,75.78,NULL
+Ukhta,5752,Komi,99591,63.57,53.7,100
+Ulaanbaatar,5753,Mongolia,1395773,47.92,106.92,1350
+Ulan-Ude,5754,Buryatiya,437565,51.83,107.6,530
+Ulhasnagar,5755,Maharashtra,369077,19.22,73.15,19
+Ulm,5756,Baden-Württemberg,116761,48.4,9.98,478
+Ulsan,5757,South Korea,1135423,35.55,129.32,NULL
+Ulyanovsk,5758,Ulyanovskaya,617352,54.32,48.37,140
+Umeå,5759,Västerbotten,117294,63.83,20.26,12
+Umuahia,5760,Abia,330000,5.53,7.48,NULL
+Unión Chocó,5761,Emberá,NULL,8.08,-77.55,NULL
+Uppsala,5762,Uppsala,202625,59.86,17.64,15
+Urganch,5763,Xorazm,143750,41.55,60.63,91
+Uruapan,5764,Michoacán,299523,19.42,-102.06,1620
+Uruguaiana,5765,Rio Grande do Sul,117415,-29.75,-57.09,66
+Usak,5766,Uşak,226486,38.68,29.4,890
+Ushuaia,5767,Tierra del Fuego,56825,-54.8,-68.3,23
+Ussurijsk,5768,Primorskiy,180393,43.8,131.97,20
+Ust-Ilimsk,5769,Irkutskaya,86610,58,102.67,300
+Ústí nad Labem,5770,Ústecký,89713,50.66,14.04,218
+Utrecht,5771,Utrecht,330081,52.08,5.12,5
+Utsunomiya,5772,Tochigi,518594,36.55,139.88,NULL
+Uvira,5773,Sud-Kivu,378736,-3.37,29.14,746
+Uyo,5774,Akwa Ibom,NULL,5.03,7.92,65
+Uzhhorod,5775,Zakarpatska,115542,48.62,22.3,169
+Vaasa,5776,Pohjanmaa,66415,63.1,21.62,NULL
+Vadodara,5777,Gujarat,1670806,22.3,73.2,129
+Vadsø,5778,Finnmark,5961,70.08,29.73,6
+Vaduz,5779,Liechtenstein,5741,47.14,9.52,455
+Valdivia,5780,Ríos,150727,-39.81,-73.25,5
+Valencia,5781,Valenciana,788842,39.47,-0.38,15
+Valencia,5782,Northern Mindanao,192993,7.9,125.08,373
+Valencia,5783,Carabobo,1210612,10.18,-68,520
+Valenzuela,5784,Metro Manila,620422,14.7,120.98,38
+Valladolid,5785,Castilla y León,297370,41.63,-4.72,698
+Valledupar,5786,Cesar,431794,10.48,-73.25,180
+Vallejo,5787,California,126090,38.11,-122.24,21
+Valletta,5788,Malta,5157,35.9,14.51,56
+Valparaíso,5789,Valparaíso,901468,-33.05,-71.62,10
+Van,5790,Van,514479,38.49,43.38,1730
+Vancouver,5791,British Columbia,631486,49.25,-123.1,10
+Vancouver,5792,Washington,190915,45.63,-122.6,52
+Vänersborg,5793,Västra Götaland,35804,58.38,12.33,NULL
+Varanasi,5794,Uttar Pradesh,1198491,25.28,82.96,80.71
+Varginha,5795,Minas Gerais,119061,-21.55,-45.43,980
+Varna,5796,Bulgaria,332394,43.22,27.92,80
+Várzea Grande,5797,Mato Grosso,248704,-15.65,-56.13,198
+Vaslui,5798,Vaslui,NULL,46.64,27.73,110
+Västerås,5799,Västmanland,140499,59.62,16.55,17
+Vatican City,5800,Vatican City,826,41.9,12.45,NULL
+Vaughan,5801,Ontario,288301,43.83,-79.5,NULL
+Växjö,5802,Kronoberg,84800,56.88,14.81,167
+Vejle,5803,Syddanmark,53975,55.72,9.53,8
+Velikij Novgorod,5804,Novgorodskaya,224286,58.55,31.27,25
+Venézia,5805,Veneto,261362,45.44,12.34,1
+Veracruz,5806,Veracruz,537963,19.43,-96.38,NULL
+Verona,5807,Veneto,252520,45.43,10.98,59
+Veszprém,5808,Veszprém,61721,47.09,17.91,266
+Viamão,5809,Rio Grande do Sul,224943,-30.08,-51.02,9
+Viana do Castelo,5810,Viana do Castelo,NULL,41.7,-8.83,15
+Viborg,5811,Midtjylland,NULL,56.45,9.4,51
+Vicenza,5812,Veneto,111500,45.55,11.55,39
+Victoria,5813,British Columbia,NULL,48.43,-123.37,23
+Victoria,5814,Hong Kong,923028,22.28,114.15,NULL
+Victoria,5815,Malta,7242,36.04,14.24,NULL
+Victoria,5816,Seychelles,24087,-4.62,55.45,10
+Victoria de las Tunas,5817,Las Tunas,162957,20.96,-76.95,92
+Viedma,5818,Río Negro,52789,-40.83,-62.97,12
+Vientiane,5819,Laos,620157,17.97,102.6,174
+Vigo,5820,Galicia,294650,42.23,-8.71,62
+Vijayawada,5821,Andhra Pradesh,1034358,16.51,80.64,23
+Vila Nova de Gaia,5822,Porto,188660,41.13,-8.62,NULL
+Vila Real,5823,Vila Real,NULL,41.3,-7.75,450
+Vila Velha,5824,Espírito Santo,412575,-20.34,-40.29,4
+Villa Nueva,5825,Guatemala,426316,14.53,-90.59,1330
+Villach,5826,Kärnten,59324,46.62,13.85,501
+Villahermosa,5827,Tabasco,340060,17.99,-92.93,20
+Villavicencio,5828,Meta,492052,4.15,-73.63,467
+Villeurbanne,5829,Auvergne-Rhône-Alpes,145034,45.77,4.88,165
+Vilnius,5830,Lithuania,546155,54.68,25.28,112
+Vinh,5831,North and South Central Coast,230439,18.67,105.67,NULL
+Vinnytsia,5832,Vinnytska,370601,49.23,28.48,NULL
+Viranşehir,5833,Şanlıurfa,115903,37.23,39.76,620
+Virginia Beach,5834,Virginia,459470,36.85,-75.98,3
+Visakhapatnam,5835,Andhra Pradesh,1728128,17.69,83.22,54
+Visby,5836,Gotland,20000,57.63,18.3,NULL
+Viseu,5837,Viseu,60570,40.67,-7.92,NULL
+Vitebsk,5838,Vitebsk,355062,55.18,30.17,172
+Vitória,5839,Espírito Santo,327801,-20.32,-40.34,4
+Vitoria-Gasteiz,5840,Euskadi,252953,42.85,-2.68,525
+Vitória da Conquista,5841,Bahia,274739,-14.87,-40.84,923
+Vitória de Santo Antão,5842,Pernambuco,113429,-8.12,-35.3,147
+Vladikavkaz,5843,North Ossetia-Alania,295830,43.02,44.65,680
+Vladimir,5844,Vladimirskaya,349951,56.13,40.42,150
+Vladivostok,5845,Primorskiy,592034,43.13,131.9,40
+Vlorë,5846,Albania,79513,40.47,19.49,25
+Volgodonsk,5847,Rostovskaya,168048,47.52,42.15,50
+Volgograd,5848,Volgogradskaya,1028036,48.7,44.52,80
+Vologda,5849,Vologodskaya,313944,59.22,39.9,120
+Volos,5850,Thessalias,144449,39.37,22.93,5
+Volta Redonda,5851,Rio de Janeiro,257686,-22.52,-44.1,390
+Volzhsky,5852,Volgogradskaya,321479,48.81,44.74,20
+Vorkuta,5853,Komi,70548,67.5,64.03,180
+Voronezh,5854,Voronezhskaya,1057681,51.67,39.21,154
+Vung Tau,5855,Southeast,341552,10.38,107.12,NULL
+Vwawa,5856,Songwe,NULL,-9.1,32.92,1602
+Wa,5857,Upper West,71051,10.07,-2.5,305
+Waco,5858,Texas,138486,31.55,-97.16,143
+Wah Cantonment,5859,Punjab,380103,33.77,72.75,471
+Wakayama,5860,Wakayama,364154,34.23,135.17,NULL
+Wakefield,5861,Yorkshire and the Humber,109766,53.68,-1.5,NULL
+Wałbrzych,5862,Dolnośląskie,104401,50.77,16.28,350
+Walvis Bay,5863,Namibia,62096,-22.95,14.5,10
+Wanzhou,5864,Sichuan,1078149,30.81,108.41,NULL
+Warangal,5865,Telangana,447653,18,79.58,302
+Warren,5866,Michigan,139387,42.49,-83.02,191
+Warri,5867,Delta,915000,5.52,5.75,NULL
+Warrington,5868,North West England,173365,53.39,-2.6,NULL
+Warszawa,5869,Mazowieckie,1860281,52.23,21.02,78
+Washington,5870,District of Columbia,689545,38.5,-77,7
+Waterbury,5871,Connecticut,114403,41.56,-73.04,82
+Watford,5872,East of England,148069,51.66,-0.4,71
+Wavre,5873,Brabant Wallon,NULL,50.72,4.6,NULL
+Weifang,5874,Shandong,1998405,36.72,119.1,32
+Weihai,5875,Shandong,1339645,37.52,122.12,NULL
+Wellington,5876,New Zealand,210200,-41.29,174.78,10
+Wels,5877,Oberösterreich,58591,48.15,14.02,317
+Wenling,5878,Zhejiang,920913,28.04,121.04,NULL
+Wenzhou,5879,Zhejiang,2582084,28,120.7,NULL
+West Covina,5880,California,109501,34.06,-117.92,117
+West Island,5881,Cocos Islands,NULL,-12.1,96.5,NULL
+Whitehorse,5882,Yukon,23276,60.72,-135.05,670
+Wiawso,5883,Western North,NULL,6.21,-2.59,60
+Wichita,5884,Kansas,397532,37.69,-97.34,396
+Wichita Falls,5885,Texas,102316,33.9,-98.51,289
+Wien,5886,Wien,1714227,48.2,16.37,151
+Wiesbaden,5887,Hessen,269121,50.08,8.24,117
+Wigan,5888,North West England,105690,53.54,-2.63,NULL
+Willemstad,5889,Curacao,136660,12.1,-68.9,NULL
+Windhoek,5890,Namibia,325858,-22.57,17.08,1655
+Windsor,5891,Ontario,210891,42.28,-83,190
+Winnipeg,5892,Manitoba,663617,49.9,-97.14,230
+Winston-Salem,5893,North Carolina,249545,36.1,-80.26,296
+Winterthur,5894,Zürich,114220,47.5,8.75,439
+Witten,5895,Nordrhein-Westfalen,96382,51.43,7.33,104
+Włocławek,5896,Kujawsko-Pomorskie,104705,52.66,19.07,NULL
+Woking,5897,South East England,111766,51.32,-0.56,NULL
+Wolfsburg,5898,Niedersachsen,119984,52.42,10.79,63
+Wollongong,5899,New South Wales,312167,-34.43,150.88,5
+Wolverhampton,5900,West Midlands,218488,52.58,-2.13,NULL
+Wonsan,5901,North Korea,363127,39.15,127.45,NULL
+Worcester,5902,West Midlands,105491,52.19,-2.22,NULL
+Worcester,5903,Massachusetts,206518,42.27,-71.8,146
+Worthing,5904,South East England,116192,50.81,-0.37,7
+Wrocław,5905,Dolnośląskie,672929,51.1,17.03,105
+Wuhan,5906,Hubei,10392693,30.58,114.28,37
+Wuhu,5907,Anhui,1598165,31.37,118.39,7.9
+Wulumuqi,5908,Xinjiang,3864136,43.83,87.6,800
+Wuppertal,5909,Nordrhein-Westfalen,342661,51.27,7.18,160
+Würzburg,5910,Bayern,124297,49.78,9.93,177
+Wuxi,5911,Jiangsu,3956985,31.57,120.3,NULL
+Xai-Xai,5912,Gaza,132884,-25.05,33.65,9
+Xalapa-Enríquez,5913,Veracruz,443063,19.54,-96.93,1417
+Xiamen,5914,Fujian,4617251,24.48,118.09,NULL
+Xian,5915,Shaanxi,9392938,34.27,108.9,405
+Xiangtan,5916,Hunan,978000,27.85,112.9,NULL
+Xiangyang,5917,Hubei,1686403,32.02,112.13,71
+Xianyang,5918,Shaanxi,775062,34.35,108.72,NULL
+Xiaogan,5919,Hubei,775062,30.92,113.9,NULL
+Xingtai,5920,Hebei,1480754,37.07,114.48,NULL
+Xining,5921,Qinghai,1677177,36.63,101.77,2275
+Xintai,5922,Shandong,774715,35.91,117.78,NULL
+Xinxiang,5923,Henan,1271350,35.3,113.87,NULL
+Xinyang,5924,Henan,1014843,32.13,114.05,NULL
+Xinzheng,5925,Henan,787544,34.4,113.74,NULL
+Xuchang,5926,Henan,850403,34.03,113.85,71
+Xuzhou,5927,Jiangsu,2845552,32.9,119.8,NULL
+Yakutsk,5928,Sakha,355443,62.03,129.73,120
+Yalova,5929,Yalova,135355,40.66,29.28,NULL
+Yamagata,5930,Yamagata,253832,38.25,140.33,NULL
+Yamaguchi,5931,Yamaguchi,197422,34.18,131.47,NULL
+Yamoussoukro,5932,Yamoussoukro,212670,6.82,-5.28,NULL
+Yanbu al-Bahr,5933,Al-Madinah Al-Monawarah,233236,24.08,38.06,NULL
+Yancheng,5934,Jiangsu,1353475,33.38,120.12,NULL
+Yangjiang,5935,Guangdong,859595,21.85,111.97,4
+Yangon,5936,Yangon,5209541,16.85,96.18,15
+Yangzhou,5937,Jiangsu,2067254,32.4,119.42,NULL
+Yantai,5938,Shandong,2311885,37.53,121.39,NULL
+Yaoundé,5939,Centre,2765600,3.87,11.52,726
+Yaren,5940,Nauru,NULL,-0.55,166.92,NULL
+Yaroslavl,5941,Yaroslavskaya,577279,57.62,39.85,100
+Yasuj,5942,Kohgiluyeh and Boyer-Ahmad,134532,30.67,51.59,2004
+Yazd,5943,Yazd,529673,31.9,54.37,1216
+Yekaterinburg,5944,Sverdlovskaya,1544376,56.83,60.58,237
+Yellowknife,5945,Northwest Territories,19234,62.44,-114.4,206
+Yenagoa,5946,Bayelsa,330000,5.03,6.33,NULL
+Yeosu,5947,South Korea,271505,34.73,127.73,NULL
+Yerevan,5948,Armenia,1066264,40.18,44.52,989.4
+Yerushalayim,5949,Yerushalayim,936425,31.78,35.22,754
+Yevpatoria,5950,Krym,108149,45.19,33.37,10
+Yibin,5951,Sichuan,1100737,28.77,104.62,321
+Yichang,5952,Hubei,1284305,30.72,111.28,58
+Yinchuan,5953,Ningxia,1662968,38.47,106.27,1100
+Yining,5954,Xinjiang,515082,43.92,81.32,NULL
+Yiwu,5955,Zhejiang,1481384,29.3,120.08,NULL
+Yixing,5956,Jiangsu,889871,31.36,119.82,NULL
+Yiyang,5957,Hunan,758408,28.58,112.33,NULL
+Yogyakarta,5958,DI Yogyakarta,388627,-7.8,110.36,113
+Yokohama,5959,Kanagawa,3724844,35.44,139.64,NULL
+Yokosuka,5960,Kanagawa,406586,35.25,139.67,NULL
+Yola,5961,Adamawa,400000,9.23,12.46,599
+Yongchuan,5962,Chongqing,803458,29.37,105.93,255
+Yongin,5963,South Korea,1066975,37.23,127.2,NULL
+Yonkers,5964,New York,211569,40.94,-73.86,25
+Yopal,5965,Casanare,143619,5.35,-72.41,350
+York,5966,Yorkshire and the Humber,156135,53.96,-1.08,NULL
+Yoro,5967,Yoro,NULL,15.13,-87.13,NULL
+Yoshkar-Ola,5968,Mariy-El,281248,56.65,47.88,100
+Yozgat,5969,Yozgat,92840,39.82,34.81,1300
+Yuci,5970,Shanxi,191356,37.62,112.85,NULL
+Yueqing,5971,Zhejiang,949823,28.12,120.98,NULL
+Yueyang,5972,Hunan,1125448,29.37,113.43,NULL
+Yulin,5973,Guangxi,877561,22.65,110.28,NULL
+Yuscaran,5974,El Paraíso,NULL,13.93,-86.82,1007
+Yuyao,5975,Zhejiang,1013866,30.05,121.15,NULL
+Zaanstad,5976,Noord-Holland,151058,52.43,4.82,1
+Zabrze,5977,Śląskie,158307,50.3,18.78,NULL
+Zacatecas,5978,Zacatecas,138444,22.77,-102.58,2440
+Zadar,5979,Croatia,67309,44.11,15.23,10
+Zagreb,5980,Croatia,663592,45.82,15.98,158
+Zahedan,5981,Sistan and Baluchestan,587730,29.5,60.86,1352
+Zalaegerszeg,5982,Zala,59499,46.85,16.85,166
+Zalau,5983,Sălaj,NULL,47.19,23.06,275
+Zālingay,5984,Wasaṭ Dārfūr,NULL,12.9,23.48,NULL
+Zamboanga,5985,Zamboanga Peninsula,695176,6.92,122.08,16
+Zamora de Hidalgo,5986,Michoacán,154546,19.98,-102.28,1580
+Zanjan,5987,Zanjan,430871,36.67,48.48,1638
+Zanzibar,5988,Zanzibar,501459,-6.13,39.32,NULL
+Zaozhuang,5989,Shandong,1349883,34.87,117.55,NULL
+Zapopan,5990,Jalisco,1257547,20.72,-103.39,1571
+Zaporizhzhia,5991,Zaporizka,722713,47.83,35.17,86
+Zaragoza,5992,Aragón,681430,41.65,-0.88,243
+Zaria,5993,Kaduna,895000,11.07,7.7,NULL
+Zarqa,5994,Jordan,635160,32.08,36.1,619
+Zenica,5995,Federacija Bosne i Hercegovine,115134,44.2,17.91,316
+Zhangjiagang,5996,Jiangsu,1055893,31.87,120.55,NULL
+Zhangjiakou,5997,Hebei,1339384,40.77,114.88,716
+Zhangzhou,5998,Fujian,845286,24.52,117.65,NULL
+Zhanjiang,5999,Guangdong,1400709,21.2,110.4,21
+Zhaoqing,6000,Guangdong,1150263,23.05,112.47,12
+Zhengzhou,6001,Henan,6461013,34.77,113.65,NULL
+Zhenjiang,6002,Jiangsu,1123813,32.2,119.42,NULL
+Zhezkazgan,6003,Karaganda,84765,47.78,67.7,300
+Zhongshan,6004,Guangdong,3841873,22.53,113.35,11
+Zhoushan,6005,Zhejiang,882932,30.17,122.4,NULL
+Zhuhai,6006,Guangdong,2207090,22.28,113.57,36
+Zhumadian,6007,Henan,754320,32.98,114.03,NULL
+Zhuzhou,6008,Hunan,1510148,27.85,113.13,NULL
+Zibo,6009,Shandong,2750312,36.78,118.05,7
+Zielona Góra,6010,Lubuskie,140002,51.93,15.5,71
+Zigong,6011,Sichuan,868565,29.34,104.77,NULL
+Ziguinchor,6012,Ziguinchor,205294,12.56,-16.28,12
+Žilina,6013,Žilinský,82656,49.22,18.74,342
+Zinder,6014,Zinder,322935,13.81,8.99,479
+Zlatoust,6015,Chelyabinskaya,161774,55.17,59.67,440
+Zlín,6016,Zlínský,74178,49.23,17.67,230
+Zonguldak,6017,Zonguldak,103079,41.46,31.8,60
+Zouerate,6018,Tiris Zemmour,NULL,22.68,-12.47,380
+Zug,6019,Zug,NULL,47.17,8.52,425
+Žukovskij,6020,Moskovskaya,111222,55.6,38.12,130
+Zunyi,6021,Guizhou,1675245,27.68,106.9,865
+Zürich,6022,Zürich,421878,47.37,8.55,408
+Zwickau,6023,Sachsen,93081,50.72,12.5,267
+Zwolle,6024,Overijssel,123440,52.52,6.1,4
+Zytomyr,6025,Zytomyrska,263507,50.25,28.67,221
